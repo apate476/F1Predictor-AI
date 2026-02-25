@@ -1,0 +1,480 @@
+year,round,race_name,circuit,date,driver,driver_name,team,grid_position,finish_position,points,status,laps_completed,fastest_lap_rank
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,NOR,Lando Norris,McLaren,1,1,25.0,Finished,57,1
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,VER,Max Verstappen,Red Bull,3,2,18.0,Finished,57,3
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,RUS,George Russell,Mercedes,4,3,15.0,Finished,57,11
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,ANT,Andrea Kimi Antonelli,Mercedes,16,4,12.0,Finished,57,9
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,ALB,Alexander Albon,Williams,6,5,10.0,Finished,57,8
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,STR,Lance Stroll,Aston Martin,13,6,8.0,Finished,57,14
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,HUL,Nico Hülkenberg,Sauber,17,7,6.0,Finished,57,12
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,LEC,Charles Leclerc,Ferrari,7,8,4.0,Finished,57,13
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,PIA,Oscar Piastri,McLaren,2,9,2.0,Finished,57,4
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,HAM,Lewis Hamilton,Ferrari,8,10,1.0,Finished,57,7
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,GAS,Pierre Gasly,Alpine F1 Team,9,11,0.0,Finished,57,10
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,TSU,Yuki Tsunoda,RB F1 Team,5,12,0.0,Finished,57,6
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,OCO,Esteban Ocon,Haas F1 Team,19,13,0.0,Finished,57,15
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,BEA,Oliver Bearman,Haas F1 Team,20,14,0.0,Finished,57,16
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,LAW,Liam Lawson,Red Bull,18,15,0.0,Retired,46,2
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,BOR,Gabriel Bortoleto,Sauber,15,16,0.0,Retired,45,5
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,ALO,Fernando Alonso,Aston Martin,12,17,0.0,Retired,32,17
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,SAI,Carlos Sainz,Williams,10,18,0.0,Retired,0,
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,DOO,Jack Doohan,Alpine F1 Team,14,19,0.0,Retired,0,
+2025,1,Australian Grand Prix,Albert Park Grand Prix Circuit,2025-03-16,HAD,Isack Hadjar,RB F1 Team,11,20,0.0,Retired,0,
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,PIA,Oscar Piastri,McLaren,1,1,25.0,Finished,56,3
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,NOR,Lando Norris,McLaren,3,2,18.0,Finished,56,1
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,RUS,George Russell,Mercedes,2,3,15.0,Finished,56,5
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,VER,Max Verstappen,Red Bull,4,4,12.0,Finished,56,2
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,OCO,Esteban Ocon,Haas F1 Team,11,5,10.0,Finished,56,4
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,ANT,Andrea Kimi Antonelli,Mercedes,8,6,8.0,Finished,56,11
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,ALB,Alexander Albon,Williams,10,7,6.0,Finished,56,12
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,BEA,Oliver Bearman,Haas F1 Team,17,8,4.0,Finished,56,13
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,STR,Lance Stroll,Aston Martin,14,9,2.0,Finished,56,10
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,SAI,Carlos Sainz,Williams,15,10,1.0,Finished,56,15
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,HAD,Isack Hadjar,RB F1 Team,7,11,0.0,Finished,56,6
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,LAW,Liam Lawson,Red Bull,20,12,0.0,Finished,56,9
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,DOO,Jack Doohan,Alpine F1 Team,18,13,0.0,Finished,56,14
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,BOR,Gabriel Bortoleto,Sauber,19,14,0.0,Lapped,55,8
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,HUL,Nico Hülkenberg,Sauber,12,15,0.0,Lapped,55,16
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,TSU,Yuki Tsunoda,RB F1 Team,9,16,0.0,Lapped,55,7
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,ALO,Fernando Alonso,Aston Martin,13,17,0.0,Retired,4,17
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,LEC,Charles Leclerc,Ferrari,6,18,0.0,Disqualified,0,
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,HAM,Lewis Hamilton,Ferrari,5,19,0.0,Disqualified,0,
+2025,2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,GAS,Pierre Gasly,Alpine F1 Team,16,20,0.0,Disqualified,0,
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,VER,Max Verstappen,Red Bull,1,1,25.0,Finished,53,3
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,NOR,Lando Norris,McLaren,2,2,18.0,Finished,53,5
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,PIA,Oscar Piastri,McLaren,3,3,15.0,Finished,53,2
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,LEC,Charles Leclerc,Ferrari,4,4,12.0,Finished,53,10
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,RUS,George Russell,Mercedes,5,5,10.0,Finished,53,8
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,ANT,Andrea Kimi Antonelli,Mercedes,6,6,8.0,Finished,53,1
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,HAM,Lewis Hamilton,Ferrari,8,7,6.0,Finished,53,9
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,HAD,Isack Hadjar,RB F1 Team,7,8,4.0,Finished,53,7
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,ALB,Alexander Albon,Williams,9,9,2.0,Finished,53,6
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,BEA,Oliver Bearman,Haas F1 Team,10,10,1.0,Finished,53,15
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,ALO,Fernando Alonso,Aston Martin,12,11,0.0,Finished,53,11
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,TSU,Yuki Tsunoda,Red Bull,14,12,0.0,Finished,53,13
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,GAS,Pierre Gasly,Alpine F1 Team,11,13,0.0,Finished,53,12
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,SAI,Carlos Sainz,Williams,15,14,0.0,Finished,53,4
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,DOO,Jack Doohan,Alpine F1 Team,19,15,0.0,Finished,53,20
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,HUL,Nico Hülkenberg,Sauber,16,16,0.0,Finished,53,19
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,LAW,Liam Lawson,RB F1 Team,13,17,0.0,Finished,53,17
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,OCO,Esteban Ocon,Haas F1 Team,18,18,0.0,Finished,53,14
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,BOR,Gabriel Bortoleto,Sauber,17,19,0.0,Finished,53,16
+2025,3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,STR,Lance Stroll,Aston Martin,20,20,0.0,Lapped,52,18
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,PIA,Oscar Piastri,McLaren,1,1,25.0,Finished,57,1
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,RUS,George Russell,Mercedes,3,2,18.0,Finished,57,2
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,NOR,Lando Norris,McLaren,6,3,15.0,Finished,57,3
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,LEC,Charles Leclerc,Ferrari,2,4,12.0,Finished,57,4
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,HAM,Lewis Hamilton,Ferrari,9,5,10.0,Finished,57,6
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,VER,Max Verstappen,Red Bull,7,6,8.0,Finished,57,5
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,GAS,Pierre Gasly,Alpine F1 Team,4,7,6.0,Finished,57,7
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,OCO,Esteban Ocon,Haas F1 Team,14,8,4.0,Finished,57,12
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,TSU,Yuki Tsunoda,Red Bull,10,9,2.0,Finished,57,14
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,BEA,Oliver Bearman,Haas F1 Team,20,10,1.0,Finished,57,15
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,ANT,Andrea Kimi Antonelli,Mercedes,5,11,0.0,Finished,57,9
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,ALB,Alexander Albon,Williams,15,12,0.0,Finished,57,13
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,HAD,Isack Hadjar,RB F1 Team,12,13,0.0,Finished,57,10
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,DOO,Jack Doohan,Alpine F1 Team,11,14,0.0,Finished,57,8
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,ALO,Fernando Alonso,Aston Martin,13,15,0.0,Finished,57,17
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,LAW,Liam Lawson,RB F1 Team,17,16,0.0,Finished,57,16
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,STR,Lance Stroll,Aston Martin,19,17,0.0,Finished,57,19
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,BOR,Gabriel Bortoleto,Sauber,18,18,0.0,Finished,57,18
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,SAI,Carlos Sainz,Williams,8,19,0.0,Retired,45,11
+2025,4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,HUL,Nico Hülkenberg,Sauber,16,20,0.0,Disqualified,0,
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,PIA,Oscar Piastri,McLaren,2,1,25.0,Finished,50,3
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,VER,Max Verstappen,Red Bull,1,2,18.0,Finished,50,4
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,LEC,Charles Leclerc,Ferrari,4,3,15.0,Finished,50,2
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,NOR,Lando Norris,McLaren,10,4,12.0,Finished,50,1
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,RUS,George Russell,Mercedes,3,5,10.0,Finished,50,9
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,ANT,Andrea Kimi Antonelli,Mercedes,5,6,8.0,Finished,50,5
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,HAM,Lewis Hamilton,Ferrari,7,7,6.0,Finished,50,7
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,SAI,Carlos Sainz,Williams,6,8,4.0,Finished,50,6
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,ALB,Alexander Albon,Williams,11,9,2.0,Finished,50,16
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,HAD,Isack Hadjar,RB F1 Team,14,10,1.0,Finished,50,14
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,ALO,Fernando Alonso,Aston Martin,13,11,0.0,Finished,50,11
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,LAW,Liam Lawson,RB F1 Team,12,12,0.0,Finished,50,10
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,BEA,Oliver Bearman,Haas F1 Team,15,13,0.0,Finished,50,13
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,OCO,Esteban Ocon,Haas F1 Team,19,14,0.0,Finished,50,17
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,HUL,Nico Hülkenberg,Sauber,18,15,0.0,Lapped,49,15
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,STR,Lance Stroll,Aston Martin,16,16,0.0,Lapped,49,8
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,DOO,Jack Doohan,Alpine F1 Team,17,17,0.0,Lapped,49,12
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,BOR,Gabriel Bortoleto,Sauber,20,18,0.0,Lapped,49,18
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,TSU,Yuki Tsunoda,Red Bull,8,19,0.0,Retired,1,
+2025,5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,GAS,Pierre Gasly,Alpine F1 Team,9,20,0.0,Retired,0,
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,PIA,Oscar Piastri,McLaren,4,1,25.0,Finished,57,2
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,NOR,Lando Norris,McLaren,2,2,18.0,Finished,57,1
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,RUS,George Russell,Mercedes,5,3,15.0,Finished,57,3
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,VER,Max Verstappen,Red Bull,1,4,12.0,Finished,57,5
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,ALB,Alexander Albon,Williams,7,5,10.0,Finished,57,6
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,ANT,Andrea Kimi Antonelli,Mercedes,3,6,8.0,Finished,57,9
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,LEC,Charles Leclerc,Ferrari,8,7,6.0,Finished,57,4
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,HAM,Lewis Hamilton,Ferrari,12,8,4.0,Finished,57,7
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,SAI,Carlos Sainz,Williams,6,9,2.0,Finished,57,8
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,TSU,Yuki Tsunoda,Red Bull,10,10,1.0,Finished,57,10
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,HAD,Isack Hadjar,RB F1 Team,11,11,0.0,Finished,57,11
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,OCO,Esteban Ocon,Haas F1 Team,9,12,0.0,Finished,57,13
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,GAS,Pierre Gasly,Alpine F1 Team,20,13,0.0,Finished,57,14
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,HUL,Nico Hülkenberg,Sauber,16,14,0.0,Lapped,56,12
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,ALO,Fernando Alonso,Aston Martin,17,15,0.0,Lapped,56,15
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,STR,Lance Stroll,Aston Martin,18,16,0.0,Lapped,56,16
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,LAW,Liam Lawson,RB F1 Team,15,17,0.0,Retired,36,17
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,BOR,Gabriel Bortoleto,Sauber,13,18,0.0,Retired,30,18
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,BEA,Oliver Bearman,Haas F1 Team,19,19,0.0,Retired,27,19
+2025,6,Miami Grand Prix,Miami International Autodrome,2025-05-04,DOO,Jack Doohan,Alpine F1 Team,14,20,0.0,Retired,0,
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,VER,Max Verstappen,Red Bull,2,1,25.0,Finished,63,1
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,NOR,Lando Norris,McLaren,4,2,18.0,Finished,63,4
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,PIA,Oscar Piastri,McLaren,1,3,15.0,Finished,63,5
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,HAM,Lewis Hamilton,Ferrari,12,4,12.0,Finished,63,2
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,ALB,Alexander Albon,Williams,7,5,10.0,Finished,63,3
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,LEC,Charles Leclerc,Ferrari,11,6,8.0,Finished,63,6
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,RUS,George Russell,Mercedes,3,7,6.0,Finished,63,9
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,SAI,Carlos Sainz,Williams,6,8,4.0,Finished,63,10
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,HAD,Isack Hadjar,RB F1 Team,9,9,2.0,Finished,63,7
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,TSU,Yuki Tsunoda,Red Bull,20,10,1.0,Finished,63,12
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,ALO,Fernando Alonso,Aston Martin,5,11,0.0,Finished,63,11
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,HUL,Nico Hülkenberg,Sauber,17,12,0.0,Finished,63,15
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,GAS,Pierre Gasly,Alpine F1 Team,10,13,0.0,Finished,63,14
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,LAW,Liam Lawson,RB F1 Team,15,14,0.0,Finished,63,16
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,STR,Lance Stroll,Aston Martin,8,15,0.0,Finished,63,17
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,COL,Franco Colapinto,Alpine F1 Team,16,16,0.0,Finished,63,13
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,BEA,Oliver Bearman,Haas F1 Team,19,17,0.0,Finished,63,8
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,BOR,Gabriel Bortoleto,Sauber,14,18,0.0,Finished,63,19
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,ANT,Andrea Kimi Antonelli,Mercedes,13,19,0.0,Retired,44,18
+2025,7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2025-05-18,OCO,Esteban Ocon,Haas F1 Team,18,20,0.0,Retired,27,20
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,NOR,Lando Norris,McLaren,1,1,25.0,Finished,78,1
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,LEC,Charles Leclerc,Ferrari,2,2,18.0,Finished,78,6
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,PIA,Oscar Piastri,McLaren,3,3,15.0,Finished,78,4
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,VER,Max Verstappen,Red Bull,4,4,12.0,Finished,78,8
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,HAM,Lewis Hamilton,Ferrari,7,5,10.0,Finished,78,7
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,HAD,Isack Hadjar,RB F1 Team,5,6,8.0,Lapped,77,19
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,OCO,Esteban Ocon,Haas F1 Team,8,7,6.0,Lapped,77,14
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,LAW,Liam Lawson,RB F1 Team,9,8,4.0,Lapped,77,17
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,ALB,Alexander Albon,Williams,10,9,2.0,Lapped,76,9
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,SAI,Carlos Sainz,Williams,11,10,1.0,Lapped,76,5
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,RUS,George Russell,Mercedes,14,11,0.0,Lapped,76,2
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,BEA,Oliver Bearman,Haas F1 Team,20,12,0.0,Lapped,76,10
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,COL,Franco Colapinto,Alpine F1 Team,18,13,0.0,Lapped,76,16
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,BOR,Gabriel Bortoleto,Sauber,16,14,0.0,Lapped,76,12
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,STR,Lance Stroll,Aston Martin,19,15,0.0,Lapped,76,11
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,HUL,Nico Hülkenberg,Sauber,13,16,0.0,Lapped,76,15
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,TSU,Yuki Tsunoda,Red Bull,12,17,0.0,Lapped,76,13
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,ANT,Andrea Kimi Antonelli,Mercedes,15,18,0.0,Lapped,75,3
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,ALO,Fernando Alonso,Aston Martin,6,19,0.0,Retired,36,18
+2025,8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,GAS,Pierre Gasly,Alpine F1 Team,17,20,0.0,Retired,7,20
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,PIA,Oscar Piastri,McLaren,1,1,25.0,Finished,66,1
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,NOR,Lando Norris,McLaren,2,2,18.0,Finished,66,2
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,LEC,Charles Leclerc,Ferrari,7,3,15.0,Finished,66,5
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,RUS,George Russell,Mercedes,4,4,12.0,Finished,66,4
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,HUL,Nico Hülkenberg,Sauber,15,5,10.0,Finished,66,6
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,HAM,Lewis Hamilton,Ferrari,5,6,8.0,Finished,66,7
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,HAD,Isack Hadjar,RB F1 Team,9,7,6.0,Finished,66,8
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,GAS,Pierre Gasly,Alpine F1 Team,8,8,4.0,Finished,66,9
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,ALO,Fernando Alonso,Aston Martin,10,9,2.0,Finished,66,11
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,VER,Max Verstappen,Red Bull,3,10,1.0,Finished,66,3
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,LAW,Liam Lawson,RB F1 Team,13,11,0.0,Finished,66,18
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,BOR,Gabriel Bortoleto,Sauber,12,12,0.0,Finished,66,13
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,TSU,Yuki Tsunoda,Red Bull,19,13,0.0,Finished,66,10
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,SAI,Carlos Sainz,Williams,17,14,0.0,Finished,66,17
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,COL,Franco Colapinto,Alpine F1 Team,18,15,0.0,Finished,66,14
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,OCO,Esteban Ocon,Haas F1 Team,16,16,0.0,Finished,66,15
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,BEA,Oliver Bearman,Haas F1 Team,14,17,0.0,Finished,66,16
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,ANT,Andrea Kimi Antonelli,Mercedes,6,18,0.0,Retired,53,12
+2025,9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,ALB,Alexander Albon,Williams,11,19,0.0,Retired,27,19
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,RUS,George Russell,Mercedes,1,1,25.0,Finished,70,1
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,VER,Max Verstappen,Red Bull,2,2,18.0,Finished,70,5
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,ANT,Andrea Kimi Antonelli,Mercedes,4,3,15.0,Finished,70,7
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,PIA,Oscar Piastri,McLaren,3,4,12.0,Finished,70,3
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,LEC,Charles Leclerc,Ferrari,8,5,10.0,Finished,70,4
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,HAM,Lewis Hamilton,Ferrari,5,6,8.0,Finished,70,9
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,ALO,Fernando Alonso,Aston Martin,6,7,6.0,Finished,70,12
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,HUL,Nico Hülkenberg,Sauber,11,8,4.0,Finished,70,14
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,OCO,Esteban Ocon,Haas F1 Team,14,9,2.0,Lapped,69,8
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,SAI,Carlos Sainz,Williams,16,10,1.0,Lapped,69,6
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,BEA,Oliver Bearman,Haas F1 Team,13,11,0.0,Lapped,69,15
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,TSU,Yuki Tsunoda,Red Bull,18,12,0.0,Lapped,69,13
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,COL,Franco Colapinto,Alpine F1 Team,10,13,0.0,Lapped,69,17
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,BOR,Gabriel Bortoleto,Sauber,15,14,0.0,Lapped,69,16
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,GAS,Pierre Gasly,Alpine F1 Team,20,15,0.0,Lapped,69,11
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,HAD,Isack Hadjar,RB F1 Team,12,16,0.0,Lapped,69,19
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,STR,Lance Stroll,Aston Martin,17,17,0.0,Lapped,69,10
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,NOR,Lando Norris,McLaren,7,18,0.0,Retired,66,2
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,LAW,Liam Lawson,RB F1 Team,19,19,0.0,Retired,53,20
+2025,10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,ALB,Alexander Albon,Williams,9,20,0.0,Retired,46,18
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,NOR,Lando Norris,McLaren,1,1,25.0,Finished,70,2
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,PIA,Oscar Piastri,McLaren,3,2,18.0,Finished,70,1
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,LEC,Charles Leclerc,Ferrari,2,3,15.0,Finished,70,4
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,HAM,Lewis Hamilton,Ferrari,4,4,12.0,Finished,70,3
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,RUS,George Russell,Mercedes,5,5,10.0,Finished,70,7
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,LAW,Liam Lawson,RB F1 Team,6,6,8.0,Finished,70,14
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,ALO,Fernando Alonso,Aston Martin,11,7,6.0,Lapped,69,12
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,BOR,Gabriel Bortoleto,Sauber,8,8,4.0,Lapped,69,6
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,HUL,Nico Hülkenberg,Sauber,20,9,2.0,Lapped,69,8
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,OCO,Esteban Ocon,Haas F1 Team,17,10,1.0,Lapped,69,9
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,BEA,Oliver Bearman,Haas F1 Team,15,11,0.0,Lapped,69,13
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,HAD,Isack Hadjar,RB F1 Team,13,12,0.0,Lapped,69,16
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,GAS,Pierre Gasly,Alpine F1 Team,10,13,0.0,Lapped,69,15
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,STR,Lance Stroll,Aston Martin,16,14,0.0,Lapped,69,5
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,COL,Franco Colapinto,Alpine F1 Team,14,15,0.0,Lapped,69,10
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,TSU,Yuki Tsunoda,Red Bull,18,16,0.0,Lapped,68,11
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,ALB,Alexander Albon,Williams,12,17,0.0,Retired,15,17
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,VER,Max Verstappen,Red Bull,7,18,0.0,Retired,0,
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,ANT,Andrea Kimi Antonelli,Mercedes,9,19,0.0,Retired,0,
+2025,11,Austrian Grand Prix,Red Bull Ring,2025-06-29,SAI,Carlos Sainz,Williams,19,20,0.0,Did not start,0,
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,NOR,Lando Norris,McLaren,3,1,25.0,Finished,52,2
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,PIA,Oscar Piastri,McLaren,2,2,18.0,Finished,52,1
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,HUL,Nico Hülkenberg,Sauber,19,3,15.0,Finished,52,14
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,HAM,Lewis Hamilton,Ferrari,5,4,12.0,Finished,52,3
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,VER,Max Verstappen,Red Bull,1,5,10.0,Finished,52,5
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,GAS,Pierre Gasly,Alpine F1 Team,8,6,8.0,Finished,52,8
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,STR,Lance Stroll,Aston Martin,17,7,6.0,Finished,52,15
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,ALB,Alexander Albon,Williams,13,8,4.0,Finished,52,4
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,ALO,Fernando Alonso,Aston Martin,7,9,2.0,Finished,52,6
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,RUS,George Russell,Mercedes,4,10,1.0,Finished,52,11
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,BEA,Oliver Bearman,Haas F1 Team,18,11,0.0,Finished,52,13
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,SAI,Carlos Sainz,Williams,9,12,0.0,Finished,52,7
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,OCO,Esteban Ocon,Haas F1 Team,14,13,0.0,Finished,52,9
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,LEC,Charles Leclerc,Ferrari,6,14,0.0,Finished,52,10
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,TSU,Yuki Tsunoda,Red Bull,11,15,0.0,Lapped,51,12
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,ANT,Andrea Kimi Antonelli,Mercedes,10,16,0.0,Retired,23,17
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,HAD,Isack Hadjar,RB F1 Team,12,17,0.0,Retired,17,16
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,BOR,Gabriel Bortoleto,Sauber,16,18,0.0,Retired,3,18
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,LAW,Liam Lawson,RB F1 Team,15,19,0.0,Retired,0,
+2025,12,British Grand Prix,Silverstone Circuit,2025-07-06,COL,Franco Colapinto,Alpine F1 Team,20,20,0.0,Did not start,0,
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,PIA,Oscar Piastri,McLaren,2,1,25.0,Finished,44,4
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,NOR,Lando Norris,McLaren,1,2,18.0,Finished,44,3
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,LEC,Charles Leclerc,Ferrari,3,3,15.0,Finished,44,9
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,VER,Max Verstappen,Red Bull,4,4,12.0,Finished,44,7
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,RUS,George Russell,Mercedes,6,5,10.0,Finished,44,11
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,ALB,Alexander Albon,Williams,5,6,8.0,Finished,44,15
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,HAM,Lewis Hamilton,Ferrari,18,7,6.0,Finished,44,10
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,LAW,Liam Lawson,RB F1 Team,9,8,4.0,Finished,44,12
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,BOR,Gabriel Bortoleto,Sauber,10,9,2.0,Finished,44,16
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,GAS,Pierre Gasly,Alpine F1 Team,13,10,1.0,Finished,44,17
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,BEA,Oliver Bearman,Haas F1 Team,12,11,0.0,Finished,44,13
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,HUL,Nico Hülkenberg,Sauber,14,12,0.0,Finished,44,2
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,TSU,Yuki Tsunoda,Red Bull,7,13,0.0,Finished,44,19
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,STR,Lance Stroll,Aston Martin,16,14,0.0,Finished,44,18
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,OCO,Esteban Ocon,Haas F1 Team,11,15,0.0,Finished,44,14
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,ANT,Andrea Kimi Antonelli,Mercedes,19,16,0.0,Finished,44,1
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,ALO,Fernando Alonso,Aston Martin,20,17,0.0,Finished,44,5
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,SAI,Carlos Sainz,Williams,17,18,0.0,Finished,44,6
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,COL,Franco Colapinto,Alpine F1 Team,15,19,0.0,Finished,44,8
+2025,13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,HAD,Isack Hadjar,RB F1 Team,8,20,0.0,Lapped,43,20
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,NOR,Lando Norris,McLaren,3,1,25.0,Finished,70,5
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,PIA,Oscar Piastri,McLaren,2,2,18.0,Finished,70,2
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,RUS,George Russell,Mercedes,4,3,15.0,Finished,70,1
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,LEC,Charles Leclerc,Ferrari,1,4,12.0,Finished,70,9
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,ALO,Fernando Alonso,Aston Martin,5,5,10.0,Finished,70,8
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,BOR,Gabriel Bortoleto,Sauber,7,6,8.0,Finished,70,11
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,STR,Lance Stroll,Aston Martin,6,7,6.0,Finished,70,12
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,LAW,Liam Lawson,RB F1 Team,9,8,4.0,Finished,70,10
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,VER,Max Verstappen,Red Bull,8,9,2.0,Finished,70,3
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,ANT,Andrea Kimi Antonelli,Mercedes,15,10,1.0,Lapped,69,13
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,HAD,Isack Hadjar,RB F1 Team,10,11,0.0,Lapped,69,15
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,HAM,Lewis Hamilton,Ferrari,12,12,0.0,Lapped,69,7
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,HUL,Nico Hülkenberg,Sauber,18,13,0.0,Lapped,69,6
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,SAI,Carlos Sainz,Williams,13,14,0.0,Lapped,69,4
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,ALB,Alexander Albon,Williams,19,15,0.0,Lapped,69,14
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,OCO,Esteban Ocon,Haas F1 Team,17,16,0.0,Lapped,69,19
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,TSU,Yuki Tsunoda,Red Bull,20,17,0.0,Lapped,69,17
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,COL,Franco Colapinto,Alpine F1 Team,14,18,0.0,Lapped,69,16
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,GAS,Pierre Gasly,Alpine F1 Team,16,19,0.0,Lapped,69,18
+2025,14,Hungarian Grand Prix,Hungaroring,2025-08-03,BEA,Oliver Bearman,Haas F1 Team,11,20,0.0,Retired,48,20
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,PIA,Oscar Piastri,McLaren,1,1,25.0,Finished,72,1
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,VER,Max Verstappen,Red Bull,3,2,18.0,Finished,72,3
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,HAD,Isack Hadjar,RB F1 Team,4,3,15.0,Finished,72,5
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,RUS,George Russell,Mercedes,5,4,12.0,Finished,72,9
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,ALB,Alexander Albon,Williams,15,5,10.0,Finished,72,7
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,BEA,Oliver Bearman,Haas F1 Team,20,6,8.0,Finished,72,13
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,STR,Lance Stroll,Aston Martin,19,7,6.0,Finished,72,11
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,ALO,Fernando Alonso,Aston Martin,10,8,4.0,Finished,72,8
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,TSU,Yuki Tsunoda,Red Bull,12,9,2.0,Finished,72,16
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,OCO,Esteban Ocon,Haas F1 Team,18,10,1.0,Finished,72,14
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,COL,Franco Colapinto,Alpine F1 Team,16,11,0.0,Finished,72,4
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,LAW,Liam Lawson,RB F1 Team,8,12,0.0,Finished,72,12
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,SAI,Carlos Sainz,Williams,9,13,0.0,Finished,72,10
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,HUL,Nico Hülkenberg,Sauber,17,14,0.0,Finished,72,18
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,BOR,Gabriel Bortoleto,Sauber,13,15,0.0,Finished,72,15
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,ANT,Andrea Kimi Antonelli,Mercedes,11,16,0.0,Finished,72,6
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,GAS,Pierre Gasly,Alpine F1 Team,14,17,0.0,Finished,72,19
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,NOR,Lando Norris,McLaren,2,18,0.0,Retired,64,2
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,LEC,Charles Leclerc,Ferrari,6,19,0.0,Retired,52,17
+2025,15,Dutch Grand Prix,Circuit Park Zandvoort,2025-08-31,HAM,Lewis Hamilton,Ferrari,7,20,0.0,Retired,22,20
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,VER,Max Verstappen,Red Bull,1,1,25.0,Finished,53,2
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,NOR,Lando Norris,McLaren,2,2,18.0,Finished,53,1
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,PIA,Oscar Piastri,McLaren,3,3,15.0,Finished,53,3
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,LEC,Charles Leclerc,Ferrari,4,4,12.0,Finished,53,4
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,RUS,George Russell,Mercedes,5,5,10.0,Finished,53,8
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,HAM,Lewis Hamilton,Ferrari,10,6,8.0,Finished,53,6
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,ALB,Alexander Albon,Williams,14,7,6.0,Finished,53,5
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,BOR,Gabriel Bortoleto,Sauber,7,8,4.0,Finished,53,12
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,ANT,Andrea Kimi Antonelli,Mercedes,6,9,2.0,Finished,53,10
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,HAD,Isack Hadjar,RB F1 Team,19,10,1.0,Finished,53,11
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,SAI,Carlos Sainz,Williams,13,11,0.0,Finished,53,7
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,BEA,Oliver Bearman,Haas F1 Team,11,12,0.0,Finished,53,9
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,TSU,Yuki Tsunoda,Red Bull,9,13,0.0,Finished,53,16
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,LAW,Liam Lawson,RB F1 Team,18,14,0.0,Finished,53,17
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,OCO,Esteban Ocon,Haas F1 Team,15,15,0.0,Lapped,52,18
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,GAS,Pierre Gasly,Alpine F1 Team,20,16,0.0,Lapped,52,14
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,COL,Franco Colapinto,Alpine F1 Team,17,17,0.0,Lapped,52,15
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,STR,Lance Stroll,Aston Martin,16,18,0.0,Lapped,52,13
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,ALO,Fernando Alonso,Aston Martin,8,19,0.0,Retired,24,19
+2025,16,Italian Grand Prix,Autodromo Nazionale di Monza,2025-09-07,HUL,Nico Hülkenberg,Sauber,12,20,0.0,Did not start,0,
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,VER,Max Verstappen,Red Bull,1,1,25.0,Finished,51,1
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,RUS,George Russell,Mercedes,5,2,18.0,Finished,51,2
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,SAI,Carlos Sainz,Williams,2,3,15.0,Finished,51,4
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,ANT,Andrea Kimi Antonelli,Mercedes,4,4,12.0,Finished,51,6
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,LAW,Liam Lawson,RB F1 Team,3,5,10.0,Finished,51,13
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,TSU,Yuki Tsunoda,Red Bull,6,6,8.0,Finished,51,12
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,NOR,Lando Norris,McLaren,7,7,6.0,Finished,51,8
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,HAM,Lewis Hamilton,Ferrari,12,8,4.0,Finished,51,5
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,LEC,Charles Leclerc,Ferrari,10,9,2.0,Finished,51,9
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,HAD,Isack Hadjar,RB F1 Team,8,10,1.0,Finished,51,3
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,BOR,Gabriel Bortoleto,Sauber,13,11,0.0,Finished,51,14
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,BEA,Oliver Bearman,Haas F1 Team,15,12,0.0,Finished,51,10
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,ALB,Alexander Albon,Williams,19,13,0.0,Finished,51,7
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,OCO,Esteban Ocon,Haas F1 Team,20,14,0.0,Finished,51,17
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,ALO,Fernando Alonso,Aston Martin,11,15,0.0,Finished,51,15
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,HUL,Nico Hülkenberg,Sauber,17,16,0.0,Finished,51,11
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,STR,Lance Stroll,Aston Martin,14,17,0.0,Finished,51,16
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,GAS,Pierre Gasly,Alpine F1 Team,18,18,0.0,Lapped,50,18
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,COL,Franco Colapinto,Alpine F1 Team,16,19,0.0,Lapped,50,19
+2025,17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,PIA,Oscar Piastri,McLaren,9,20,0.0,Retired,0,
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,RUS,George Russell,Mercedes,1,1,25.0,Finished,62,11
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,VER,Max Verstappen,Red Bull,2,2,18.0,Finished,62,10
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,NOR,Lando Norris,McLaren,5,3,15.0,Finished,62,7
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,PIA,Oscar Piastri,McLaren,3,4,12.0,Finished,62,6
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,ANT,Andrea Kimi Antonelli,Mercedes,4,5,10.0,Finished,62,4
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,LEC,Charles Leclerc,Ferrari,7,6,8.0,Finished,62,14
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,ALO,Fernando Alonso,Aston Martin,10,7,6.0,Finished,62,13
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,HAM,Lewis Hamilton,Ferrari,6,8,4.0,Finished,62,1
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,BEA,Oliver Bearman,Haas F1 Team,9,9,2.0,Finished,62,15
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,SAI,Carlos Sainz,Williams,18,10,1.0,Lapped,61,3
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,HAD,Isack Hadjar,RB F1 Team,8,11,0.0,Lapped,61,18
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,TSU,Yuki Tsunoda,Red Bull,13,12,0.0,Lapped,61,17
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,STR,Lance Stroll,Aston Martin,15,13,0.0,Lapped,61,12
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,ALB,Alexander Albon,Williams,20,14,0.0,Lapped,61,9
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,LAW,Liam Lawson,RB F1 Team,12,15,0.0,Lapped,61,8
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,COL,Franco Colapinto,Alpine F1 Team,16,16,0.0,Lapped,61,20
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,BOR,Gabriel Bortoleto,Sauber,14,17,0.0,Lapped,61,19
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,OCO,Esteban Ocon,Haas F1 Team,17,18,0.0,Lapped,61,16
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,GAS,Pierre Gasly,Alpine F1 Team,19,19,0.0,Lapped,61,2
+2025,18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,HUL,Nico Hülkenberg,Sauber,11,20,0.0,Lapped,61,5
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,VER,Max Verstappen,Red Bull,1,1,25.0,Finished,56,3
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,NOR,Lando Norris,McLaren,2,2,18.0,Finished,56,2
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,LEC,Charles Leclerc,Ferrari,3,3,15.0,Finished,56,5
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,HAM,Lewis Hamilton,Ferrari,5,4,12.0,Finished,56,8
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,PIA,Oscar Piastri,McLaren,6,5,10.0,Finished,56,10
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,RUS,George Russell,Mercedes,4,6,8.0,Finished,56,4
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,TSU,Yuki Tsunoda,Red Bull,13,7,6.0,Finished,56,13
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,HUL,Nico Hülkenberg,Sauber,11,8,4.0,Finished,56,9
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,BEA,Oliver Bearman,Haas F1 Team,8,9,2.0,Finished,56,16
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,ALO,Fernando Alonso,Aston Martin,10,10,1.0,Finished,56,12
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,LAW,Liam Lawson,RB F1 Team,12,11,0.0,Finished,56,14
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,STR,Lance Stroll,Aston Martin,19,12,0.0,Finished,56,15
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,ANT,Andrea Kimi Antonelli,Mercedes,7,13,0.0,Finished,56,1
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,ALB,Alexander Albon,Williams,18,14,0.0,Finished,56,7
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,OCO,Esteban Ocon,Haas F1 Team,17,15,0.0,Finished,56,18
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,HAD,Isack Hadjar,RB F1 Team,20,16,0.0,Finished,56,11
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,COL,Franco Colapinto,Alpine F1 Team,15,17,0.0,Lapped,55,17
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,BOR,Gabriel Bortoleto,Sauber,16,18,0.0,Lapped,55,6
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,GAS,Pierre Gasly,Alpine F1 Team,14,19,0.0,Lapped,55,19
+2025,19,United States Grand Prix,Circuit of the Americas,2025-10-19,SAI,Carlos Sainz,Williams,9,20,0.0,Retired,5,20
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,NOR,Lando Norris,McLaren,1,1,25.0,Finished,71,8
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,LEC,Charles Leclerc,Ferrari,2,2,18.0,Finished,71,14
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,VER,Max Verstappen,Red Bull,5,3,15.0,Finished,71,10
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,BEA,Oliver Bearman,Haas F1 Team,9,4,12.0,Finished,71,7
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,PIA,Oscar Piastri,McLaren,7,5,10.0,Finished,71,3
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,ANT,Andrea Kimi Antonelli,Mercedes,6,6,8.0,Finished,71,9
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,RUS,George Russell,Mercedes,4,7,6.0,Finished,71,1
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,HAM,Lewis Hamilton,Ferrari,3,8,4.0,Finished,71,6
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,OCO,Esteban Ocon,Haas F1 Team,11,9,2.0,Finished,71,17
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,BOR,Gabriel Bortoleto,Sauber,16,10,1.0,Finished,71,11
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,TSU,Yuki Tsunoda,Red Bull,10,11,0.0,Finished,71,13
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,ALB,Alexander Albon,Williams,17,12,0.0,Lapped,70,4
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,HAD,Isack Hadjar,RB F1 Team,8,13,0.0,Lapped,70,16
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,STR,Lance Stroll,Aston Martin,19,14,0.0,Lapped,70,5
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,GAS,Pierre Gasly,Alpine F1 Team,18,15,0.0,Lapped,70,18
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,COL,Franco Colapinto,Alpine F1 Team,20,16,0.0,Lapped,70,12
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,SAI,Carlos Sainz,Williams,12,17,0.0,Retired,67,2
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,ALO,Fernando Alonso,Aston Martin,14,18,0.0,Retired,34,15
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,HUL,Nico Hülkenberg,Sauber,13,19,0.0,Retired,25,19
+2025,20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,LAW,Liam Lawson,RB F1 Team,15,20,0.0,Retired,5,20
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,NOR,Lando Norris,McLaren,1,1,25.0,Finished,71,6
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,ANT,Andrea Kimi Antonelli,Mercedes,2,2,18.0,Finished,71,9
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,VER,Max Verstappen,Red Bull,19,3,15.0,Finished,71,2
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,RUS,George Russell,Mercedes,6,4,12.0,Finished,71,8
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,PIA,Oscar Piastri,McLaren,4,5,10.0,Finished,71,3
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,BEA,Oliver Bearman,Haas F1 Team,8,6,8.0,Finished,71,13
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,LAW,Liam Lawson,RB F1 Team,7,7,6.0,Finished,71,18
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,HAD,Isack Hadjar,RB F1 Team,5,8,4.0,Finished,71,15
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,HUL,Nico Hülkenberg,Sauber,10,9,2.0,Finished,71,11
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,GAS,Pierre Gasly,Alpine F1 Team,9,10,1.0,Finished,71,16
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,ALB,Alexander Albon,Williams,12,11,0.0,Finished,71,1
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,OCO,Esteban Ocon,Haas F1 Team,20,12,0.0,Finished,71,12
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,SAI,Carlos Sainz,Williams,15,13,0.0,Finished,71,14
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,ALO,Fernando Alonso,Aston Martin,11,14,0.0,Finished,71,10
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,COL,Franco Colapinto,Alpine F1 Team,16,15,0.0,Finished,71,5
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,STR,Lance Stroll,Aston Martin,14,16,0.0,Finished,71,7
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,TSU,Yuki Tsunoda,Red Bull,17,17,0.0,Finished,71,4
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,HAM,Lewis Hamilton,Ferrari,13,18,0.0,Retired,37,17
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,LEC,Charles Leclerc,Ferrari,3,19,0.0,Retired,5,19
+2025,21,São Paulo Grand Prix,Autódromo José Carlos Pace,2025-11-09,BOR,Gabriel Bortoleto,Sauber,18,20,0.0,Retired,0,
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,VER,Max Verstappen,Red Bull,2,1,25.0,Finished,50,1
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,RUS,George Russell,Mercedes,4,2,18.0,Finished,50,9
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,ANT,Andrea Kimi Antonelli,Mercedes,17,3,15.0,Finished,50,2
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,LEC,Charles Leclerc,Ferrari,9,4,12.0,Finished,50,3
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,SAI,Carlos Sainz,Williams,3,5,10.0,Finished,50,4
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,HAD,Isack Hadjar,RB F1 Team,8,6,8.0,Finished,50,10
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,HUL,Nico Hülkenberg,Sauber,11,7,6.0,Finished,50,8
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,HAM,Lewis Hamilton,Ferrari,19,8,4.0,Finished,50,6
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,OCO,Esteban Ocon,Haas F1 Team,13,9,2.0,Finished,50,7
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,BEA,Oliver Bearman,Haas F1 Team,14,10,1.0,Finished,50,5
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,ALO,Fernando Alonso,Aston Martin,7,11,0.0,Finished,50,14
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,TSU,Yuki Tsunoda,Red Bull,20,12,0.0,Finished,50,12
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,GAS,Pierre Gasly,Alpine F1 Team,10,13,0.0,Finished,50,15
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,LAW,Liam Lawson,RB F1 Team,6,14,0.0,Lapped,49,11
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,COL,Franco Colapinto,Alpine F1 Team,15,15,0.0,Lapped,49,16
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,ALB,Alexander Albon,Williams,16,16,0.0,Retired,35,13
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,BOR,Gabriel Bortoleto,Sauber,18,17,0.0,Retired,2,
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,STR,Lance Stroll,Aston Martin,12,18,0.0,Retired,0,
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,NOR,Lando Norris,McLaren,1,19,0.0,Disqualified,50,
+2025,22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,2025-11-23,PIA,Oscar Piastri,McLaren,5,20,0.0,Disqualified,50,
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,VER,Max Verstappen,Red Bull,3,1,25.0,Finished,57,5
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,PIA,Oscar Piastri,McLaren,1,2,18.0,Finished,57,1
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,SAI,Carlos Sainz,Williams,7,3,15.0,Finished,57,6
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,NOR,Lando Norris,McLaren,2,4,12.0,Finished,57,2
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,ANT,Andrea Kimi Antonelli,Mercedes,5,5,10.0,Finished,57,8
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,RUS,George Russell,Mercedes,4,6,8.0,Finished,57,3
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,ALO,Fernando Alonso,Aston Martin,8,7,6.0,Finished,57,7
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,LEC,Charles Leclerc,Ferrari,10,8,4.0,Finished,57,13
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,LAW,Liam Lawson,RB F1 Team,12,9,2.0,Finished,57,9
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,TSU,Yuki Tsunoda,Red Bull,15,10,1.0,Finished,57,10
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,ALB,Alexander Albon,Williams,14,11,0.0,Finished,57,11
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,HAM,Lewis Hamilton,Ferrari,17,12,0.0,Finished,57,14
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,BOR,Gabriel Bortoleto,Sauber,19,13,0.0,Finished,57,17
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,COL,Franco Colapinto,Alpine F1 Team,20,14,0.0,Lapped,56,19
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,OCO,Esteban Ocon,Haas F1 Team,16,15,0.0,Lapped,56,16
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,GAS,Pierre Gasly,Alpine F1 Team,9,16,0.0,Lapped,56,18
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,STR,Lance Stroll,Aston Martin,18,17,0.0,Retired,55,4
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,HAD,Isack Hadjar,RB F1 Team,6,18,0.0,Retired,55,12
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,BEA,Oliver Bearman,Haas F1 Team,13,19,0.0,Retired,41,15
+2025,23,Qatar Grand Prix,Losail International Circuit,2025-11-30,HUL,Nico Hülkenberg,Sauber,11,20,0.0,Retired,6,20
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,VER,Max Verstappen,Red Bull,1,1,25.0,Finished,58,5
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,PIA,Oscar Piastri,McLaren,3,2,18.0,Finished,58,2
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,NOR,Lando Norris,McLaren,2,3,15.0,Finished,58,3
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,LEC,Charles Leclerc,Ferrari,5,4,12.0,Finished,58,1
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,RUS,George Russell,Mercedes,4,5,10.0,Finished,58,14
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,ALO,Fernando Alonso,Aston Martin,6,6,8.0,Finished,58,11
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,OCO,Esteban Ocon,Haas F1 Team,8,7,6.0,Finished,58,15
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,HAM,Lewis Hamilton,Ferrari,16,8,4.0,Finished,58,10
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,HUL,Nico Hülkenberg,Sauber,18,9,2.0,Finished,58,4
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,STR,Lance Stroll,Aston Martin,15,10,1.0,Finished,58,6
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,BOR,Gabriel Bortoleto,Sauber,7,11,0.0,Finished,58,19
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,BEA,Oliver Bearman,Haas F1 Team,11,12,0.0,Finished,58,17
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,SAI,Carlos Sainz,Williams,12,13,0.0,Finished,58,18
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,TSU,Yuki Tsunoda,Red Bull,10,14,0.0,Finished,58,13
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,ANT,Andrea Kimi Antonelli,Mercedes,14,15,0.0,Finished,58,9
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,ALB,Alexander Albon,Williams,17,16,0.0,Finished,58,12
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,HAD,Isack Hadjar,RB F1 Team,9,17,0.0,Lapped,57,20
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,LAW,Liam Lawson,RB F1 Team,13,18,0.0,Lapped,57,16
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,GAS,Pierre Gasly,Alpine F1 Team,19,19,0.0,Lapped,57,8
+2025,24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,COL,Franco Colapinto,Alpine F1 Team,20,20,0.0,Lapped,57,7

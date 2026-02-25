@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# FastF1 cache
+data/cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# MLflow
+mlruns/
+
+# Model files (large)
+models/*.pkl
