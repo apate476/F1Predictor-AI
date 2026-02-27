@@ -20,3 +20,5 @@ mlruns/
 
 # Model files (large)
 models/*.pkl
+
+backend/.env
