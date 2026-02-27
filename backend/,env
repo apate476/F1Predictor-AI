@@ -1,0 +1,3 @@
+OPENAI_API_KEY=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
+SIM_DATA_PATH=../data/predictions/sim_data.pkl
+CHAMP_DATA_PATH=../data/predictions/drivers_championship_2026.csv
