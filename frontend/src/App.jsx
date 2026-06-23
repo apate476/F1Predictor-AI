@@ -42,22 +42,7 @@ function AnimatedPage({ children }) {
   return <div ref={ref}>{children}</div>;
 }
 
-function ChatBubble() {
-  return (
-    <button
-      onClick={() => (window.location.href = "/chat")}
-      aria-label="Open AI chat"
-      className="fixed bottom-7 right-7 w-[52px] h-[52px] rounded-full bg-red border-none cursor-pointer flex items-center justify-center text-xl z-50 animate-pulse-red transition-all duration-200 hover:scale-110 hover:shadow-[0_6px_32px_rgba(232,0,45,0.5)]"
-    >
-      🏎
-    </button>
-  );
-}
-
 function AppLayout() {
-  const { pathname } = useLocation();
-  const isChatPage = pathname === "/chat";
-
   return (
     <div className="flex flex-col min-h-screen bg-bg text-f1-text font-body">
       <div className="grain" aria-hidden />
@@ -76,7 +61,6 @@ function AppLayout() {
         </Suspense>
       </main>
       <Footer />
-      {!isChatPage && <ChatBubble />}
     </div>
   );
 }

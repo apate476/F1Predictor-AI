@@ -8,10 +8,15 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / ".env")
+
+# ── Resolve data directory relative to this file (backend/tools/data_loader.py)
+# Works regardless of the working directory uvicorn is launched from
+_HERE     = Path(__file__).resolve().parent          # backend/tools/
+_DATA_DIR = _HERE.parent.parent / "data"             # project_root/data/
 
 # ── Load simulation data ─────────────────────────────────────────
-SIM_PATH = Path(os.getenv("SIM_DATA_PATH", "../data/predictions/sim_data.pkl"))
+SIM_PATH = Path(os.getenv("SIM_DATA_PATH", str(_DATA_DIR / "predictions" / "sim_data.pkl")))
 
 with open(SIM_PATH, "rb") as f:
     sim_data = pickle.load(f)
@@ -27,13 +32,13 @@ N_SIMS           = sim_data["N_SIMULATIONS"]
 POINTS_MAP = {1:25, 2:18, 3:15, 4:12, 5:10, 6:8, 7:6, 8:4, 9:2, 10:1}
 
 # ── Pull team map directly from 2026 features ───────────────────
-FEATURES_2026_PATH = Path(os.getenv("FEATURES_2026_PATH", "../data/features_2026.csv"))
+FEATURES_2026_PATH = Path(os.getenv("FEATURES_2026_PATH", str(_DATA_DIR / "features_2026.csv")))
 df_2026 = pd.read_csv(FEATURES_2026_PATH)
 TEAM_MAP = dict(zip(df_2026['driver'], df_2026['team_2026']))
 
 
 # ── Pull driver names from 2025 race results ─────────────────────
-RESULTS_PATH = Path(os.getenv("RESULTS_PATH", "../data/race_results_2025.csv"))
+RESULTS_PATH = Path(os.getenv("RESULTS_PATH", str(_DATA_DIR / "race_results_2025.csv")))
 df_results = pd.read_csv(RESULTS_PATH)
 DRIVER_NAMES = dict(zip(df_results['driver'], df_results['driver_name']))
 

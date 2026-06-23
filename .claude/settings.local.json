@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(where npm)",
+      "Bash(python -c \"import fastapi; import uvicorn; print\\(''OK''\\)\")",
+      "Bash(\"E:/f1-predictor/venv/Scripts/python.exe\" -c \"import fastapi; import uvicorn; print\\(''OK''\\)\")",
+      "Bash(curl -s http://localhost:8000/api/drivers)"
+    ]
+  }
+}

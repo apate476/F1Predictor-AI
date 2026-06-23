@@ -1,622 +1,780 @@
-year,round,race_name,driver,stop_number,lap,duration
-2023,1,Bahrain Grand Prix,gasly,1,9,25.885
-2023,1,Bahrain Grand Prix,norris,1,10,32.766
-2023,1,Bahrain Grand Prix,tsunoda,1,10,25.267
-2023,1,Bahrain Grand Prix,bottas,1,11,25.399
-2023,1,Bahrain Grand Prix,albon,1,11,25.054
-2023,1,Bahrain Grand Prix,de_vries,1,11,25.018
-2023,1,Bahrain Grand Prix,hulkenberg,1,11,26.075
-2023,1,Bahrain Grand Prix,hamilton,1,12,24.682
-2023,1,Bahrain Grand Prix,ocon,1,12,24.966
-2023,1,Bahrain Grand Prix,sargeant,1,12,25.600
-2023,1,Bahrain Grand Prix,zhou,1,12,25.787
-2023,1,Bahrain Grand Prix,leclerc,1,13,24.345
-2023,1,Bahrain Grand Prix,sainz,1,13,24.500
-2023,1,Bahrain Grand Prix,russell,1,13,27.062
-2023,1,Bahrain Grand Prix,max_verstappen,1,14,24.289
-2023,1,Bahrain Grand Prix,alonso,1,14,25.800
-2023,1,Bahrain Grand Prix,stroll,1,15,25.449
-2023,1,Bahrain Grand Prix,kevin_magnussen,1,15,25.439
-2023,1,Bahrain Grand Prix,ocon,2,15,41.462
-2023,1,Bahrain Grand Prix,perez,1,17,24.264
-2023,1,Bahrain Grand Prix,norris,2,17,33.661
-2023,1,Bahrain Grand Prix,gasly,2,25,24.879
-2023,1,Bahrain Grand Prix,albon,2,26,24.920
-2023,1,Bahrain Grand Prix,tsunoda,2,26,24.372
-2023,1,Bahrain Grand Prix,hulkenberg,2,26,37.769
-2023,1,Bahrain Grand Prix,de_vries,2,27,25.234
-2023,1,Bahrain Grand Prix,norris,3,27,33.467
-2023,1,Bahrain Grand Prix,bottas,2,29,25.643
-2023,1,Bahrain Grand Prix,kevin_magnussen,2,29,25.344
-2023,1,Bahrain Grand Prix,hamilton,2,30,24.690
-2023,2,Saudi Arabian Grand Prix,piastri,1,1,31.534
-2023,2,Saudi Arabian Grand Prix,norris,1,2,29.444
-2023,2,Saudi Arabian Grand Prix,kevin_magnussen,1,8,20.870
-2023,2,Saudi Arabian Grand Prix,bottas,1,9,21.505
-2023,2,Saudi Arabian Grand Prix,zhou,1,11,21.703
-2023,2,Saudi Arabian Grand Prix,hulkenberg,1,11,21.567
-2023,2,Saudi Arabian Grand Prix,stroll,1,13,21.150
-2023,2,Saudi Arabian Grand Prix,gasly,1,14,20.719
-2023,2,Saudi Arabian Grand Prix,sainz,1,15,20.760
-2023,2,Saudi Arabian Grand Prix,leclerc,1,16,20.026
-2023,2,Saudi Arabian Grand Prix,ocon,1,16,20.762
-2023,2,Saudi Arabian Grand Prix,tsunoda,1,17,21.414
-2023,2,Saudi Arabian Grand Prix,albon,1,17,21.397
-2023,2,Saudi Arabian Grand Prix,de_vries,1,17,21.116
-2023,2,Saudi Arabian Grand Prix,bottas,2,17,22.191
-2023,2,Saudi Arabian Grand Prix,perez,1,18,20.715
-2023,2,Saudi Arabian Grand Prix,alonso,1,18,26.879
-2023,2,Saudi Arabian Grand Prix,russell,1,18,20.828
-2023,2,Saudi Arabian Grand Prix,max_verstappen,1,18,20.824
-2023,2,Saudi Arabian Grand Prix,hamilton,1,18,21.102
-2023,2,Saudi Arabian Grand Prix,sargeant,1,18,21.064
-2023,2,Saudi Arabian Grand Prix,zhou,2,18,21.282
-2023,2,Saudi Arabian Grand Prix,norris,2,19,21.352
-2023,2,Saudi Arabian Grand Prix,bottas,3,35,21.808
-2023,3,Australian Grand Prix,ocon,1,1,18.056
-2023,3,Australian Grand Prix,zhou,1,1,18.951
-2023,3,Australian Grand Prix,sargeant,1,1,18.382
-2023,3,Australian Grand Prix,perez,1,1,17.657
-2023,3,Australian Grand Prix,bottas,1,1,21.659
-2023,3,Australian Grand Prix,sargeant,2,2,19.158
-2023,3,Australian Grand Prix,perez,2,2,17.814
-2023,3,Australian Grand Prix,russell,1,7,19.146
-2023,3,Australian Grand Prix,sainz,1,7,18.319
-2023,3,Australian Grand Prix,kevin_magnussen,1,7,20.789
-2023,3,Australian Grand Prix,hamilton,1,8,15:25.181
-2023,3,Australian Grand Prix,max_verstappen,1,8,15:25.112
-2023,3,Australian Grand Prix,alonso,1,8,15:26.940
-2023,3,Australian Grand Prix,stroll,1,8,15:27.222
-2023,3,Australian Grand Prix,gasly,1,8,15:26.996
-2023,3,Australian Grand Prix,hulkenberg,1,8,15:26.326
-2023,3,Australian Grand Prix,russell,2,8,15:30.824
-2023,3,Australian Grand Prix,tsunoda,1,8,15:31.820
-2023,3,Australian Grand Prix,norris,1,8,15:34.763
-2023,3,Australian Grand Prix,piastri,1,8,15:34.541
-2023,3,Australian Grand Prix,sainz,2,8,15:37.024
-2023,3,Australian Grand Prix,de_vries,1,8,15:37.874
-2023,3,Australian Grand Prix,ocon,2,8,15:37.929
-2023,3,Australian Grand Prix,perez,3,8,15:37.512
-2023,3,Australian Grand Prix,zhou,2,8,15:37.849
-2023,3,Australian Grand Prix,bottas,2,8,15:37.594
-2023,3,Australian Grand Prix,sargeant,3,8,15:38.017
-2023,3,Australian Grand Prix,kevin_magnussen,2,8,15:40.228
-2023,3,Australian Grand Prix,sargeant,4,36,19.018
-2023,3,Australian Grand Prix,de_vries,2,45,18.080
-2023,4,Azerbaijan Grand Prix,gasly,1,5,20.235
-2023,4,Azerbaijan Grand Prix,bottas,1,6,20.967
-2023,4,Azerbaijan Grand Prix,albon,1,7,21.103
-2023,4,Azerbaijan Grand Prix,tsunoda,1,8,20.497
-2023,4,Azerbaijan Grand Prix,piastri,1,8,20.902
-2023,4,Azerbaijan Grand Prix,sargeant,1,8,21.015
-2023,4,Azerbaijan Grand Prix,hamilton,1,9,20.324
-2023,4,Azerbaijan Grand Prix,norris,1,9,20.346
-2023,4,Azerbaijan Grand Prix,max_verstappen,1,10,20.707
-2023,4,Azerbaijan Grand Prix,kevin_magnussen,1,10,30.951
-2023,4,Azerbaijan Grand Prix,perez,1,11,20.389
-2023,4,Azerbaijan Grand Prix,leclerc,1,11,21.126
-2023,4,Azerbaijan Grand Prix,sainz,1,11,21.970
-2023,4,Azerbaijan Grand Prix,alonso,1,11,23.148
-2023,4,Azerbaijan Grand Prix,stroll,1,11,23.161
-2023,4,Azerbaijan Grand Prix,russell,1,11,20.459
-2023,4,Azerbaijan Grand Prix,zhou,1,11,22.247
-2023,4,Azerbaijan Grand Prix,bottas,2,12,22.354
-2023,4,Azerbaijan Grand Prix,gasly,2,23,21.169
-2023,4,Azerbaijan Grand Prix,bottas,3,34,21.012
-2023,4,Azerbaijan Grand Prix,russell,2,49,21.389
-2023,4,Azerbaijan Grand Prix,hulkenberg,1,49,24.748
-2023,4,Azerbaijan Grand Prix,ocon,1,50,20.367
-2023,5,Miami Grand Prix,sargeant,1,2,48.938
-2023,5,Miami Grand Prix,norris,1,4,24.090
-2023,5,Miami Grand Prix,piastri,1,5,22.205
-2023,5,Miami Grand Prix,kevin_magnussen,1,14,22.616
-2023,5,Miami Grand Prix,gasly,1,15,22.417
-2023,5,Miami Grand Prix,bottas,1,15,23.158
-2023,5,Miami Grand Prix,de_vries,1,15,23.487
-2023,5,Miami Grand Prix,russell,1,17,22.335
-2023,5,Miami Grand Prix,leclerc,1,17,22.068
-2023,5,Miami Grand Prix,sainz,1,18,22.278
-2023,5,Miami Grand Prix,perez,1,20,21.884
-2023,5,Miami Grand Prix,albon,1,22,22.482
-2023,5,Miami Grand Prix,alonso,1,24,22.631
-2023,5,Miami Grand Prix,zhou,1,31,22.796
-2023,5,Miami Grand Prix,hulkenberg,1,33,23.120
-2023,5,Miami Grand Prix,tsunoda,1,36,22.390
-2023,5,Miami Grand Prix,hamilton,1,37,22.150
-2023,5,Miami Grand Prix,ocon,1,39,21.942
-2023,5,Miami Grand Prix,stroll,1,42,22.651
-2023,5,Miami Grand Prix,max_verstappen,1,45,22.688
-2023,6,Monaco Grand Prix,hulkenberg,1,1,32.494
-2023,6,Monaco Grand Prix,zhou,1,1,26.141
-2023,6,Monaco Grand Prix,perez,1,1,24.887
-2023,6,Monaco Grand Prix,albon,1,18,24.290
-2023,6,Monaco Grand Prix,sargeant,1,20,24.376
-2023,6,Monaco Grand Prix,sargeant,2,23,27.774
-2023,6,Monaco Grand Prix,hamilton,1,31,24.594
-2023,6,Monaco Grand Prix,ocon,1,32,25.833
-2023,6,Monaco Grand Prix,sainz,1,33,24.252
-2023,6,Monaco Grand Prix,perez,2,34,32.749
-2023,6,Monaco Grand Prix,leclerc,1,44,24.192
-2023,6,Monaco Grand Prix,gasly,1,47,23.902
-2023,6,Monaco Grand Prix,norris,1,50,24.663
-2023,6,Monaco Grand Prix,bottas,1,51,30.395
-2023,6,Monaco Grand Prix,stroll,1,51,24.656
-2023,6,Monaco Grand Prix,zhou,2,52,25.260
-2023,6,Monaco Grand Prix,albon,2,52,26.990
-2023,6,Monaco Grand Prix,tsunoda,1,53,33.706
-2023,6,Monaco Grand Prix,sargeant,3,52,25.946
-2023,6,Monaco Grand Prix,alonso,1,54,24.414
-2023,6,Monaco Grand Prix,de_vries,1,53,24.539
-2023,6,Monaco Grand Prix,russell,1,54,30.980
-2023,6,Monaco Grand Prix,ocon,2,54,24.707
-2023,6,Monaco Grand Prix,hamilton,2,54,26.685
-2023,6,Monaco Grand Prix,gasly,2,54,29.949
-2023,6,Monaco Grand Prix,perez,3,53,24.217
-2023,6,Monaco Grand Prix,max_verstappen,1,55,24.798
-2023,6,Monaco Grand Prix,piastri,1,54,25.851
-2023,6,Monaco Grand Prix,norris,2,54,33.428
-2023,6,Monaco Grand Prix,alonso,2,55,25.916
-2023,7,Spanish Grand Prix,norris,1,1,37.736
-2023,7,Spanish Grand Prix,bottas,1,5,23.691
-2023,7,Spanish Grand Prix,hulkenberg,1,8,22.298
-2023,7,Spanish Grand Prix,zhou,1,9,23.430
-2023,7,Spanish Grand Prix,de_vries,1,9,22.522
-2023,7,Spanish Grand Prix,tsunoda,1,10,22.176
-2023,7,Spanish Grand Prix,kevin_magnussen,1,10,22.124
-2023,7,Spanish Grand Prix,ocon,1,13,22.112
-2023,7,Spanish Grand Prix,stroll,1,14,22.355
-2023,7,Spanish Grand Prix,sainz,1,15,22.321
-2023,7,Spanish Grand Prix,leclerc,1,16,21.778
-2023,7,Spanish Grand Prix,albon,1,16,23.319
-2023,7,Spanish Grand Prix,piastri,1,17,22.370
-2023,7,Spanish Grand Prix,sargeant,1,17,22.583
-2023,7,Spanish Grand Prix,alonso,1,19,22.558
-2023,7,Spanish Grand Prix,gasly,1,19,23.388
-2023,7,Spanish Grand Prix,norris,2,22,22.850
-2023,7,Spanish Grand Prix,hamilton,1,24,22.575
-2023,7,Spanish Grand Prix,kevin_magnussen,2,24,24.800
-2023,7,Spanish Grand Prix,russell,1,25,22.275
-2023,7,Spanish Grand Prix,max_verstappen,1,26,22.241
-2023,7,Spanish Grand Prix,hulkenberg,2,26,23.257
-2023,7,Spanish Grand Prix,perez,1,27,21.775
-2023,7,Spanish Grand Prix,stroll,2,34,23.371
-2023,7,Spanish Grand Prix,tsunoda,2,34,22.009
-2023,7,Spanish Grand Prix,ocon,2,35,24.110
-2023,7,Spanish Grand Prix,zhou,2,36,22.889
-2023,7,Spanish Grand Prix,sargeant,2,36,23.827
-2023,7,Spanish Grand Prix,albon,2,37,23.449
-2023,7,Spanish Grand Prix,de_vries,2,38,21.976
-2023,8,Canadian Grand Prix,tsunoda,1,1,23.646
-2023,8,Canadian Grand Prix,gasly,1,10,27.515
-2023,8,Canadian Grand Prix,hulkenberg,1,11,24.880
-2023,8,Canadian Grand Prix,stroll,1,11,23.711
-2023,8,Canadian Grand Prix,de_vries,1,11,24.960
-2023,8,Canadian Grand Prix,max_verstappen,1,12,23.644
-2023,8,Canadian Grand Prix,hamilton,1,12,24.339
-2023,8,Canadian Grand Prix,alonso,1,12,24.031
-2023,8,Canadian Grand Prix,ocon,1,12,24.402
-2023,8,Canadian Grand Prix,piastri,1,12,24.828
-2023,8,Canadian Grand Prix,norris,1,12,25.862
-2023,8,Canadian Grand Prix,albon,1,12,25.064
-2023,8,Canadian Grand Prix,zhou,1,12,24.161
-2023,8,Canadian Grand Prix,russell,1,12,1:28.943
-2023,8,Canadian Grand Prix,stroll,2,27,23.839
-2023,8,Canadian Grand Prix,hulkenberg,2,31,24.200
-2023,8,Canadian Grand Prix,zhou,2,32,27.509
-2023,8,Canadian Grand Prix,gasly,2,33,24.117
-2023,8,Canadian Grand Prix,tsunoda,2,34,27.523
-2023,8,Canadian Grand Prix,norris,2,35,23.570
-2023,8,Canadian Grand Prix,kevin_magnussen,1,35,24.909
-2023,8,Canadian Grand Prix,ocon,2,36,23.698
-2023,8,Canadian Grand Prix,bottas,1,36,24.038
-2023,8,Canadian Grand Prix,perez,1,37,23.281
-2023,8,Canadian Grand Prix,piastri,2,37,23.436
-2023,8,Canadian Grand Prix,sainz,1,38,24.133
-2023,8,Canadian Grand Prix,leclerc,1,39,24.343
-2023,8,Canadian Grand Prix,hamilton,2,40,23.749
-2023,8,Canadian Grand Prix,alonso,2,41,23.928
-2023,8,Canadian Grand Prix,max_verstappen,2,42,23.910
-2023,9,Austrian Grand Prix,kevin_magnussen,1,1,26.587
-2023,9,Austrian Grand Prix,tsunoda,1,1,29.691
-2023,9,Austrian Grand Prix,max_verstappen,1,2,16.369
-2023,9,Austrian Grand Prix,leclerc,1,2,16.393
-2023,9,Austrian Grand Prix,sainz,1,2,16.380
-2023,9,Austrian Grand Prix,hamilton,1,2,16.415
-2023,9,Austrian Grand Prix,norris,1,2,18.076
-2023,9,Austrian Grand Prix,alonso,1,2,16.600
-2023,9,Austrian Grand Prix,hulkenberg,1,2,16.778
-2023,9,Austrian Grand Prix,stroll,1,2,16.646
-2023,9,Austrian Grand Prix,gasly,1,2,16.380
-2023,9,Austrian Grand Prix,albon,1,2,16.737
-2023,9,Austrian Grand Prix,russell,1,2,17.946
-2023,9,Austrian Grand Prix,ocon,1,2,18.143
-2023,9,Austrian Grand Prix,perez,1,2,17.428
-2023,9,Austrian Grand Prix,zhou,1,2,17.467
-2023,9,Austrian Grand Prix,piastri,1,2,17.324
-2023,9,Austrian Grand Prix,sargeant,1,2,17.337
-2023,9,Austrian Grand Prix,bottas,1,2,17.130
-2023,9,Austrian Grand Prix,de_vries,1,2,17.033
-2023,9,Austrian Grand Prix,kevin_magnussen,2,2,25.654
-2023,9,Austrian Grand Prix,tsunoda,2,2,16.246
-2023,9,Austrian Grand Prix,zhou,2,8,24.374
-2023,9,Austrian Grand Prix,hulkenberg,2,11,21.891
-2023,9,Austrian Grand Prix,de_vries,2,12,21.333
-2023,9,Austrian Grand Prix,hamilton,2,14,21.993
-2023,9,Austrian Grand Prix,norris,2,14,21.290
-2023,9,Austrian Grand Prix,gasly,2,14,21.814
-2023,9,Austrian Grand Prix,albon,2,14,21.562
-2023,9,Austrian Grand Prix,russell,2,14,22.262
-2023,10,British Grand Prix,hulkenberg,1,7,41.972
-2023,10,British Grand Prix,tsunoda,1,14,28.353
-2023,10,British Grand Prix,leclerc,1,18,28.244
-2023,10,British Grand Prix,zhou,1,24,29.177
-2023,10,British Grand Prix,sainz,1,26,28.869
-2023,10,British Grand Prix,de_vries,1,27,28.242
-2023,10,British Grand Prix,russell,1,28,29.455
-2023,10,British Grand Prix,perez,1,28,28.060
-2023,10,British Grand Prix,piastri,1,29,28.655
-2023,10,British Grand Prix,sargeant,1,29,28.847
-2023,10,British Grand Prix,gasly,1,31,28.458
-2023,10,British Grand Prix,stroll,1,31,28.561
-2023,10,British Grand Prix,albon,1,32,29.634
-2023,10,British Grand Prix,leclerc,2,32,28.805
-2023,10,British Grand Prix,bottas,1,32,29.662
-2023,10,British Grand Prix,tsunoda,2,32,28.603
-2023,10,British Grand Prix,de_vries,2,32,28.413
-2023,10,British Grand Prix,hulkenberg,2,32,30.003
-2023,10,British Grand Prix,max_verstappen,1,33,29.056
-2023,10,British Grand Prix,norris,1,33,28.438
-2023,10,British Grand Prix,hamilton,1,33,29.169
-2023,10,British Grand Prix,alonso,1,33,28.679
-2023,10,British Grand Prix,zhou,2,33,28.709
-2023,10,British Grand Prix,zhou,3,36,34.374
-2023,11,Hungarian Grand Prix,albon,1,8,22.076
-2023,11,Hungarian Grand Prix,stroll,1,9,21.910
-2023,11,Hungarian Grand Prix,tsunoda,1,9,26.170
-2023,11,Hungarian Grand Prix,bottas,1,9,22.114
-2023,11,Hungarian Grand Prix,zhou,1,10,29.211
-2023,11,Hungarian Grand Prix,sargeant,1,13,24.001
-2023,11,Hungarian Grand Prix,kevin_magnussen,1,14,22.753
-2023,11,Hungarian Grand Prix,sainz,1,15,21.402
-2023,11,Hungarian Grand Prix,hamilton,1,16,21.974
-2023,11,Hungarian Grand Prix,hulkenberg,1,16,22.922
-2023,11,Hungarian Grand Prix,norris,1,17,21.541
-2023,11,Hungarian Grand Prix,leclerc,1,17,28.404
-2023,11,Hungarian Grand Prix,piastri,1,18,21.171
-2023,11,Hungarian Grand Prix,ricciardo,1,18,21.958
-2023,11,Hungarian Grand Prix,alonso,1,20,22.916
-2023,11,Hungarian Grand Prix,max_verstappen,1,23,21.407
-2023,11,Hungarian Grand Prix,perez,1,24,21.862
-2023,11,Hungarian Grand Prix,russell,1,28,21.886
-2023,11,Hungarian Grand Prix,ricciardo,2,29,22.203
-2023,11,Hungarian Grand Prix,albon,2,31,21.762
-2023,11,Hungarian Grand Prix,stroll,2,34,22.403
-2023,11,Hungarian Grand Prix,sargeant,2,34,22.197
-2023,11,Hungarian Grand Prix,hulkenberg,2,38,21.955
-2023,11,Hungarian Grand Prix,zhou,2,38,22.853
-2023,11,Hungarian Grand Prix,bottas,2,40,23.242
-2023,11,Hungarian Grand Prix,kevin_magnussen,2,41,22.152
-2023,11,Hungarian Grand Prix,piastri,2,42,22.030
-2023,11,Hungarian Grand Prix,perez,2,42,20.880
-2023,11,Hungarian Grand Prix,leclerc,2,43,21.452
-2023,11,Hungarian Grand Prix,alonso,2,43,24.152
-2023,12,Belgian Grand Prix,norris,1,5,25.012
-2023,12,Belgian Grand Prix,kevin_magnussen,1,5,23.638
-2023,12,Belgian Grand Prix,ricciardo,1,5,22.843
-2023,12,Belgian Grand Prix,ocon,1,6,23.085
-2023,12,Belgian Grand Prix,bottas,1,6,23.362
-2023,12,Belgian Grand Prix,albon,1,7,25.015
-2023,12,Belgian Grand Prix,sainz,1,7,23.303
-2023,12,Belgian Grand Prix,zhou,1,7,24.449
-2023,12,Belgian Grand Prix,sargeant,1,8,23.570
-2023,12,Belgian Grand Prix,tsunoda,1,9,22.610
-2023,12,Belgian Grand Prix,alonso,1,10,23.085
-2023,12,Belgian Grand Prix,hamilton,1,12,23.090
-2023,12,Belgian Grand Prix,hulkenberg,1,12,24.571
-2023,12,Belgian Grand Prix,perez,1,13,23.684
-2023,12,Belgian Grand Prix,leclerc,1,13,23.224
-2023,12,Belgian Grand Prix,max_verstappen,1,14,22.887
-2023,12,Belgian Grand Prix,norris,2,17,23.744
-2023,12,Belgian Grand Prix,stroll,1,20,25.397
-2023,12,Belgian Grand Prix,russell,1,22,23.837
-2023,12,Belgian Grand Prix,ricciardo,2,22,23.290
-2023,12,Belgian Grand Prix,gasly,1,23,25.664
-2023,12,Belgian Grand Prix,albon,2,23,23.596
-2023,12,Belgian Grand Prix,tsunoda,2,24,22.737
-2023,12,Belgian Grand Prix,bottas,2,24,23.786
-2023,12,Belgian Grand Prix,hulkenberg,2,24,25.238
-2023,12,Belgian Grand Prix,sargeant,2,24,23.938
-2023,12,Belgian Grand Prix,ocon,2,25,23.339
-2023,12,Belgian Grand Prix,kevin_magnussen,2,25,23.572
-2023,12,Belgian Grand Prix,zhou,2,25,24.045
-2023,12,Belgian Grand Prix,hamilton,2,27,23.023
-2023,13,Dutch Grand Prix,perez,1,1,22.666
-2023,13,Dutch Grand Prix,leclerc,1,1,32.686
-2023,13,Dutch Grand Prix,gasly,1,1,28.469
-2023,13,Dutch Grand Prix,zhou,1,1,23.088
-2023,13,Dutch Grand Prix,tsunoda,1,1,32.321
-2023,13,Dutch Grand Prix,lawson,1,1,42.641
-2023,13,Dutch Grand Prix,kevin_magnussen,1,1,31.341
-2023,13,Dutch Grand Prix,max_verstappen,1,2,20.379
-2023,13,Dutch Grand Prix,alonso,1,2,20.647
-2023,13,Dutch Grand Prix,sainz,1,2,20.973
-2023,13,Dutch Grand Prix,ocon,1,2,22.534
-2023,13,Dutch Grand Prix,norris,1,3,20.170
-2023,13,Dutch Grand Prix,hamilton,1,3,20.266
-2023,13,Dutch Grand Prix,russell,1,4,21.201
-2023,13,Dutch Grand Prix,stroll,1,4,20.036
-2023,13,Dutch Grand Prix,kevin_magnussen,2,9,20.137
-2023,13,Dutch Grand Prix,hamilton,2,9,19.970
-2023,13,Dutch Grand Prix,stroll,2,9,20.208
-2023,13,Dutch Grand Prix,zhou,2,10,20.231
-2023,13,Dutch Grand Prix,alonso,2,10,20.109
-2023,13,Dutch Grand Prix,sainz,2,10,19.511
-2023,13,Dutch Grand Prix,tsunoda,2,10,18.904
-2023,13,Dutch Grand Prix,ocon,2,10,19.795
-2023,13,Dutch Grand Prix,norris,2,10,20.395
-2023,13,Dutch Grand Prix,lawson,2,10,30.836
-2023,13,Dutch Grand Prix,russell,2,10,20.148
-2023,13,Dutch Grand Prix,max_verstappen,2,11,19.289
-2023,13,Dutch Grand Prix,gasly,2,11,19.518
-2023,13,Dutch Grand Prix,leclerc,2,11,27.202
-2023,13,Dutch Grand Prix,perez,2,12,19.460
-2023,14,Italian Grand Prix,gasly,1,10,27.376
-2023,14,Italian Grand Prix,zhou,1,11,24.396
-2023,14,Italian Grand Prix,kevin_magnussen,1,12,24.660
-2023,14,Italian Grand Prix,lawson,1,13,24.212
-2023,14,Italian Grand Prix,hulkenberg,1,14,26.095
-2023,14,Italian Grand Prix,sargeant,1,14,24.779
-2023,14,Italian Grand Prix,albon,1,15,24.538
-2023,14,Italian Grand Prix,sainz,1,19,25.183
-2023,14,Italian Grand Prix,russell,1,19,24.215
-2023,14,Italian Grand Prix,max_verstappen,1,20,24.228
-2023,14,Italian Grand Prix,leclerc,1,20,23.931
-2023,14,Italian Grand Prix,stroll,1,20,25.667
-2023,14,Italian Grand Prix,perez,1,21,23.819
-2023,14,Italian Grand Prix,alonso,1,21,24.798
-2023,14,Italian Grand Prix,norris,1,22,23.727
-2023,14,Italian Grand Prix,piastri,1,23,24.133
-2023,14,Italian Grand Prix,ocon,1,24,24.249
-2023,14,Italian Grand Prix,bottas,1,25,24.658
-2023,14,Italian Grand Prix,hamilton,1,27,24.255
-2023,14,Italian Grand Prix,gasly,2,31,24.686
-2023,14,Italian Grand Prix,lawson,2,33,24.281
-2023,14,Italian Grand Prix,zhou,2,33,25.959
-2023,14,Italian Grand Prix,kevin_magnussen,2,33,24.765
-2023,14,Italian Grand Prix,hulkenberg,2,39,24.328
-2023,14,Italian Grand Prix,piastri,2,41,31.799
-2023,15,Singapore Grand Prix,zhou,1,2,30.032
-2023,15,Singapore Grand Prix,sargeant,1,19,1:03.543
-2023,15,Singapore Grand Prix,sainz,1,20,29.499
-2023,15,Singapore Grand Prix,leclerc,1,20,32.888
-2023,15,Singapore Grand Prix,russell,1,20,29.976
-2023,15,Singapore Grand Prix,norris,1,20,29.485
-2023,15,Singapore Grand Prix,hamilton,1,20,32.631
-2023,15,Singapore Grand Prix,alonso,1,20,30.670
-2023,15,Singapore Grand Prix,ocon,1,20,29.755
-2023,15,Singapore Grand Prix,kevin_magnussen,1,20,31.475
-2023,15,Singapore Grand Prix,hulkenberg,1,20,35.497
-2023,15,Singapore Grand Prix,gasly,1,20,31.802
-2023,15,Singapore Grand Prix,lawson,1,20,32.348
-2023,15,Singapore Grand Prix,piastri,1,20,29.369
-2023,15,Singapore Grand Prix,albon,1,20,30.138
-2023,15,Singapore Grand Prix,zhou,2,20,30.637
-2023,15,Singapore Grand Prix,perez,1,39,28.977
-2023,15,Singapore Grand Prix,max_verstappen,1,40,29.698
-2023,15,Singapore Grand Prix,bottas,1,40,30.487
-2023,15,Singapore Grand Prix,albon,2,43,29.787
-2023,15,Singapore Grand Prix,kevin_magnussen,2,43,33.078
-2023,15,Singapore Grand Prix,sargeant,2,43,31.018
-2023,15,Singapore Grand Prix,russell,2,44,30.039
-2023,15,Singapore Grand Prix,hamilton,2,44,33.581
-2023,15,Singapore Grand Prix,alonso,2,44,52.708
-2023,16,Japanese Grand Prix,albon,1,1,50.143
-2023,16,Japanese Grand Prix,zhou,1,1,41.041
-2023,16,Japanese Grand Prix,ocon,1,1,27.056
-2023,16,Japanese Grand Prix,bottas,1,1,55.802
-2023,16,Japanese Grand Prix,perez,1,2,32.450
-2023,16,Japanese Grand Prix,sargeant,1,2,32.715
-2023,16,Japanese Grand Prix,sargeant,2,5,43.868
-2023,16,Japanese Grand Prix,bottas,2,6,53.512
-2023,16,Japanese Grand Prix,hulkenberg,1,8,23.520
-2023,16,Japanese Grand Prix,tsunoda,1,9,22.944
-2023,16,Japanese Grand Prix,lawson,1,10,23.136
-2023,16,Japanese Grand Prix,zhou,2,10,24.091
-2023,16,Japanese Grand Prix,alonso,1,11,24.086
-2023,16,Japanese Grand Prix,perez,2,12,41.499
-2023,16,Japanese Grand Prix,kevin_magnussen,1,12,23.816
-2023,16,Japanese Grand Prix,piastri,1,13,24.455
-2023,16,Japanese Grand Prix,albon,2,13,52.165
-2023,16,Japanese Grand Prix,stroll,1,14,23.441
-2023,16,Japanese Grand Prix,perez,3,13,41:25.913
-2023,16,Japanese Grand Prix,max_verstappen,1,16,24.382
-2023,16,Japanese Grand Prix,hamilton,1,16,24.841
-2023,16,Japanese Grand Prix,norris,1,17,23.523
-2023,16,Japanese Grand Prix,leclerc,1,17,23.197
-2023,16,Japanese Grand Prix,sainz,1,18,23.075
-2023,16,Japanese Grand Prix,gasly,1,18,24.488
-2023,16,Japanese Grand Prix,hulkenberg,2,21,23.660
-2023,16,Japanese Grand Prix,sargeant,3,21,35.182
-2023,16,Japanese Grand Prix,russell,1,24,24.034
-2023,16,Japanese Grand Prix,alonso,2,25,24.294
-2023,16,Japanese Grand Prix,lawson,2,25,23.671
-2023,17,Qatar Grand Prix,russell,1,1,39.686
-2023,17,Qatar Grand Prix,bottas,1,3,29.977
-2023,17,Qatar Grand Prix,kevin_magnussen,1,3,28.743
-2023,17,Qatar Grand Prix,stroll,1,3,28.886
-2023,17,Qatar Grand Prix,lawson,1,3,29.330
-2023,17,Qatar Grand Prix,tsunoda,1,9,27.781
-2023,17,Qatar Grand Prix,ocon,1,10,28.961
-2023,17,Qatar Grand Prix,alonso,1,11,28.373
-2023,17,Qatar Grand Prix,gasly,1,11,28.429
-2023,17,Qatar Grand Prix,piastri,1,12,28.875
-2023,17,Qatar Grand Prix,leclerc,1,12,28.228
-2023,17,Qatar Grand Prix,norris,1,13,28.134
-2023,17,Qatar Grand Prix,hulkenberg,1,13,39.879
-2023,17,Qatar Grand Prix,sargeant,1,13,29.436
-2023,17,Qatar Grand Prix,russell,2,14,28.542
-2023,17,Qatar Grand Prix,max_verstappen,1,17,28.233
-2023,17,Qatar Grand Prix,perez,1,17,27.808
-2023,17,Qatar Grand Prix,albon,1,18,29.253
-2023,17,Qatar Grand Prix,zhou,1,18,28.984
-2023,17,Qatar Grand Prix,bottas,2,21,29.387
-2023,17,Qatar Grand Prix,stroll,2,21,28.156
-2023,17,Qatar Grand Prix,kevin_magnussen,2,21,28.948
-2023,17,Qatar Grand Prix,lawson,2,21,28.665
-2023,17,Qatar Grand Prix,tsunoda,2,22,27.596
-2023,17,Qatar Grand Prix,piastri,2,25,27.868
-2023,17,Qatar Grand Prix,leclerc,2,25,27.873
-2023,17,Qatar Grand Prix,ocon,2,25,28.969
-2023,17,Qatar Grand Prix,alonso,2,26,28.432
-2023,17,Qatar Grand Prix,gasly,2,26,30.192
-2023,17,Qatar Grand Prix,sargeant,2,26,29.373
-2023,18,United States Grand Prix,zhou,1,9,25.636
-2023,18,United States Grand Prix,albon,1,10,24.563
-2023,18,United States Grand Prix,bottas,1,10,24.783
-2023,18,United States Grand Prix,kevin_magnussen,1,10,25.067
-2023,18,United States Grand Prix,sargeant,1,11,24.990
-2023,18,United States Grand Prix,max_verstappen,1,16,23.756
-2023,18,United States Grand Prix,norris,1,17,24.155
-2023,18,United States Grand Prix,sainz,1,17,23.668
-2023,18,United States Grand Prix,perez,1,17,24.245
-2023,18,United States Grand Prix,tsunoda,1,17,24.354
-2023,18,United States Grand Prix,gasly,1,18,23.900
-2023,18,United States Grand Prix,alonso,1,19,25.055
-2023,18,United States Grand Prix,hulkenberg,1,19,26.573
-2023,18,United States Grand Prix,hamilton,1,20,24.916
-2023,18,United States Grand Prix,stroll,1,20,24.457
-2023,18,United States Grand Prix,russell,1,21,24.357
-2023,18,United States Grand Prix,ricciardo,1,22,24.364
-2023,18,United States Grand Prix,leclerc,1,23,23.963
-2023,18,United States Grand Prix,zhou,2,27,24.717
-2023,18,United States Grand Prix,bottas,2,28,25.020
-2023,18,United States Grand Prix,albon,2,29,24.354
-2023,18,United States Grand Prix,kevin_magnussen,2,29,24.745
-2023,18,United States Grand Prix,sargeant,2,32,25.547
-2023,18,United States Grand Prix,norris,2,34,23.361
-2023,18,United States Grand Prix,tsunoda,2,34,24.125
-2023,18,United States Grand Prix,hulkenberg,2,34,24.308
-2023,18,United States Grand Prix,max_verstappen,2,35,24.974
-2023,18,United States Grand Prix,sainz,2,35,23.673
-2023,18,United States Grand Prix,perez,2,37,23.747
-2023,18,United States Grand Prix,gasly,2,37,24.880
-2023,19,Mexico City Grand Prix,tsunoda,1,9,30.121
-2023,19,Mexico City Grand Prix,norris,1,11,23.408
-2023,19,Mexico City Grand Prix,max_verstappen,1,19,22.427
-2023,19,Mexico City Grand Prix,zhou,1,21,22.817
-2023,19,Mexico City Grand Prix,sargeant,1,22,23.945
-2023,19,Mexico City Grand Prix,hulkenberg,1,23,23.144
-2023,19,Mexico City Grand Prix,kevin_magnussen,1,23,23.642
-2023,19,Mexico City Grand Prix,hamilton,1,24,22.210
-2023,19,Mexico City Grand Prix,piastri,1,25,23.734
-2023,19,Mexico City Grand Prix,russell,1,26,22.311
-2023,19,Mexico City Grand Prix,ricciardo,1,27,22.406
-2023,19,Mexico City Grand Prix,gasly,1,28,22.627
-2023,19,Mexico City Grand Prix,alonso,1,29,22.844
-2023,19,Mexico City Grand Prix,sainz,1,30,22.067
-2023,19,Mexico City Grand Prix,stroll,1,30,22.582
-2023,19,Mexico City Grand Prix,leclerc,1,31,22.248
-2023,19,Mexico City Grand Prix,bottas,1,31,23.638
-2023,19,Mexico City Grand Prix,max_verstappen,2,33,22.372
-2023,19,Mexico City Grand Prix,norris,2,33,22.563
-2023,19,Mexico City Grand Prix,albon,1,33,23.680
-2023,19,Mexico City Grand Prix,max_verstappen,3,34,20:09.136
-2023,19,Mexico City Grand Prix,leclerc,2,34,20:10.512
-2023,19,Mexico City Grand Prix,hamilton,2,34,20:12.908
-2023,19,Mexico City Grand Prix,sainz,2,34,20:15.432
-2023,19,Mexico City Grand Prix,ricciardo,2,34,20:17.136
-2023,19,Mexico City Grand Prix,piastri,2,34,20:19.064
-2023,19,Mexico City Grand Prix,russell,2,34,20:18.200
-2023,19,Mexico City Grand Prix,tsunoda,2,34,20:18.057
-2023,19,Mexico City Grand Prix,hulkenberg,2,34,20:19.826
-2023,19,Mexico City Grand Prix,norris,3,34,20:26.386
-2023,20,São Paulo Grand Prix,max_verstappen,1,1,18.535
-2023,20,São Paulo Grand Prix,norris,1,1,19.386
-2023,20,São Paulo Grand Prix,hamilton,1,1,18.521
-2023,20,São Paulo Grand Prix,alonso,1,1,18.487
-2023,20,São Paulo Grand Prix,stroll,1,1,18.504
-2023,20,São Paulo Grand Prix,russell,1,1,20.449
-2023,20,São Paulo Grand Prix,perez,1,1,20.811
-2023,20,São Paulo Grand Prix,sainz,1,1,23.030
-2023,20,São Paulo Grand Prix,ocon,1,1,22.209
-2023,20,São Paulo Grand Prix,piastri,1,1,26:24.007
-2023,20,São Paulo Grand Prix,tsunoda,1,1,20.969
-2023,20,São Paulo Grand Prix,gasly,1,1,20.523
-2023,20,São Paulo Grand Prix,bottas,1,1,20.732
-2023,20,São Paulo Grand Prix,zhou,1,1,21.256
-2023,20,São Paulo Grand Prix,sargeant,1,1,27.472
-2023,20,São Paulo Grand Prix,ricciardo,1,1,26:16.725
-2023,20,São Paulo Grand Prix,hulkenberg,1,1,34.261
-2023,20,São Paulo Grand Prix,max_verstappen,2,2,23:22.632
-2023,20,São Paulo Grand Prix,norris,2,2,23:24.611
-2023,20,São Paulo Grand Prix,hamilton,2,2,23:26.375
-2023,20,São Paulo Grand Prix,alonso,2,2,23:28.154
-2023,20,São Paulo Grand Prix,stroll,2,2,23:29.984
-2023,20,São Paulo Grand Prix,russell,2,2,23:30.984
-2023,20,São Paulo Grand Prix,perez,2,2,23:31.712
-2023,20,São Paulo Grand Prix,sainz,2,2,23:33.704
-2023,20,São Paulo Grand Prix,ocon,2,2,23:34.725
-2023,20,São Paulo Grand Prix,tsunoda,2,2,23:35.420
-2023,20,São Paulo Grand Prix,gasly,2,2,23:36.706
-2023,20,São Paulo Grand Prix,bottas,2,2,23:38.156
-2023,20,São Paulo Grand Prix,zhou,2,2,23:39.945
-2023,21,Las Vegas Grand Prix,perez,1,1,33.599
-2023,21,Las Vegas Grand Prix,alonso,1,1,29.304
-2023,21,Las Vegas Grand Prix,bottas,1,1,43.914
-2023,21,Las Vegas Grand Prix,stroll,1,3,22.222
-2023,21,Las Vegas Grand Prix,sainz,1,3,21.261
-2023,21,Las Vegas Grand Prix,tsunoda,1,10,20.619
-2023,21,Las Vegas Grand Prix,hulkenberg,1,12,22.154
-2023,21,Las Vegas Grand Prix,kevin_magnussen,1,14,21.611
-2023,21,Las Vegas Grand Prix,russell,1,15,21.257
-2023,21,Las Vegas Grand Prix,sargeant,1,15,21.367
-2023,21,Las Vegas Grand Prix,max_verstappen,1,16,26.686
-2023,21,Las Vegas Grand Prix,albon,1,16,21.242
-2023,21,Las Vegas Grand Prix,piastri,1,16,23.269
-2023,21,Las Vegas Grand Prix,gasly,1,17,22.262
-2023,21,Las Vegas Grand Prix,hamilton,1,17,25.047
-2023,21,Las Vegas Grand Prix,ricciardo,1,17,22.242
-2023,21,Las Vegas Grand Prix,ocon,1,20,21.763
-2023,21,Las Vegas Grand Prix,leclerc,1,21,22.559
-2023,21,Las Vegas Grand Prix,tsunoda,2,21,20.894
-2023,21,Las Vegas Grand Prix,bottas,2,24,21.575
-2023,21,Las Vegas Grand Prix,perez,2,26,21.568
-2023,21,Las Vegas Grand Prix,stroll,2,26,22.570
-2023,21,Las Vegas Grand Prix,max_verstappen,2,26,21.323
-2023,21,Las Vegas Grand Prix,russell,2,26,21.952
-2023,21,Las Vegas Grand Prix,sainz,2,26,22.630
-2023,21,Las Vegas Grand Prix,alonso,2,26,23.214
-2023,21,Las Vegas Grand Prix,zhou,1,26,22.155
-2023,21,Las Vegas Grand Prix,kevin_magnussen,2,26,21.868
-2023,21,Las Vegas Grand Prix,hulkenberg,2,26,25.453
-2023,21,Las Vegas Grand Prix,hamilton,2,26,22.508
-2023,22,Abu Dhabi Grand Prix,kevin_magnussen,1,5,22.764
-2023,22,Abu Dhabi Grand Prix,ricciardo,1,7,21.692
-2023,22,Abu Dhabi Grand Prix,alonso,1,12,22.462
-2023,22,Abu Dhabi Grand Prix,piastri,1,13,21.697
-2023,22,Abu Dhabi Grand Prix,hulkenberg,1,13,21.861
-2023,22,Abu Dhabi Grand Prix,zhou,1,13,22.867
-2023,22,Abu Dhabi Grand Prix,norris,1,14,24.061
-2023,22,Abu Dhabi Grand Prix,russell,1,14,21.650
-2023,22,Abu Dhabi Grand Prix,hamilton,1,15,22.195
-2023,22,Abu Dhabi Grand Prix,ocon,1,15,22.160
-2023,22,Abu Dhabi Grand Prix,sargeant,1,15,22.124
-2023,22,Abu Dhabi Grand Prix,max_verstappen,1,16,21.662
-2023,22,Abu Dhabi Grand Prix,albon,1,16,22.170
-2023,22,Abu Dhabi Grand Prix,leclerc,1,17,21.919
-2023,22,Abu Dhabi Grand Prix,perez,1,17,21.446
-2023,22,Abu Dhabi Grand Prix,gasly,1,17,23.091
-2023,22,Abu Dhabi Grand Prix,tsunoda,1,22,21.486
-2023,22,Abu Dhabi Grand Prix,stroll,1,22,21.866
-2023,22,Abu Dhabi Grand Prix,kevin_magnussen,2,22,22.163
-2023,22,Abu Dhabi Grand Prix,sainz,1,23,21.229
-2023,22,Abu Dhabi Grand Prix,bottas,1,29,22.665
-2023,22,Abu Dhabi Grand Prix,ricciardo,2,31,21.740
-2023,22,Abu Dhabi Grand Prix,gasly,2,32,23.478
-2023,22,Abu Dhabi Grand Prix,norris,2,33,21.432
-2023,22,Abu Dhabi Grand Prix,hulkenberg,2,33,22.081
-2023,22,Abu Dhabi Grand Prix,russell,2,34,22.084
-2023,22,Abu Dhabi Grand Prix,leclerc,2,35,21.246
-2023,22,Abu Dhabi Grand Prix,hamilton,2,35,22.045
-2023,22,Abu Dhabi Grand Prix,piastri,2,36,21.156
-2023,22,Abu Dhabi Grand Prix,alonso,2,36,21.841
+year,round,race_name,driver,stop_number,lap,duration,stop
+2023,1,Bahrain Grand Prix,gasly,1.0,9,25.885,
+2023,1,Bahrain Grand Prix,norris,1.0,10,32.766,
+2023,1,Bahrain Grand Prix,tsunoda,1.0,10,25.267,
+2023,1,Bahrain Grand Prix,bottas,1.0,11,25.399,
+2023,1,Bahrain Grand Prix,albon,1.0,11,25.054,
+2023,1,Bahrain Grand Prix,de_vries,1.0,11,25.018,
+2023,1,Bahrain Grand Prix,hulkenberg,1.0,11,26.075,
+2023,1,Bahrain Grand Prix,hamilton,1.0,12,24.682,
+2023,1,Bahrain Grand Prix,ocon,1.0,12,24.966,
+2023,1,Bahrain Grand Prix,sargeant,1.0,12,25.600,
+2023,1,Bahrain Grand Prix,zhou,1.0,12,25.787,
+2023,1,Bahrain Grand Prix,bottas,2.0,29,25.643,
+2023,1,Bahrain Grand Prix,kevin_magnussen,2.0,29,25.344,
+2023,1,Bahrain Grand Prix,hamilton,2.0,30,24.690,
+2023,1,Bahrain Grand Prix,leclerc,1.0,13,24.345,
+2023,1,Bahrain Grand Prix,russell,1.0,13,27.062,
+2023,1,Bahrain Grand Prix,max_verstappen,1.0,14,24.289,
+2023,1,Bahrain Grand Prix,alonso,1.0,14,25.800,
+2023,1,Bahrain Grand Prix,stroll,1.0,15,25.449,
+2023,1,Bahrain Grand Prix,kevin_magnussen,1.0,15,25.439,
+2023,1,Bahrain Grand Prix,ocon,2.0,15,41.462,
+2023,1,Bahrain Grand Prix,perez,1.0,17,24.264,
+2023,1,Bahrain Grand Prix,norris,2.0,17,33.661,
+2023,1,Bahrain Grand Prix,gasly,2.0,25,24.879,
+2023,1,Bahrain Grand Prix,albon,2.0,26,24.920,
+2023,1,Bahrain Grand Prix,tsunoda,2.0,26,24.372,
+2023,1,Bahrain Grand Prix,hulkenberg,2.0,26,37.769,
+2023,1,Bahrain Grand Prix,de_vries,2.0,27,25.234,
+2023,1,Bahrain Grand Prix,norris,3.0,27,33.467,
+2023,1,Bahrain Grand Prix,sainz,1.0,13,24.500,
+2023,2,Saudi Arabian Grand Prix,bottas,2.0,17,22.191,
+2023,2,Saudi Arabian Grand Prix,perez,1.0,18,20.715,
+2023,2,Saudi Arabian Grand Prix,piastri,1.0,1,31.534,
+2023,2,Saudi Arabian Grand Prix,max_verstappen,1.0,18,20.824,
+2023,2,Saudi Arabian Grand Prix,hamilton,1.0,18,21.102,
+2023,2,Saudi Arabian Grand Prix,de_vries,1.0,17,21.116,
+2023,2,Saudi Arabian Grand Prix,albon,1.0,17,21.397,
+2023,2,Saudi Arabian Grand Prix,tsunoda,1.0,17,21.414,
+2023,2,Saudi Arabian Grand Prix,ocon,1.0,16,20.762,
+2023,2,Saudi Arabian Grand Prix,leclerc,1.0,16,20.026,
+2023,2,Saudi Arabian Grand Prix,zhou,1.0,11,21.703,
+2023,2,Saudi Arabian Grand Prix,bottas,1.0,9,21.505,
+2023,2,Saudi Arabian Grand Prix,stroll,1.0,13,21.150,
+2023,2,Saudi Arabian Grand Prix,hulkenberg,1.0,11,21.567,
+2023,2,Saudi Arabian Grand Prix,norris,2.0,19,21.352,
+2023,2,Saudi Arabian Grand Prix,zhou,2.0,18,21.282,
+2023,2,Saudi Arabian Grand Prix,bottas,3.0,35,21.808,
+2023,2,Saudi Arabian Grand Prix,sargeant,1.0,18,21.064,
+2023,2,Saudi Arabian Grand Prix,sainz,1.0,15,20.760,
+2023,2,Saudi Arabian Grand Prix,gasly,1.0,14,20.719,
+2023,2,Saudi Arabian Grand Prix,alonso,1.0,18,26.879,
+2023,2,Saudi Arabian Grand Prix,russell,1.0,18,20.828,
+2023,2,Saudi Arabian Grand Prix,kevin_magnussen,1.0,8,20.870,
+2023,2,Saudi Arabian Grand Prix,norris,1.0,2,29.444,
+2023,3,Australian Grand Prix,sargeant,3.0,8,15:38.017,
+2023,3,Australian Grand Prix,de_vries,2.0,45,18.080,
+2023,3,Australian Grand Prix,norris,1.0,8,15:34.763,
+2023,3,Australian Grand Prix,piastri,1.0,8,15:34.541,
+2023,3,Australian Grand Prix,sainz,2.0,8,15:37.024,
+2023,3,Australian Grand Prix,de_vries,1.0,8,15:37.874,
+2023,3,Australian Grand Prix,gasly,1.0,8,15:26.996,
+2023,3,Australian Grand Prix,kevin_magnussen,2.0,8,15:40.228,
+2023,3,Australian Grand Prix,sargeant,4.0,36,19.018,
+2023,3,Australian Grand Prix,tsunoda,1.0,8,15:31.820,
+2023,3,Australian Grand Prix,hamilton,1.0,8,15:25.181,
+2023,3,Australian Grand Prix,max_verstappen,1.0,8,15:25.112,
+2023,3,Australian Grand Prix,alonso,1.0,8,15:26.940,
+2023,3,Australian Grand Prix,bottas,1.0,1,21.659,
+2023,3,Australian Grand Prix,russell,1.0,7,19.146,
+2023,3,Australian Grand Prix,perez,2.0,2,17.814,
+2023,3,Australian Grand Prix,sargeant,2.0,2,19.158,
+2023,3,Australian Grand Prix,ocon,1.0,1,18.056,
+2023,3,Australian Grand Prix,perez,1.0,1,17.657,
+2023,3,Australian Grand Prix,sargeant,1.0,1,18.382,
+2023,3,Australian Grand Prix,zhou,1.0,1,18.951,
+2023,3,Australian Grand Prix,sainz,1.0,7,18.319,
+2023,3,Australian Grand Prix,ocon,2.0,8,15:37.929,
+2023,3,Australian Grand Prix,hulkenberg,1.0,8,15:26.326,
+2023,3,Australian Grand Prix,russell,2.0,8,15:30.824,
+2023,3,Australian Grand Prix,kevin_magnussen,1.0,7,20.789,
+2023,3,Australian Grand Prix,zhou,2.0,8,15:37.849,
+2023,3,Australian Grand Prix,perez,3.0,8,15:37.512,
+2023,3,Australian Grand Prix,bottas,2.0,8,15:37.594,
+2023,3,Australian Grand Prix,stroll,1.0,8,15:27.222,
+2023,4,Azerbaijan Grand Prix,leclerc,1.0,11,21.126,
+2023,4,Azerbaijan Grand Prix,perez,1.0,11,20.389,
+2023,4,Azerbaijan Grand Prix,kevin_magnussen,1.0,10,30.951,
+2023,4,Azerbaijan Grand Prix,gasly,1.0,5,20.235,
+2023,4,Azerbaijan Grand Prix,piastri,1.0,8,20.902,
+2023,4,Azerbaijan Grand Prix,sargeant,1.0,8,21.015,
+2023,4,Azerbaijan Grand Prix,hamilton,1.0,9,20.324,
+2023,4,Azerbaijan Grand Prix,norris,1.0,9,20.346,
+2023,4,Azerbaijan Grand Prix,max_verstappen,1.0,10,20.707,
+2023,4,Azerbaijan Grand Prix,bottas,1.0,6,20.967,
+2023,4,Azerbaijan Grand Prix,albon,1.0,7,21.103,
+2023,4,Azerbaijan Grand Prix,tsunoda,1.0,8,20.497,
+2023,4,Azerbaijan Grand Prix,bottas,3.0,34,21.012,
+2023,4,Azerbaijan Grand Prix,gasly,2.0,23,21.169,
+2023,4,Azerbaijan Grand Prix,bottas,2.0,12,22.354,
+2023,4,Azerbaijan Grand Prix,zhou,1.0,11,22.247,
+2023,4,Azerbaijan Grand Prix,russell,1.0,11,20.459,
+2023,4,Azerbaijan Grand Prix,ocon,1.0,50,20.367,
+2023,4,Azerbaijan Grand Prix,hulkenberg,1.0,49,24.748,
+2023,4,Azerbaijan Grand Prix,russell,2.0,49,21.389,
+2023,4,Azerbaijan Grand Prix,alonso,1.0,11,23.148,
+2023,4,Azerbaijan Grand Prix,stroll,1.0,11,23.161,
+2023,4,Azerbaijan Grand Prix,sainz,1.0,11,21.970,
+2023,5,Miami Grand Prix,piastri,1.0,5,22.205,
+2023,5,Miami Grand Prix,stroll,1.0,42,22.651,
+2023,5,Miami Grand Prix,max_verstappen,1.0,45,22.688,
+2023,5,Miami Grand Prix,sargeant,1.0,2,48.938,
+2023,5,Miami Grand Prix,norris,1.0,4,24.090,
+2023,5,Miami Grand Prix,gasly,1.0,15,22.417,
+2023,5,Miami Grand Prix,kevin_magnussen,1.0,14,22.616,
+2023,5,Miami Grand Prix,tsunoda,1.0,36,22.390,
+2023,5,Miami Grand Prix,bottas,1.0,15,23.158,
+2023,5,Miami Grand Prix,sainz,1.0,18,22.278,
+2023,5,Miami Grand Prix,de_vries,1.0,15,23.487,
+2023,5,Miami Grand Prix,russell,1.0,17,22.335,
+2023,5,Miami Grand Prix,leclerc,1.0,17,22.068,
+2023,5,Miami Grand Prix,zhou,1.0,31,22.796,
+2023,5,Miami Grand Prix,hulkenberg,1.0,33,23.120,
+2023,5,Miami Grand Prix,albon,1.0,22,22.482,
+2023,5,Miami Grand Prix,hamilton,1.0,37,22.150,
+2023,5,Miami Grand Prix,ocon,1.0,39,21.942,
+2023,5,Miami Grand Prix,perez,1.0,20,21.884,
+2023,5,Miami Grand Prix,alonso,1.0,24,22.631,
+2023,6,Monaco Grand Prix,albon,2.0,52,26.990,
+2023,6,Monaco Grand Prix,gasly,2.0,54,29.949,
+2023,6,Monaco Grand Prix,hamilton,2.0,54,26.685,
+2023,6,Monaco Grand Prix,ocon,2.0,54,24.707,
+2023,6,Monaco Grand Prix,tsunoda,1.0,53,33.706,
+2023,6,Monaco Grand Prix,russell,1.0,54,30.980,
+2023,6,Monaco Grand Prix,sargeant,3.0,52,25.946,
+2023,6,Monaco Grand Prix,alonso,1.0,54,24.414,
+2023,6,Monaco Grand Prix,de_vries,1.0,53,24.539,
+2023,6,Monaco Grand Prix,norris,2.0,54,33.428,
+2023,6,Monaco Grand Prix,piastri,1.0,54,25.851,
+2023,6,Monaco Grand Prix,max_verstappen,1.0,55,24.798,
+2023,6,Monaco Grand Prix,perez,3.0,53,24.217,
+2023,6,Monaco Grand Prix,alonso,2.0,55,25.916,
+2023,6,Monaco Grand Prix,stroll,1.0,51,24.656,
+2023,6,Monaco Grand Prix,zhou,2.0,52,25.260,
+2023,6,Monaco Grand Prix,hulkenberg,1.0,1,32.494,
+2023,6,Monaco Grand Prix,zhou,1.0,1,26.141,
+2023,6,Monaco Grand Prix,perez,1.0,1,24.887,
+2023,6,Monaco Grand Prix,albon,1.0,18,24.290,
+2023,6,Monaco Grand Prix,sargeant,1.0,20,24.376,
+2023,6,Monaco Grand Prix,sargeant,2.0,23,27.774,
+2023,6,Monaco Grand Prix,hamilton,1.0,31,24.594,
+2023,6,Monaco Grand Prix,ocon,1.0,32,25.833,
+2023,6,Monaco Grand Prix,sainz,1.0,33,24.252,
+2023,6,Monaco Grand Prix,perez,2.0,34,32.749,
+2023,6,Monaco Grand Prix,leclerc,1.0,44,24.192,
+2023,6,Monaco Grand Prix,gasly,1.0,47,23.902,
+2023,6,Monaco Grand Prix,norris,1.0,50,24.663,
+2023,6,Monaco Grand Prix,bottas,1.0,51,30.395,
+2023,7,Spanish Grand Prix,zhou,2.0,36,22.889,
+2023,7,Spanish Grand Prix,sargeant,2.0,36,23.827,
+2023,7,Spanish Grand Prix,albon,2.0,37,23.449,
+2023,7,Spanish Grand Prix,de_vries,2.0,38,21.976,
+2023,7,Spanish Grand Prix,perez,1.0,27,21.775,
+2023,7,Spanish Grand Prix,stroll,2.0,34,23.371,
+2023,7,Spanish Grand Prix,tsunoda,2.0,34,22.009,
+2023,7,Spanish Grand Prix,ocon,2.0,35,24.110,
+2023,7,Spanish Grand Prix,hulkenberg,2.0,26,23.257,
+2023,7,Spanish Grand Prix,max_verstappen,1.0,26,22.241,
+2023,7,Spanish Grand Prix,russell,1.0,25,22.275,
+2023,7,Spanish Grand Prix,kevin_magnussen,2.0,24,24.800,
+2023,7,Spanish Grand Prix,tsunoda,1.0,10,22.176,
+2023,7,Spanish Grand Prix,de_vries,1.0,9,22.522,
+2023,7,Spanish Grand Prix,hamilton,1.0,24,22.575,
+2023,7,Spanish Grand Prix,norris,2.0,22,22.850,
+2023,7,Spanish Grand Prix,bottas,1.0,5,23.691,
+2023,7,Spanish Grand Prix,norris,1.0,1,37.736,
+2023,7,Spanish Grand Prix,gasly,1.0,19,23.388,
+2023,7,Spanish Grand Prix,alonso,1.0,19,22.558,
+2023,7,Spanish Grand Prix,sargeant,1.0,17,22.583,
+2023,7,Spanish Grand Prix,piastri,1.0,17,22.370,
+2023,7,Spanish Grand Prix,albon,1.0,16,23.319,
+2023,7,Spanish Grand Prix,leclerc,1.0,16,21.778,
+2023,7,Spanish Grand Prix,sainz,1.0,15,22.321,
+2023,7,Spanish Grand Prix,stroll,1.0,14,22.355,
+2023,7,Spanish Grand Prix,ocon,1.0,13,22.112,
+2023,7,Spanish Grand Prix,kevin_magnussen,1.0,10,22.124,
+2023,7,Spanish Grand Prix,zhou,1.0,9,23.430,
+2023,7,Spanish Grand Prix,hulkenberg,1.0,8,22.298,
+2023,8,Canadian Grand Prix,stroll,1.0,11,23.711,
+2023,8,Canadian Grand Prix,hulkenberg,1.0,11,24.880,
+2023,8,Canadian Grand Prix,max_verstappen,2.0,42,23.910,
+2023,8,Canadian Grand Prix,alonso,2.0,41,23.928,
+2023,8,Canadian Grand Prix,bottas,1.0,36,24.038,
+2023,8,Canadian Grand Prix,perez,1.0,37,23.281,
+2023,8,Canadian Grand Prix,piastri,2.0,37,23.436,
+2023,8,Canadian Grand Prix,sainz,1.0,38,24.133,
+2023,8,Canadian Grand Prix,leclerc,1.0,39,24.343,
+2023,8,Canadian Grand Prix,hamilton,2.0,40,23.749,
+2023,8,Canadian Grand Prix,ocon,2.0,36,23.698,
+2023,8,Canadian Grand Prix,kevin_magnussen,1.0,35,24.909,
+2023,8,Canadian Grand Prix,piastri,1.0,12,24.828,
+2023,8,Canadian Grand Prix,ocon,1.0,12,24.402,
+2023,8,Canadian Grand Prix,alonso,1.0,12,24.031,
+2023,8,Canadian Grand Prix,hamilton,1.0,12,24.339,
+2023,8,Canadian Grand Prix,gasly,1.0,10,27.515,
+2023,8,Canadian Grand Prix,tsunoda,1.0,1,23.646,
+2023,8,Canadian Grand Prix,norris,2.0,35,23.570,
+2023,8,Canadian Grand Prix,tsunoda,2.0,34,27.523,
+2023,8,Canadian Grand Prix,gasly,2.0,33,24.117,
+2023,8,Canadian Grand Prix,zhou,2.0,32,27.509,
+2023,8,Canadian Grand Prix,hulkenberg,2.0,31,24.200,
+2023,8,Canadian Grand Prix,stroll,2.0,27,23.839,
+2023,8,Canadian Grand Prix,russell,1.0,12,1:28.943,
+2023,8,Canadian Grand Prix,zhou,1.0,12,24.161,
+2023,8,Canadian Grand Prix,albon,1.0,12,25.064,
+2023,8,Canadian Grand Prix,norris,1.0,12,25.862,
+2023,8,Canadian Grand Prix,max_verstappen,1.0,12,23.644,
+2023,8,Canadian Grand Prix,de_vries,1.0,11,24.960,
+2023,9,Austrian Grand Prix,sainz,1.0,2,16.380,
+2023,9,Austrian Grand Prix,hamilton,1.0,2,16.415,
+2023,9,Austrian Grand Prix,tsunoda,1.0,1,29.691,
+2023,9,Austrian Grand Prix,kevin_magnussen,1.0,1,26.587,
+2023,9,Austrian Grand Prix,norris,1.0,2,18.076,
+2023,9,Austrian Grand Prix,alonso,1.0,2,16.600,
+2023,9,Austrian Grand Prix,hulkenberg,1.0,2,16.778,
+2023,9,Austrian Grand Prix,stroll,1.0,2,16.646,
+2023,9,Austrian Grand Prix,gasly,1.0,2,16.380,
+2023,9,Austrian Grand Prix,albon,1.0,2,16.737,
+2023,9,Austrian Grand Prix,russell,1.0,2,17.946,
+2023,9,Austrian Grand Prix,ocon,1.0,2,18.143,
+2023,9,Austrian Grand Prix,perez,1.0,2,17.428,
+2023,9,Austrian Grand Prix,zhou,1.0,2,17.467,
+2023,9,Austrian Grand Prix,piastri,1.0,2,17.324,
+2023,9,Austrian Grand Prix,sargeant,1.0,2,17.337,
+2023,9,Austrian Grand Prix,bottas,1.0,2,17.130,
+2023,9,Austrian Grand Prix,de_vries,1.0,2,17.033,
+2023,9,Austrian Grand Prix,kevin_magnussen,2.0,2,25.654,
+2023,9,Austrian Grand Prix,tsunoda,2.0,2,16.246,
+2023,9,Austrian Grand Prix,max_verstappen,1.0,2,16.369,
+2023,9,Austrian Grand Prix,leclerc,1.0,2,16.393,
+2023,9,Austrian Grand Prix,zhou,2.0,8,24.374,
+2023,9,Austrian Grand Prix,hulkenberg,2.0,11,21.891,
+2023,9,Austrian Grand Prix,norris,2.0,14,21.290,
+2023,9,Austrian Grand Prix,gasly,2.0,14,21.814,
+2023,9,Austrian Grand Prix,de_vries,2.0,12,21.333,
+2023,9,Austrian Grand Prix,hamilton,2.0,14,21.993,
+2023,9,Austrian Grand Prix,albon,2.0,14,21.562,
+2023,9,Austrian Grand Prix,russell,2.0,14,22.262,
+2023,10,British Grand Prix,hulkenberg,1.0,7,41.972,
+2023,10,British Grand Prix,tsunoda,1.0,14,28.353,
+2023,10,British Grand Prix,sainz,1.0,26,28.869,
+2023,10,British Grand Prix,de_vries,1.0,27,28.242,
+2023,10,British Grand Prix,leclerc,1.0,18,28.244,
+2023,10,British Grand Prix,zhou,1.0,24,29.177,
+2023,10,British Grand Prix,piastri,1.0,29,28.655,
+2023,10,British Grand Prix,sargeant,1.0,29,28.847,
+2023,10,British Grand Prix,gasly,1.0,31,28.458,
+2023,10,British Grand Prix,stroll,1.0,31,28.561,
+2023,10,British Grand Prix,albon,1.0,32,29.634,
+2023,10,British Grand Prix,leclerc,2.0,32,28.805,
+2023,10,British Grand Prix,bottas,1.0,32,29.662,
+2023,10,British Grand Prix,tsunoda,2.0,32,28.603,
+2023,10,British Grand Prix,de_vries,2.0,32,28.413,
+2023,10,British Grand Prix,hulkenberg,2.0,32,30.003,
+2023,10,British Grand Prix,max_verstappen,1.0,33,29.056,
+2023,10,British Grand Prix,norris,1.0,33,28.438,
+2023,10,British Grand Prix,hamilton,1.0,33,29.169,
+2023,10,British Grand Prix,alonso,1.0,33,28.679,
+2023,10,British Grand Prix,zhou,2.0,33,28.709,
+2023,10,British Grand Prix,zhou,3.0,36,34.374,
+2023,10,British Grand Prix,perez,1.0,28,28.060,
+2023,10,British Grand Prix,russell,1.0,28,29.455,
+2023,11,Hungarian Grand Prix,leclerc,2.0,43,21.452,
+2023,11,Hungarian Grand Prix,perez,2.0,42,20.880,
+2023,11,Hungarian Grand Prix,piastri,2.0,42,22.030,
+2023,11,Hungarian Grand Prix,kevin_magnussen,2.0,41,22.152,
+2023,11,Hungarian Grand Prix,bottas,2.0,40,23.242,
+2023,11,Hungarian Grand Prix,zhou,2.0,38,22.853,
+2023,11,Hungarian Grand Prix,hulkenberg,2.0,38,21.955,
+2023,11,Hungarian Grand Prix,sargeant,2.0,34,22.197,
+2023,11,Hungarian Grand Prix,stroll,2.0,34,22.403,
+2023,11,Hungarian Grand Prix,albon,2.0,31,21.762,
+2023,11,Hungarian Grand Prix,ricciardo,2.0,29,22.203,
+2023,11,Hungarian Grand Prix,russell,1.0,28,21.886,
+2023,11,Hungarian Grand Prix,perez,1.0,24,21.862,
+2023,11,Hungarian Grand Prix,max_verstappen,1.0,23,21.407,
+2023,11,Hungarian Grand Prix,alonso,1.0,20,22.916,
+2023,11,Hungarian Grand Prix,ricciardo,1.0,18,21.958,
+2023,11,Hungarian Grand Prix,alonso,2.0,43,24.152,
+2023,11,Hungarian Grand Prix,sainz,1.0,15,21.402,
+2023,11,Hungarian Grand Prix,kevin_magnussen,1.0,14,22.753,
+2023,11,Hungarian Grand Prix,zhou,1.0,10,29.211,
+2023,11,Hungarian Grand Prix,hamilton,1.0,16,21.974,
+2023,11,Hungarian Grand Prix,bottas,1.0,9,22.114,
+2023,11,Hungarian Grand Prix,tsunoda,1.0,9,26.170,
+2023,11,Hungarian Grand Prix,piastri,1.0,18,21.171,
+2023,11,Hungarian Grand Prix,albon,1.0,8,22.076,
+2023,11,Hungarian Grand Prix,leclerc,1.0,17,28.404,
+2023,11,Hungarian Grand Prix,norris,1.0,17,21.541,
+2023,11,Hungarian Grand Prix,stroll,1.0,9,21.910,
+2023,11,Hungarian Grand Prix,sargeant,1.0,13,24.001,
+2023,11,Hungarian Grand Prix,hulkenberg,1.0,16,22.922,
+2023,12,Belgian Grand Prix,hulkenberg,1.0,12,24.571,
+2023,12,Belgian Grand Prix,leclerc,1.0,13,23.224,
+2023,12,Belgian Grand Prix,hamilton,2.0,27,23.023,
+2023,12,Belgian Grand Prix,zhou,2.0,25,24.045,
+2023,12,Belgian Grand Prix,kevin_magnussen,2.0,25,23.572,
+2023,12,Belgian Grand Prix,ocon,2.0,25,23.339,
+2023,12,Belgian Grand Prix,hulkenberg,2.0,24,25.238,
+2023,12,Belgian Grand Prix,sargeant,2.0,24,23.938,
+2023,12,Belgian Grand Prix,bottas,2.0,24,23.786,
+2023,12,Belgian Grand Prix,tsunoda,2.0,24,22.737,
+2023,12,Belgian Grand Prix,russell,1.0,22,23.837,
+2023,12,Belgian Grand Prix,albon,2.0,23,23.596,
+2023,12,Belgian Grand Prix,gasly,1.0,23,25.664,
+2023,12,Belgian Grand Prix,ricciardo,2.0,22,23.290,
+2023,12,Belgian Grand Prix,norris,2.0,17,23.744,
+2023,12,Belgian Grand Prix,stroll,1.0,20,25.397,
+2023,12,Belgian Grand Prix,max_verstappen,1.0,14,22.887,
+2023,12,Belgian Grand Prix,norris,1.0,5,25.012,
+2023,12,Belgian Grand Prix,zhou,1.0,7,24.449,
+2023,12,Belgian Grand Prix,sainz,1.0,7,23.303,
+2023,12,Belgian Grand Prix,bottas,1.0,6,23.362,
+2023,12,Belgian Grand Prix,perez,1.0,13,23.684,
+2023,12,Belgian Grand Prix,alonso,1.0,10,23.085,
+2023,12,Belgian Grand Prix,tsunoda,1.0,9,22.610,
+2023,12,Belgian Grand Prix,sargeant,1.0,8,23.570,
+2023,12,Belgian Grand Prix,hamilton,1.0,12,23.090,
+2023,12,Belgian Grand Prix,ocon,1.0,6,23.085,
+2023,12,Belgian Grand Prix,ricciardo,1.0,5,22.843,
+2023,12,Belgian Grand Prix,kevin_magnussen,1.0,5,23.638,
+2023,12,Belgian Grand Prix,albon,1.0,7,25.015,
+2023,13,,stroll,,9,20.208,2.0
+2023,13,,hamilton,,9,19.970,2.0
+2023,13,,kevin_magnussen,,9,20.137,2.0
+2023,13,,zhou,,1,23.088,1.0
+2023,13,,alonso,,48,25.147,3.0
+2023,13,,bottas,,47,20.213,2.0
+2023,13,,lawson,,46,19.192,4.0
+2023,13,,piastri,,46,19.120,2.0
+2023,13,,gasly,,46,25.404,3.0
+2023,13,,hamilton,,45,19.327,3.0
+2023,13,,perez,,45,18.789,3.0
+2023,13,,albon,,44,19.667,1.0
+2023,13,,ocon,,43,19.024,3.0
+2023,13,,norris,,42,18.878,3.0
+2023,13,,sainz,,41,19.398,3.0
+2023,13,,zhou,,37,20.469,3.0
+2023,13,,kevin_magnussen,,35,20.510,3.0
+2023,13,,stroll,,34,19.923,4.0
+2023,13,,alonso,,10,20.109,2.0
+2023,13,,zhou,,10,20.231,2.0
+2023,13,,lawson,,17,19.600,3.0
+2023,13,,gasly,,1,28.469,1.0
+2023,13,,sainz,,10,19.511,2.0
+2023,13,,tsunoda,,10,18.904,2.0
+2023,13,,ocon,,10,19.795,2.0
+2023,13,,norris,,10,20.395,2.0
+2023,13,,lawson,,10,30.836,2.0
+2023,13,,russell,,10,20.148,2.0
+2023,13,,max_verstappen,,11,19.289,2.0
+2023,13,,gasly,,11,19.518,2.0
+2023,13,,leclerc,,11,27.202,2.0
+2023,13,,perez,,12,19.460,2.0
+2023,13,,piastri,,15,18.979,1.0
+2023,13,,bottas,,16,20.187,1.0
+2023,13,,hulkenberg,,16,20.438,1.0
+2023,13,,russell,,16,19.607,3.0
+2023,13,,stroll,,16,19.653,3.0
+2023,13,,max_verstappen,,49,18.706,3.0
+2023,13,,bottas,,59,19.735,3.0
+2023,13,,lawson,,59,19.307,5.0
+2023,13,,perez,,60,27.596,4.0
+2023,13,,gasly,,60,20.417,4.0
+2023,13,,sainz,,60,19.838,4.0
+2023,13,,hamilton,,60,20.779,4.0
+2023,13,,russell,,60,24.019,4.0
+2023,13,,norris,,60,19.871,4.0
+2023,13,,piastri,,60,22.376,3.0
+2023,13,,tsunoda,,60,20.602,3.0
+2023,13,,zhou,,60,21.439,4.0
+2023,13,,hulkenberg,,63,40:10.704,4.0
+2023,13,,bottas,,63,40:05.113,4.0
+2023,13,,lawson,,63,39:56.340,6.0
+2023,13,,hulkenberg,,60,23.582,3.0
+2023,13,,stroll,,60,21.532,5.0
+2023,13,,kevin_magnussen,,60,23.584,4.0
+2023,13,,stroll,,4,20.036,1.0
+2023,13,,russell,,4,21.201,1.0
+2023,13,,hamilton,,3,20.266,1.0
+2023,13,,norris,,3,20.170,1.0
+2023,13,,ocon,,2,22.534,1.0
+2023,13,,sainz,,2,20.973,1.0
+2023,13,,alonso,,2,20.647,1.0
+2023,13,,max_verstappen,,2,20.379,1.0
+2023,13,,kevin_magnussen,,1,31.341,1.0
+2023,13,,lawson,,1,42.641,1.0
+2023,13,,tsunoda,,1,32.321,1.0
+2023,13,,perez,,1,22.666,1.0
+2023,13,,leclerc,,1,32.686,1.0
+2023,13,,bottas,,64,32.518,5.0
+2023,13,,hulkenberg,,64,32.884,5.0
+2023,13,,stroll,,64,33.553,7.0
+2023,13,,tsunoda,,64,34.901,5.0
+2023,13,,ocon,,64,37.037,6.0
+2023,13,,piastri,,64,38.453,5.0
+2023,13,,albon,,64,39.234,4.0
+2023,13,,russell,,64,39.845,6.0
+2023,13,,norris,,64,44.272,6.0
+2023,13,,perez,,64,35.592,6.0
+2023,13,,hamilton,,64,40:31.108,5.0
+2023,13,,sainz,,64,40:43.147,5.0
+2023,13,,gasly,,64,40:43.169,5.0
+2023,13,,alonso,,64,40:55.302,5.0
+2023,13,,max_verstappen,,64,41:23.382,6.0
+2023,13,,kevin_magnussen,,63,39:54.733,5.0
+2023,13,,lawson,,64,31.306,7.0
+2023,13,,kevin_magnussen,,64,30.628,6.0
+2023,13,,perez,,63,41:01.612,5.0
+2023,13,,stroll,,63,40:10.734,6.0
+2023,13,,tsunoda,,63,40:14.895,4.0
+2023,13,,ocon,,63,40:32.201,5.0
+2023,13,,piastri,,63,40:34.653,4.0
+2023,13,,albon,,63,40:43.475,3.0
+2023,13,,russell,,63,40:46.251,5.0
+2023,13,,norris,,63,40:43.212,5.0
+2023,13,,alonso,,61,20.655,4.0
+2023,13,,max_verstappen,,63,20.402,5.0
+2023,13,,ocon,,61,22.096,4.0
+2023,13,,albon,,61,21.300,2.0
+2023,13,,max_verstappen,,61,19.429,4.0
+2023,13,,hulkenberg,,48,19.713,2.0
+2023,14,,zhou,,11,24.396,1.0
+2023,14,,gasly,,10,27.376,1.0
+2023,14,,lawson,,13,24.212,1.0
+2023,14,,kevin_magnussen,,12,24.660,1.0
+2023,14,,hulkenberg,,14,26.095,1.0
+2023,14,,sargeant,,14,24.779,1.0
+2023,14,,sainz,,19,25.183,1.0
+2023,14,,albon,,15,24.538,1.0
+2023,14,,leclerc,,20,23.931,1.0
+2023,14,,stroll,,20,25.667,1.0
+2023,14,,russell,,19,24.215,1.0
+2023,14,,max_verstappen,,20,24.228,1.0
+2023,14,,perez,,21,23.819,1.0
+2023,14,,hulkenberg,,39,24.328,2.0
+2023,14,,piastri,,41,31.799,2.0
+2023,14,,kevin_magnussen,,33,24.765,2.0
+2023,14,,piastri,,23,24.133,1.0
+2023,14,,ocon,,24,24.249,1.0
+2023,14,,norris,,22,23.727,1.0
+2023,14,,bottas,,25,24.658,1.0
+2023,14,,hamilton,,27,24.255,1.0
+2023,14,,gasly,,31,24.686,2.0
+2023,14,,lawson,,33,24.281,2.0
+2023,14,,zhou,,33,25.959,2.0
+2023,14,,alonso,,21,24.798,1.0
+2023,15,,kevin_magnussen,,43,33.078,2.0
+2023,15,,bottas,,40,30.487,1.0
+2023,15,,albon,,43,29.787,2.0
+2023,15,,russell,,20,29.976,1.0
+2023,15,,leclerc,,20,32.888,1.0
+2023,15,,sainz,,20,29.499,1.0
+2023,15,,zhou,,2,30.032,1.0
+2023,15,,norris,,20,29.485,1.0
+2023,15,,hamilton,,20,32.631,1.0
+2023,15,,alonso,,20,30.670,1.0
+2023,15,,ocon,,20,29.755,1.0
+2023,15,,kevin_magnussen,,20,31.475,1.0
+2023,15,,hulkenberg,,20,35.497,1.0
+2023,15,,gasly,,20,31.802,1.0
+2023,15,,lawson,,20,32.348,1.0
+2023,15,,piastri,,20,29.369,1.0
+2023,15,,albon,,20,30.138,1.0
+2023,15,,zhou,,20,30.637,2.0
+2023,15,,perez,,39,28.977,1.0
+2023,15,,max_verstappen,,40,29.698,1.0
+2023,15,,alonso,,44,52.708,2.0
+2023,15,,russell,,44,30.039,2.0
+2023,15,,hamilton,,44,33.581,2.0
+2023,15,,sargeant,,43,31.018,2.0
+2023,15,,sargeant,,19,1:03.543,1.0
+2023,16,,perez,,14,30.651,4.0
+2023,16,,alonso,,11,24.086,1.0
+2023,16,,hulkenberg,,37,23.338,3.0
+2023,16,,max_verstappen,,37,23.696,2.0
+2023,16,,norris,,36,23.182,2.0
+2023,16,,sainz,,38,23.374,2.0
+2023,16,,gasly,,34,24.651,2.0
+2023,16,,hamilton,,34,23.631,2.0
+2023,16,,leclerc,,34,22.926,2.0
+2023,16,,kevin_magnussen,,31,23.858,2.0
+2023,16,,tsunoda,,30,23.327,2.0
+2023,16,,zhou,,29,24.116,3.0
+2023,16,,lawson,,25,23.671,2.0
+2023,16,,piastri,,35,23.198,2.0
+2023,16,,leclerc,,17,23.197,1.0
+2023,16,,sainz,,18,23.075,1.0
+2023,16,,kevin_magnussen,,12,23.816,1.0
+2023,16,,piastri,,13,24.455,1.0
+2023,16,,perez,,13,41:25.913,3.0
+2023,16,,max_verstappen,,16,24.382,1.0
+2023,16,,albon,,13,52.165,2.0
+2023,16,,stroll,,14,23.441,1.0
+2023,16,,sargeant,,21,35.182,3.0
+2023,16,,russell,,24,24.034,1.0
+2023,16,,gasly,,18,24.488,1.0
+2023,16,,hulkenberg,,21,23.660,2.0
+2023,16,,hamilton,,16,24.841,1.0
+2023,16,,norris,,17,23.523,1.0
+2023,16,,ocon,,28,23.789,2.0
+2023,16,,alonso,,25,24.294,2.0
+2023,16,,perez,,12,41.499,2.0
+2023,16,,ocon,,1,27.056,1.0
+2023,16,,zhou,,1,41.041,1.0
+2023,16,,albon,,1,50.143,1.0
+2023,16,,bottas,,1,55.802,1.0
+2023,16,,sargeant,,5,43.868,2.0
+2023,16,,sargeant,,2,32.715,1.0
+2023,16,,perez,,2,32.450,1.0
+2023,16,,hulkenberg,,8,23.520,1.0
+2023,16,,tsunoda,,9,22.944,1.0
+2023,16,,lawson,,10,23.136,1.0
+2023,16,,zhou,,10,24.091,2.0
+2023,16,,bottas,,6,53.512,2.0
+2023,17,,russell,,1,39.686,1.0
+2023,17,,perez,,17,27.808,1.0
+2023,17,,zhou,,18,28.984,1.0
+2023,17,,bottas,,21,29.387,2.0
+2023,17,,stroll,,21,28.156,2.0
+2023,17,,kevin_magnussen,,21,28.948,2.0
+2023,17,,lawson,,21,28.665,2.0
+2023,17,,tsunoda,,22,27.596,2.0
+2023,17,,piastri,,25,27.868,2.0
+2023,17,,leclerc,,25,27.873,2.0
+2023,17,,ocon,,25,28.969,2.0
+2023,17,,alonso,,26,28.432,2.0
+2023,17,,gasly,,26,30.192,2.0
+2023,17,,sargeant,,26,29.373,2.0
+2023,17,,norris,,27,27.611,2.0
+2023,17,,hulkenberg,,27,28.274,2.0
+2023,17,,perez,,31,33.246,2.0
+2023,17,,bottas,,3,29.977,1.0
+2023,17,,kevin_magnussen,,3,28.743,1.0
+2023,17,,stroll,,3,28.886,1.0
+2023,17,,lawson,,3,29.330,1.0
+2023,17,,tsunoda,,9,27.781,1.0
+2023,17,,ocon,,10,28.961,1.0
+2023,17,,alonso,,11,28.373,1.0
+2023,17,,gasly,,11,28.429,1.0
+2023,17,,piastri,,12,28.875,1.0
+2023,17,,leclerc,,12,28.228,1.0
+2023,17,,norris,,13,28.134,1.0
+2023,17,,hulkenberg,,13,39.879,1.0
+2023,17,,sargeant,,13,29.436,1.0
+2023,17,,russell,,14,28.542,2.0
+2023,17,,max_verstappen,,17,28.233,1.0
+2023,17,,albon,,18,29.253,1.0
+2023,17,,alonso,,44,28.393,3.0
+2023,17,,russell,,32,28.314,3.0
+2023,17,,max_verstappen,,34,28.103,2.0
+2023,17,,zhou,,35,28.854,2.0
+2023,17,,bottas,,39,28.946,3.0
+2023,17,,stroll,,39,29.399,3.0
+2023,17,,kevin_magnussen,,39,30.331,3.0
+2023,17,,lawson,,39,28.171,3.0
+2023,17,,hulkenberg,,39,28.591,3.0
+2023,17,,tsunoda,,40,27.809,3.0
+2023,17,,piastri,,43,27.489,3.0
+2023,17,,gasly,,44,34.856,3.0
+2023,17,,zhou,,52,28.815,3.0
+2023,17,,albon,,44,28.981,3.0
+2023,17,,max_verstappen,,51,29.726,3.0
+2023,17,,russell,,50,28.191,4.0
+2023,17,,albon,,31,28.747,2.0
+2023,17,,perez,,43,33.165,3.0
+2023,17,,norris,,44,27.677,3.0
+2023,17,,leclerc,,43,27.513,3.0
+2023,17,,ocon,,43,29.169,3.0
+2023,18,,zhou,,9,25.636,1.0
+2023,18,,norris,,17,24.155,1.0
+2023,18,,perez,,17,24.245,1.0
+2023,18,,sainz,,17,23.668,1.0
+2023,18,,tsunoda,,17,24.354,1.0
+2023,18,,gasly,,18,23.900,1.0
+2023,18,,max_verstappen,,16,23.756,1.0
+2023,18,,sargeant,,11,24.990,1.0
+2023,18,,kevin_magnussen,,10,25.067,1.0
+2023,18,,bottas,,10,24.783,1.0
+2023,18,,hulkenberg,,34,24.308,2.0
+2023,18,,tsunoda,,34,24.125,2.0
+2023,18,,norris,,34,23.361,2.0
+2023,18,,sargeant,,32,25.547,2.0
+2023,18,,kevin_magnussen,,29,24.745,2.0
+2023,18,,albon,,29,24.354,2.0
+2023,18,,bottas,,28,25.020,2.0
+2023,18,,zhou,,27,24.717,2.0
+2023,18,,leclerc,,23,23.963,1.0
+2023,18,,ricciardo,,22,24.364,1.0
+2023,18,,russell,,21,24.357,1.0
+2023,18,,stroll,,20,24.457,1.0
+2023,18,,hamilton,,20,24.916,1.0
+2023,18,,hulkenberg,,19,26.573,1.0
+2023,18,,alonso,,19,25.055,1.0
+2023,18,,tsunoda,,54,23.472,3.0
+2023,18,,sainz,,35,23.673,2.0
+2023,18,,ricciardo,,47,26.513,2.0
+2023,18,,perez,,37,23.747,2.0
+2023,18,,gasly,,37,24.880,2.0
+2023,18,,hamilton,,38,24.648,2.0
+2023,18,,russell,,39,23.969,2.0
+2023,18,,stroll,,40,23.955,2.0
+2023,18,,alonso,,42,24.823,2.0
+2023,18,,albon,,10,24.563,1.0
+2023,18,,max_verstappen,,35,24.974,2.0
+2023,19,Mexico City Grand Prix,hulkenberg,2.0,34,20:19.826,
+2023,19,Mexico City Grand Prix,norris,3.0,34,20:26.386,
+2023,19,Mexico City Grand Prix,sainz,2.0,34,20:15.432,
+2023,19,Mexico City Grand Prix,hamilton,2.0,34,20:12.908,
+2023,19,Mexico City Grand Prix,ricciardo,2.0,34,20:17.136,
+2023,19,Mexico City Grand Prix,piastri,2.0,34,20:19.064,
+2023,19,Mexico City Grand Prix,russell,2.0,34,20:18.200,
+2023,19,Mexico City Grand Prix,tsunoda,2.0,34,20:18.057,
+2023,19,Mexico City Grand Prix,max_verstappen,2.0,33,22.372,
+2023,19,Mexico City Grand Prix,bottas,1.0,31,23.638,
+2023,19,Mexico City Grand Prix,max_verstappen,3.0,34,20:09.136,
+2023,19,Mexico City Grand Prix,leclerc,2.0,34,20:10.512,
+2023,19,Mexico City Grand Prix,albon,1.0,33,23.680,
+2023,19,Mexico City Grand Prix,norris,2.0,33,22.563,
+2023,19,Mexico City Grand Prix,kevin_magnussen,1.0,23,23.642,
+2023,19,Mexico City Grand Prix,hulkenberg,1.0,23,23.144,
+2023,19,Mexico City Grand Prix,sargeant,1.0,22,23.945,
+2023,19,Mexico City Grand Prix,zhou,1.0,21,22.817,
+2023,19,Mexico City Grand Prix,max_verstappen,1.0,19,22.427,
+2023,19,Mexico City Grand Prix,norris,1.0,11,23.408,
+2023,19,Mexico City Grand Prix,tsunoda,1.0,9,30.121,
+2023,19,Mexico City Grand Prix,leclerc,1.0,31,22.248,
+2023,19,Mexico City Grand Prix,stroll,1.0,30,22.582,
+2023,19,Mexico City Grand Prix,sainz,1.0,30,22.067,
+2023,19,Mexico City Grand Prix,alonso,1.0,29,22.844,
+2023,19,Mexico City Grand Prix,gasly,1.0,28,22.627,
+2023,19,Mexico City Grand Prix,ricciardo,1.0,27,22.406,
+2023,19,Mexico City Grand Prix,russell,1.0,26,22.311,
+2023,19,Mexico City Grand Prix,piastri,1.0,25,23.734,
+2023,19,Mexico City Grand Prix,hamilton,1.0,24,22.210,
+2023,20,,perez,,1,20.811,1.0
+2023,20,,max_verstappen,,1,18.535,1.0
+2023,20,,norris,,1,19.386,1.0
+2023,20,,hamilton,,1,18.521,1.0
+2023,20,,stroll,,1,18.504,1.0
+2023,20,,russell,,1,20.449,1.0
+2023,20,,alonso,,1,18.487,1.0
+2023,20,,russell,,2,23:30.984,2.0
+2023,20,,stroll,,52,25.294,4.0
+2023,20,,ocon,,51,23.599,5.0
+2023,20,,sainz,,51,23.704,4.0
+2023,20,,piastri,,52,23.338,4.0
+2023,20,,ricciardo,,55,23.508,4.0
+2023,20,,alonso,,47,23.830,4.0
+2023,20,,gasly,,46,23.583,4.0
+2023,20,,hamilton,,46,24.074,4.0
+2023,20,,tsunoda,,55,23.453,4.0
+2023,20,,max_verstappen,,56,23.397,4.0
+2023,20,,hulkenberg,,46,23.841,4.0
+2023,20,,stroll,,22,23.558,3.0
+2023,20,,hulkenberg,,21,24.401,3.0
+2023,20,,perez,,20,23.164,3.0
+2023,20,,russell,,19,23.730,3.0
+2023,20,,norris,,59,23.664,4.0
+2023,20,,stroll,,2,23:29.984,2.0
+2023,20,,alonso,,2,23:28.154,2.0
+2023,20,,hamilton,,2,23:26.375,2.0
+2023,20,,norris,,2,23:24.611,2.0
+2023,20,,max_verstappen,,2,23:22.632,2.0
+2023,20,,hulkenberg,,1,34.261,1.0
+2023,20,,ricciardo,,1,26:16.725,1.0
+2023,20,,sargeant,,1,27.472,1.0
+2023,20,,zhou,,1,21.256,1.0
+2023,20,,bottas,,1,20.732,1.0
+2023,20,,gasly,,1,20.523,1.0
+2023,20,,tsunoda,,1,20.969,1.0
+2023,20,,piastri,,1,26:24.007,1.0
+2023,20,,ocon,,1,22.209,1.0
+2023,20,,sainz,,1,23.030,1.0
+2023,20,,bottas,,18,24.077,3.0
+2023,20,,russell,,45,23.962,4.0
+2023,20,,sargeant,,44,24.137,4.0
+2023,20,,ocon,,31,24.406,4.0
+2023,20,,ricciardo,,26,23.955,3.0
+2023,20,,norris,,27,23.806,3.0
+2023,20,,max_verstappen,,27,22.994,3.0
+2023,20,,tsunoda,,26,27.114,3.0
+2023,20,,gasly,,26,25.295,3.0
+2023,20,,sainz,,26,23.557,3.0
+2023,20,,piastri,,24,23.536,3.0
+2023,20,,alonso,,25,24.204,3.0
+2023,20,,tsunoda,,2,23:35.420,2.0
+2023,20,,ocon,,2,23:34.725,2.0
+2023,20,,sainz,,2,23:33.704,2.0
+2023,20,,perez,,2,23:31.712,2.0
+2023,20,,perez,,46,23.522,4.0
+2023,20,,hamilton,,18,23.571,3.0
+2023,20,,sargeant,,17,24.367,3.0
+2023,20,,zhou,,15,23.953,3.0
+2023,20,,ocon,,14,24.037,3.0
+2023,20,,ricciardo,,2,32.770,2.0
+2023,20,,piastri,,2,38.489,2.0
+2023,20,,hulkenberg,,2,23:41.069,2.0
+2023,20,,sargeant,,2,23:41.207,2.0
+2023,20,,zhou,,2,23:39.945,2.0
+2023,20,,bottas,,2,23:38.156,2.0
+2023,20,,gasly,,2,23:36.706,2.0
+2023,21,,bottas,,24,21.575,2.0
+2023,21,,stroll,,3,22.222,1.0
+2023,21,,perez,,1,33.599,1.0
+2023,21,,bottas,,1,43.914,1.0
+2023,21,,alonso,,1,29.304,1.0
+2023,21,,zhou,,26,22.155,1.0
+2023,21,,alonso,,26,23.214,2.0
+2023,21,,sainz,,26,22.630,2.0
+2023,21,,russell,,26,21.952,2.0
+2023,21,,piastri,,43,20.535,2.0
+2023,21,,hamilton,,26,22.508,2.0
+2023,21,,stroll,,26,22.570,2.0
+2023,21,,perez,,26,21.568,2.0
+2023,21,,hulkenberg,,26,25.453,2.0
+2023,21,,max_verstappen,,26,21.323,2.0
+2023,21,,russell,,15,21.257,1.0
+2023,21,,kevin_magnussen,,14,21.611,1.0
+2023,21,,hulkenberg,,12,22.154,1.0
+2023,21,,tsunoda,,10,20.619,1.0
+2023,21,,sainz,,3,21.261,1.0
+2023,21,,kevin_magnussen,,26,21.868,2.0
+2023,21,,tsunoda,,21,20.894,2.0
+2023,21,,leclerc,,21,22.559,1.0
+2023,21,,ocon,,20,21.763,1.0
+2023,21,,ricciardo,,17,22.242,1.0
+2023,21,,hamilton,,17,25.047,1.0
+2023,21,,gasly,,17,22.262,1.0
+2023,21,,piastri,,16,23.269,1.0
+2023,21,,albon,,16,21.242,1.0
+2023,21,,max_verstappen,,16,26.686,1.0
+2023,21,,sargeant,,15,21.367,1.0
+2023,22,,leclerc,,35,21.246,2.0
+2023,22,,russell,,34,22.084,2.0
+2023,22,,hulkenberg,,33,22.081,2.0
+2023,22,,norris,,33,21.432,2.0
+2023,22,,gasly,,32,23.478,2.0
+2023,22,,ricciardo,,31,21.740,2.0
+2023,22,,sainz,,56,21.564,2.0
+2023,22,,albon,,43,21.919,2.0
+2023,22,,max_verstappen,,43,21.275,2.0
+2023,22,,stroll,,42,21.667,2.0
+2023,22,,perez,,42,21.274,2.0
+2023,22,,sargeant,,41,21.880,2.0
+2023,22,,zhou,,37,22.345,2.0
+2023,22,,alonso,,36,21.841,2.0
+2023,22,,piastri,,36,21.156,2.0
+2023,22,,hamilton,,35,22.045,2.0
+2023,22,,bottas,,29,22.665,1.0
+2023,22,,ricciardo,,7,21.692,1.0
+2023,22,,kevin_magnussen,,5,22.764,1.0
+2023,22,,hulkenberg,,13,21.861,1.0
+2023,22,,alonso,,12,22.462,1.0
+2023,22,,piastri,,13,21.697,1.0
+2023,22,,zhou,,13,22.867,1.0
+2023,22,,norris,,14,24.061,1.0
+2023,22,,russell,,14,21.650,1.0
+2023,22,,hamilton,,15,22.195,1.0
+2023,22,,sargeant,,15,22.124,1.0
+2023,22,,ocon,,15,22.160,1.0
+2023,22,,max_verstappen,,16,21.662,1.0
+2023,22,,albon,,16,22.170,1.0
+2023,22,,tsunoda,,22,21.486,1.0
+2023,22,,leclerc,,17,21.919,1.0
+2023,22,,perez,,17,21.446,1.0
+2023,22,,gasly,,17,23.091,1.0
+2023,22,,kevin_magnussen,,22,22.163,2.0
+2023,22,,stroll,,22,21.866,1.0
+2023,22,,sainz,,23,21.229,1.0

@@ -99,343 +99,343 @@ year,round,race_name,driver,driver_name,team,quali_position,q1_time,q2_time,q3_t
 2023,5,Miami Grand Prix,STR,Lance Stroll,Aston Martin,18,1:28.476,,
 2023,5,Miami Grand Prix,PIA,Oscar Piastri,McLaren,19,1:28.484,,
 2023,5,Miami Grand Prix,SAR,Logan Sargeant,Williams,20,1:28.577,,
-2023,6,Monaco Grand Prix,VER,Max Verstappen,Red Bull,1,1:12.386,1:11.908,1:11.365
-2023,6,Monaco Grand Prix,ALO,Fernando Alonso,Aston Martin,2,1:12.886,1:12.107,1:11.449
-2023,6,Monaco Grand Prix,LEC,Charles Leclerc,Ferrari,3,1:12.912,1:12.103,1:11.471
-2023,6,Monaco Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,4,1:12.967,1:12.248,1:11.553
-2023,6,Monaco Grand Prix,SAI,Carlos Sainz,Ferrari,5,1:12.717,1:12.210,1:11.630
-2023,6,Monaco Grand Prix,HAM,Lewis Hamilton,Mercedes,6,1:12.872,1:12.156,1:11.725
-2023,6,Monaco Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,7,1:13.033,1:12.169,1:11.933
-2023,6,Monaco Grand Prix,RUS,George Russell,Mercedes,8,1:12.769,1:12.151,1:11.964
-2023,6,Monaco Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,9,1:12.642,1:12.249,1:12.082
-2023,6,Monaco Grand Prix,NOR,Lando Norris,McLaren,10,1:12.877,1:12.377,1:12.254
-2023,6,Monaco Grand Prix,PIA,Oscar Piastri,McLaren,11,1:13.006,1:12.395,
-2023,6,Monaco Grand Prix,DEV,Nyck de Vries,AlphaTauri,12,1:13.054,1:12.428,
-2023,6,Monaco Grand Prix,ALB,Alexander Albon,Williams,13,1:12.706,1:12.527,
-2023,6,Monaco Grand Prix,STR,Lance Stroll,Aston Martin,14,1:12.722,1:12.623,
-2023,6,Monaco Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,15,1:13.038,1:12.625,
-2023,6,Monaco Grand Prix,SAR,Logan Sargeant,Williams,16,1:13.113,,
-2023,6,Monaco Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,1:13.270,,
-2023,6,Monaco Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,18,1:13.279,,
-2023,6,Monaco Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,1:13.523,,
-2023,6,Monaco Grand Prix,PER,Sergio Pérez,Red Bull,20,1:13.850,,
-2023,7,Spanish Grand Prix,VER,Max Verstappen,Red Bull,1,1:13.615,1:12.760,1:12.272
-2023,7,Spanish Grand Prix,SAI,Carlos Sainz,Ferrari,2,1:13.411,1:12.790,1:12.734
-2023,7,Spanish Grand Prix,NOR,Lando Norris,McLaren,3,1:13.295,1:12.776,1:12.792
-2023,7,Spanish Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,4,1:13.471,1:13.186,1:12.816
-2023,7,Spanish Grand Prix,HAM,Lewis Hamilton,Mercedes,5,1:12.937,1:12.999,1:12.818
-2023,7,Spanish Grand Prix,STR,Lance Stroll,Aston Martin,6,1:13.766,1:13.082,1:12.994
-2023,7,Spanish Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,7,1:13.433,1:13.001,1:13.083
-2023,7,Spanish Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,8,1:13.420,1:13.283,1:13.229
-2023,7,Spanish Grand Prix,ALO,Fernando Alonso,Aston Martin,9,1:13.747,1:13.098,1:13.507
-2023,7,Spanish Grand Prix,PIA,Oscar Piastri,McLaren,10,1:13.691,1:13.059,1:13.682
-2023,7,Spanish Grand Prix,PER,Sergio Pérez,Red Bull,11,1:13.874,1:13.334,
-2023,7,Spanish Grand Prix,RUS,George Russell,Mercedes,12,1:13.326,1:13.447,
-2023,7,Spanish Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,13,1:13.677,1:13.521,
-2023,7,Spanish Grand Prix,DEV,Nyck de Vries,AlphaTauri,14,1:13.581,1:14.083,
-2023,7,Spanish Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,15,1:13.862,1:14.477,
-2023,7,Spanish Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,16,1:13.977,,
-2023,7,Spanish Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,1:14.042,,
-2023,7,Spanish Grand Prix,ALB,Alexander Albon,Williams,18,1:14.063,,
-2023,7,Spanish Grand Prix,LEC,Charles Leclerc,Ferrari,19,1:14.079,,
-2023,7,Spanish Grand Prix,SAR,Logan Sargeant,Williams,20,1:14.699,,
-2023,8,Canadian Grand Prix,VER,Max Verstappen,Red Bull,1,1:20.851,1:19.092,1:25.858
-2023,8,Canadian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,2,1:22.730,1:20.305,1:27.102
-2023,8,Canadian Grand Prix,ALO,Fernando Alonso,Aston Martin,3,1:21.481,1:19.776,1:27.286
-2023,8,Canadian Grand Prix,HAM,Lewis Hamilton,Mercedes,4,1:21.554,1:20.426,1:27.627
-2023,8,Canadian Grand Prix,RUS,George Russell,Mercedes,5,1:21.798,1:20.098,1:27.893
-2023,8,Canadian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,6,1:22.114,1:20.406,1:27.945
-2023,8,Canadian Grand Prix,NOR,Lando Norris,McLaren,7,1:21.998,1:19.347,1:28.046
-2023,8,Canadian Grand Prix,SAI,Carlos Sainz,Ferrari,8,1:22.248,1:19.856,1:29.294
-2023,8,Canadian Grand Prix,PIA,Oscar Piastri,McLaren,9,1:22.190,1:19.659,1:31.349
-2023,8,Canadian Grand Prix,ALB,Alexander Albon,Williams,10,1:21.938,1:18.725,
-2023,8,Canadian Grand Prix,LEC,Charles Leclerc,Ferrari,11,1:21.843,1:20.615,
-2023,8,Canadian Grand Prix,PER,Sergio Pérez,Red Bull,12,1:22.151,1:20.959,
-2023,8,Canadian Grand Prix,STR,Lance Stroll,Aston Martin,13,1:22.677,1:21.484,
-2023,8,Canadian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,14,1:22.351,1:21.678,
-2023,8,Canadian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,15,1:22.332,1:21.821,
-2023,8,Canadian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,1:22.746,,
-2023,8,Canadian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,17,1:22.886,,
-2023,8,Canadian Grand Prix,DEV,Nyck de Vries,AlphaTauri,18,1:23.137,,
-2023,8,Canadian Grand Prix,SAR,Logan Sargeant,Williams,19,1:23.337,,
-2023,8,Canadian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,20,1:23.342,,
-2023,9,Austrian Grand Prix,VER,Max Verstappen,Red Bull,1,1:05.116,1:04.951,1:04.391
-2023,9,Austrian Grand Prix,LEC,Charles Leclerc,Ferrari,2,1:05.577,1:05.087,1:04.439
-2023,9,Austrian Grand Prix,SAI,Carlos Sainz,Ferrari,3,1:05.339,1:04.975,1:04.581
-2023,9,Austrian Grand Prix,NOR,Lando Norris,McLaren,4,1:05.617,1:05.038,1:04.658
-2023,9,Austrian Grand Prix,HAM,Lewis Hamilton,Mercedes,5,1:05.673,1:05.188,1:04.819
-2023,9,Austrian Grand Prix,STR,Lance Stroll,Aston Martin,6,1:05.710,1:05.121,1:04.893
-2023,9,Austrian Grand Prix,ALO,Fernando Alonso,Aston Martin,7,1:05.655,1:05.181,1:04.911
-2023,9,Austrian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,8,1:05.740,1:05.362,1:05.090
-2023,9,Austrian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,9,1:05.515,1:05.308,1:05.170
-2023,9,Austrian Grand Prix,ALB,Alexander Albon,Williams,10,1:05.673,1:05.387,1:05.823
-2023,9,Austrian Grand Prix,RUS,George Russell,Mercedes,11,1:05.686,1:05.428,
-2023,9,Austrian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,1:05.729,1:05.453,
-2023,9,Austrian Grand Prix,PIA,Oscar Piastri,McLaren,13,1:05.683,1:05.605,
-2023,9,Austrian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,14,1:05.763,1:05.680,
-2023,9,Austrian Grand Prix,PER,Sergio Pérez,Red Bull,15,1:05.177,2:06.688,
-2023,9,Austrian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,1:05.784,,
-2023,9,Austrian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,17,1:05.818,,
-2023,9,Austrian Grand Prix,SAR,Logan Sargeant,Williams,18,1:05.948,,
-2023,9,Austrian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,1:05.971,,
-2023,9,Austrian Grand Prix,DEV,Nyck de Vries,AlphaTauri,20,1:05.974,,
-2023,10,British Grand Prix,VER,Max Verstappen,Red Bull,1,1:29.428,1:27.702,1:26.720
-2023,10,British Grand Prix,NOR,Lando Norris,McLaren,2,1:28.917,1:28.042,1:26.961
-2023,10,British Grand Prix,PIA,Oscar Piastri,McLaren,3,1:29.874,1:27.845,1:27.092
-2023,10,British Grand Prix,LEC,Charles Leclerc,Ferrari,4,1:29.143,1:28.361,1:27.136
-2023,10,British Grand Prix,SAI,Carlos Sainz,Ferrari,5,1:29.865,1:28.265,1:27.148
-2023,10,British Grand Prix,RUS,George Russell,Mercedes,6,1:29.412,1:28.782,1:27.155
-2023,10,British Grand Prix,HAM,Lewis Hamilton,Mercedes,7,1:29.415,1:28.545,1:27.211
-2023,10,British Grand Prix,ALB,Alexander Albon,Williams,8,1:29.466,1:28.067,1:27.530
-2023,10,British Grand Prix,ALO,Fernando Alonso,Aston Martin,9,1:29.949,1:28.368,1:27.659
-2023,10,British Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,10,1:29.533,1:28.751,1:27.689
-2023,10,British Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,11,1:29.603,1:28.896,
-2023,10,British Grand Prix,STR,Lance Stroll,Aston Martin,12,1:29.448,1:28.935,
-2023,10,British Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,13,1:29.700,1:28.956,
-2023,10,British Grand Prix,SAR,Logan Sargeant,Williams,14,1:29.873,1:29.031,
-2023,10,British Grand Prix,PER,Sergio Pérez,Red Bull,15,1:29.968,,
-2023,10,British Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,15,1:29.798,,
-2023,10,British Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,1:30.025,,
-2023,10,British Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,17,1:30.123,,
-2023,10,British Grand Prix,DEV,Nyck de Vries,AlphaTauri,18,1:30.513,,
-2023,10,British Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,1:32.378,,
-2023,11,Hungarian Grand Prix,HAM,Lewis Hamilton,Mercedes,1,1:18.577,1:17.427,1:16.609
-2023,11,Hungarian Grand Prix,VER,Max Verstappen,Red Bull,2,1:18.318,1:17.547,1:16.612
-2023,11,Hungarian Grand Prix,NOR,Lando Norris,McLaren,3,1:18.697,1:17.328,1:16.694
-2023,11,Hungarian Grand Prix,PIA,Oscar Piastri,McLaren,4,1:18.464,1:17.571,1:16.905
-2023,11,Hungarian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,5,1:18.143,1:17.700,1:16.971
-2023,11,Hungarian Grand Prix,LEC,Charles Leclerc,Ferrari,6,1:18.440,1:17.580,1:16.992
-2023,11,Hungarian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,7,1:18.775,1:17.563,1:17.034
-2023,11,Hungarian Grand Prix,ALO,Fernando Alonso,Aston Martin,8,1:18.580,1:17.701,1:17.035
-2023,11,Hungarian Grand Prix,PER,Sergio Pérez,Red Bull,9,1:18.360,1:17.675,1:17.045
-2023,11,Hungarian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,10,1:18.695,1:17.652,1:17.186
-2023,11,Hungarian Grand Prix,SAI,Carlos Sainz,Ferrari,11,1:18.393,1:17.703,
-2023,11,Hungarian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,1:18.854,1:17.841,
-2023,11,Hungarian Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,13,1:18.906,1:18.002,
-2023,11,Hungarian Grand Prix,STR,Lance Stroll,Aston Martin,14,1:18.782,1:18.144,
-2023,11,Hungarian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,15,1:18.743,1:18.217,
-2023,11,Hungarian Grand Prix,ALB,Alexander Albon,Williams,16,1:18.917,,
-2023,11,Hungarian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,17,1:18.919,,
-2023,11,Hungarian Grand Prix,RUS,George Russell,Mercedes,18,1:19.027,,
-2023,11,Hungarian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,1:19.206,,
-2023,11,Hungarian Grand Prix,SAR,Logan Sargeant,Williams,20,1:19.248,,
-2023,12,Belgian Grand Prix,VER,Max Verstappen,Red Bull,1,1:58.515,1:52.784,1:46.168
-2023,12,Belgian Grand Prix,LEC,Charles Leclerc,Ferrari,2,1:58.300,1:52.017,1:46.988
-2023,12,Belgian Grand Prix,PER,Sergio Pérez,Red Bull,3,1:58.899,1:52.353,1:47.045
-2023,12,Belgian Grand Prix,HAM,Lewis Hamilton,Mercedes,4,1:58.563,1:52.345,1:47.087
-2023,12,Belgian Grand Prix,SAI,Carlos Sainz,Ferrari,5,1:58.688,1:51.711,1:47.152
-2023,12,Belgian Grand Prix,PIA,Oscar Piastri,McLaren,6,1:58.872,1:51.534,1:47.365
-2023,12,Belgian Grand Prix,NOR,Lando Norris,McLaren,7,1:59.981,1:52.252,1:47.669
-2023,12,Belgian Grand Prix,RUS,George Russell,Mercedes,8,1:59.035,1:52.605,1:47.805
-2023,12,Belgian Grand Prix,ALO,Fernando Alonso,Aston Martin,9,1:58.834,1:52.751,1:47.843
-2023,12,Belgian Grand Prix,STR,Lance Stroll,Aston Martin,10,1:59.663,1:52.193,1:48.841
-2023,12,Belgian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,1:59.044,1:53.148,
-2023,12,Belgian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,1:59.511,1:53.671,
-2023,12,Belgian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,13,2:00.020,1:54.160,
-2023,12,Belgian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,14,1:59.484,1:54.694,
-2023,12,Belgian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,15,1:59.634,1:56.372,
-2023,12,Belgian Grand Prix,ALB,Alexander Albon,Williams,16,2:00.314,,
-2023,12,Belgian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,17,2:00.832,,
-2023,12,Belgian Grand Prix,SAR,Logan Sargeant,Williams,18,2:01.535,,
-2023,12,Belgian Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,19,2:02.159,,
-2023,12,Belgian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,20,2:03.166,,
-2023,13,Dutch Grand Prix,VER,Max Verstappen,Red Bull,1,1:20.965,1:18.856,1:10.567
-2023,13,Dutch Grand Prix,NOR,Lando Norris,McLaren,2,1:21.276,1:19.769,1:11.104
-2023,13,Dutch Grand Prix,RUS,George Russell,Mercedes,3,1:21.345,1:19.620,1:11.294
-2023,13,Dutch Grand Prix,ALB,Alexander Albon,Williams,4,1:20.939,1:19.399,1:11.419
-2023,13,Dutch Grand Prix,ALO,Fernando Alonso,Aston Martin,5,1:21.840,1:19.429,1:11.506
-2023,13,Dutch Grand Prix,SAI,Carlos Sainz,Ferrari,6,1:21.321,1:19.929,1:11.754
-2023,13,Dutch Grand Prix,PER,Sergio Pérez,Red Bull,7,1:21.972,1:19.856,1:11.880
-2023,13,Dutch Grand Prix,PIA,Oscar Piastri,McLaren,8,1:21.231,1:19.392,1:11.938
-2023,13,Dutch Grand Prix,LEC,Charles Leclerc,Ferrari,9,1:22.019,1:19.600,1:12.665
-2023,13,Dutch Grand Prix,SAR,Logan Sargeant,Williams,10,1:22.036,1:20.067,1:16.748
-2023,13,Dutch Grand Prix,STR,Lance Stroll,Aston Martin,11,1:21.570,1:20.121,
-2023,13,Dutch Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,1:21.735,1:20.128,
-2023,13,Dutch Grand Prix,HAM,Lewis Hamilton,Mercedes,13,1:21.919,1:20.151,
-2023,13,Dutch Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,14,1:21.781,1:20.230,
-2023,13,Dutch Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,15,1:21.891,1:20.250,
-2023,13,Dutch Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,16,1:22.067,,
-2023,13,Dutch Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,17,1:22.110,,
-2023,13,Dutch Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,18,1:22.192,,
-2023,13,Dutch Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,19,1:22.260,,
-2023,13,Dutch Grand Prix,LAW,Liam Lawson,AlphaTauri,20,1:23.420,,
-2023,14,Italian Grand Prix,SAI,Carlos Sainz,Ferrari,1,1:21.965,1:20.991,1:20.294
-2023,14,Italian Grand Prix,VER,Max Verstappen,Red Bull,2,1:21.573,1:20.937,1:20.307
-2023,14,Italian Grand Prix,LEC,Charles Leclerc,Ferrari,3,1:21.788,1:20.977,1:20.361
-2023,14,Italian Grand Prix,RUS,George Russell,Mercedes,4,1:22.148,1:21.382,1:20.671
-2023,14,Italian Grand Prix,PER,Sergio Pérez,Red Bull,5,1:21.911,1:21.240,1:20.688
-2023,14,Italian Grand Prix,ALB,Alexander Albon,Williams,6,1:21.661,1:21.272,1:20.760
-2023,14,Italian Grand Prix,PIA,Oscar Piastri,McLaren,7,1:22.106,1:21.527,1:20.785
-2023,14,Italian Grand Prix,HAM,Lewis Hamilton,Mercedes,8,1:21.977,1:21.369,1:20.820
-2023,14,Italian Grand Prix,NOR,Lando Norris,McLaren,9,1:21.995,1:21.581,1:20.979
-2023,14,Italian Grand Prix,ALO,Fernando Alonso,Aston Martin,10,1:22.043,1:21.543,1:21.417
-2023,14,Italian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,1:21.852,1:21.594,
-2023,14,Italian Grand Prix,LAW,Liam Lawson,AlphaTauri,12,1:22.112,1:21.758,
-2023,14,Italian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,13,1:22.343,1:21.776,
-2023,14,Italian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,14,1:22.249,1:21.940,
-2023,14,Italian Grand Prix,SAR,Logan Sargeant,Williams,15,1:21.930,1:21.944,
-2023,14,Italian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,16,1:22.390,,
-2023,14,Italian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,17,1:22.545,,
-2023,14,Italian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,18,1:22.548,,
-2023,14,Italian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,1:22.592,,
-2023,14,Italian Grand Prix,STR,Lance Stroll,Aston Martin,20,1:22.860,,
-2023,15,Singapore Grand Prix,SAI,Carlos Sainz,Ferrari,1,1:32.339,1:31.439,1:30.984
-2023,15,Singapore Grand Prix,RUS,George Russell,Mercedes,2,1:32.331,1:31.743,1:31.056
-2023,15,Singapore Grand Prix,LEC,Charles Leclerc,Ferrari,3,1:32.406,1:32.012,1:31.063
-2023,15,Singapore Grand Prix,NOR,Lando Norris,McLaren,4,1:32.483,1:31.951,1:31.270
-2023,15,Singapore Grand Prix,HAM,Lewis Hamilton,Mercedes,5,1:32.651,1:32.019,1:31.485
-2023,15,Singapore Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,6,1:32.242,1:31.892,1:31.575
-2023,15,Singapore Grand Prix,ALO,Fernando Alonso,Aston Martin,7,1:32.584,1:31.835,1:31.615
-2023,15,Singapore Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,8,1:32.369,1:32.089,1:31.673
-2023,15,Singapore Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,9,1:32.100,1:31.994,1:31.808
-2023,15,Singapore Grand Prix,LAW,Liam Lawson,AlphaTauri,10,1:32.215,1:32.166,1:32.268
-2023,15,Singapore Grand Prix,VER,Max Verstappen,Red Bull,11,1:32.398,1:32.173,
-2023,15,Singapore Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,1:32.452,1:32.274,
-2023,15,Singapore Grand Prix,PER,Sergio Pérez,Red Bull,13,1:32.099,1:32.310,
-2023,15,Singapore Grand Prix,ALB,Alexander Albon,Williams,14,1:32.668,1:33.719,
-2023,15,Singapore Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,15,1:31.991,,
-2023,15,Singapore Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,16,1:32.809,,
-2023,15,Singapore Grand Prix,PIA,Oscar Piastri,McLaren,17,1:32.902,,
-2023,15,Singapore Grand Prix,SAR,Logan Sargeant,Williams,18,1:33.252,,
-2023,15,Singapore Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,1:33.258,,
-2023,15,Singapore Grand Prix,STR,Lance Stroll,Aston Martin,20,1:33.397,,
-2023,16,Japanese Grand Prix,VER,Max Verstappen,Red Bull,1,1:29.878,1:29.964,1:28.877
-2023,16,Japanese Grand Prix,PIA,Oscar Piastri,McLaren,2,1:30.439,1:30.122,1:29.458
-2023,16,Japanese Grand Prix,NOR,Lando Norris,McLaren,3,1:30.063,1:30.296,1:29.493
-2023,16,Japanese Grand Prix,LEC,Charles Leclerc,Ferrari,4,1:30.393,1:29.940,1:29.542
-2023,16,Japanese Grand Prix,PER,Sergio Pérez,Red Bull,5,1:30.652,1:29.965,1:29.650
-2023,16,Japanese Grand Prix,SAI,Carlos Sainz,Ferrari,6,1:30.651,1:30.067,1:29.850
-2023,16,Japanese Grand Prix,HAM,Lewis Hamilton,Mercedes,7,1:30.811,1:30.040,1:29.908
-2023,16,Japanese Grand Prix,RUS,George Russell,Mercedes,8,1:30.811,1:30.268,1:30.219
-2023,16,Japanese Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,9,1:30.733,1:30.204,1:30.303
-2023,16,Japanese Grand Prix,ALO,Fernando Alonso,Aston Martin,10,1:30.971,1:30.465,1:30.560
-2023,16,Japanese Grand Prix,LAW,Liam Lawson,AlphaTauri,11,1:30.425,1:30.508,
-2023,16,Japanese Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,1:30.843,1:30.509,
-2023,16,Japanese Grand Prix,ALB,Alexander Albon,Williams,13,1:30.941,1:30.537,
-2023,16,Japanese Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,14,1:30.960,1:30.586,
-2023,16,Japanese Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,15,1:30.976,1:30.665,
-2023,16,Japanese Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,16,1:31.049,,
-2023,16,Japanese Grand Prix,STR,Lance Stroll,Aston Martin,17,1:31.181,,
-2023,16,Japanese Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,18,1:31.299,,
-2023,16,Japanese Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,1:31.398,,
+2023,6,Monaco Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,6,Monaco Grand Prix,ALO,Fernando Alonso,Aston Martin,2,,,
+2023,6,Monaco Grand Prix,LEC,Charles Leclerc,Ferrari,3,,,
+2023,6,Monaco Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,4,,,
+2023,6,Monaco Grand Prix,SAI,Carlos Sainz,Ferrari,5,,,
+2023,6,Monaco Grand Prix,HAM,Lewis Hamilton,Mercedes,6,,,
+2023,6,Monaco Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,7,,,
+2023,6,Monaco Grand Prix,RUS,George Russell,Mercedes,8,,,
+2023,6,Monaco Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,9,,,
+2023,6,Monaco Grand Prix,NOR,Lando Norris,McLaren,10,,,
+2023,6,Monaco Grand Prix,PIA,Oscar Piastri,McLaren,11,,,
+2023,6,Monaco Grand Prix,DEV,Nyck de Vries,AlphaTauri,12,,,
+2023,6,Monaco Grand Prix,ALB,Alexander Albon,Williams,13,,,
+2023,6,Monaco Grand Prix,STR,Lance Stroll,Aston Martin,14,,,
+2023,6,Monaco Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,15,,,
+2023,6,Monaco Grand Prix,SAR,Logan Sargeant,Williams,16,,,
+2023,6,Monaco Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,,,
+2023,6,Monaco Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,18,,,
+2023,6,Monaco Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,,,
+2023,6,Monaco Grand Prix,PER,Sergio Pérez,Red Bull,20,,,
+2023,7,Spanish Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,7,Spanish Grand Prix,SAI,Carlos Sainz,Ferrari,2,,,
+2023,7,Spanish Grand Prix,NOR,Lando Norris,McLaren,3,,,
+2023,7,Spanish Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,4,,,
+2023,7,Spanish Grand Prix,HAM,Lewis Hamilton,Mercedes,5,,,
+2023,7,Spanish Grand Prix,STR,Lance Stroll,Aston Martin,6,,,
+2023,7,Spanish Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,7,,,
+2023,7,Spanish Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,8,,,
+2023,7,Spanish Grand Prix,ALO,Fernando Alonso,Aston Martin,9,,,
+2023,7,Spanish Grand Prix,PIA,Oscar Piastri,McLaren,10,,,
+2023,7,Spanish Grand Prix,PER,Sergio Pérez,Red Bull,11,,,
+2023,7,Spanish Grand Prix,RUS,George Russell,Mercedes,12,,,
+2023,7,Spanish Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,13,,,
+2023,7,Spanish Grand Prix,DEV,Nyck de Vries,AlphaTauri,14,,,
+2023,7,Spanish Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,15,,,
+2023,7,Spanish Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,16,,,
+2023,7,Spanish Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,,,
+2023,7,Spanish Grand Prix,ALB,Alexander Albon,Williams,18,,,
+2023,7,Spanish Grand Prix,LEC,Charles Leclerc,Ferrari,19,,,
+2023,7,Spanish Grand Prix,SAR,Logan Sargeant,Williams,20,,,
+2023,8,Canadian Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,8,Canadian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,2,,,
+2023,8,Canadian Grand Prix,ALO,Fernando Alonso,Aston Martin,3,,,
+2023,8,Canadian Grand Prix,HAM,Lewis Hamilton,Mercedes,4,,,
+2023,8,Canadian Grand Prix,RUS,George Russell,Mercedes,5,,,
+2023,8,Canadian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,6,,,
+2023,8,Canadian Grand Prix,NOR,Lando Norris,McLaren,7,,,
+2023,8,Canadian Grand Prix,SAI,Carlos Sainz,Ferrari,8,,,
+2023,8,Canadian Grand Prix,PIA,Oscar Piastri,McLaren,9,,,
+2023,8,Canadian Grand Prix,ALB,Alexander Albon,Williams,10,,,
+2023,8,Canadian Grand Prix,LEC,Charles Leclerc,Ferrari,11,,,
+2023,8,Canadian Grand Prix,PER,Sergio Pérez,Red Bull,12,,,
+2023,8,Canadian Grand Prix,STR,Lance Stroll,Aston Martin,13,,,
+2023,8,Canadian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,14,,,
+2023,8,Canadian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,15,,,
+2023,8,Canadian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,,,
+2023,8,Canadian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,17,,,
+2023,8,Canadian Grand Prix,DEV,Nyck de Vries,AlphaTauri,18,,,
+2023,8,Canadian Grand Prix,SAR,Logan Sargeant,Williams,19,,,
+2023,8,Canadian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,20,,,
+2023,9,Austrian Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,9,Austrian Grand Prix,LEC,Charles Leclerc,Ferrari,2,,,
+2023,9,Austrian Grand Prix,SAI,Carlos Sainz,Ferrari,3,,,
+2023,9,Austrian Grand Prix,NOR,Lando Norris,McLaren,4,,,
+2023,9,Austrian Grand Prix,HAM,Lewis Hamilton,Mercedes,5,,,
+2023,9,Austrian Grand Prix,STR,Lance Stroll,Aston Martin,6,,,
+2023,9,Austrian Grand Prix,ALO,Fernando Alonso,Aston Martin,7,,,
+2023,9,Austrian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,8,,,
+2023,9,Austrian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,9,,,
+2023,9,Austrian Grand Prix,ALB,Alexander Albon,Williams,10,,,
+2023,9,Austrian Grand Prix,RUS,George Russell,Mercedes,11,,,
+2023,9,Austrian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,,,
+2023,9,Austrian Grand Prix,PIA,Oscar Piastri,McLaren,13,,,
+2023,9,Austrian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,14,,,
+2023,9,Austrian Grand Prix,PER,Sergio Pérez,Red Bull,15,,,
+2023,9,Austrian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,,,
+2023,9,Austrian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,17,,,
+2023,9,Austrian Grand Prix,SAR,Logan Sargeant,Williams,18,,,
+2023,9,Austrian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,,,
+2023,9,Austrian Grand Prix,DEV,Nyck de Vries,AlphaTauri,20,,,
+2023,10,British Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,10,British Grand Prix,NOR,Lando Norris,McLaren,2,,,
+2023,10,British Grand Prix,PIA,Oscar Piastri,McLaren,3,,,
+2023,10,British Grand Prix,LEC,Charles Leclerc,Ferrari,4,,,
+2023,10,British Grand Prix,SAI,Carlos Sainz,Ferrari,5,,,
+2023,10,British Grand Prix,RUS,George Russell,Mercedes,6,,,
+2023,10,British Grand Prix,HAM,Lewis Hamilton,Mercedes,7,,,
+2023,10,British Grand Prix,ALB,Alexander Albon,Williams,8,,,
+2023,10,British Grand Prix,ALO,Fernando Alonso,Aston Martin,9,,,
+2023,10,British Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,10,,,
+2023,10,British Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,11,,,
+2023,10,British Grand Prix,STR,Lance Stroll,Aston Martin,12,,,
+2023,10,British Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,13,,,
+2023,10,British Grand Prix,SAR,Logan Sargeant,Williams,14,,,
+2023,10,British Grand Prix,PER,Sergio Pérez,Red Bull,15,,,
+2023,10,British Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,15,,,
+2023,10,British Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,,,
+2023,10,British Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,17,,,
+2023,10,British Grand Prix,DEV,Nyck de Vries,AlphaTauri,18,,,
+2023,10,British Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,,,
+2023,11,Hungarian Grand Prix,HAM,Lewis Hamilton,Mercedes,1,,,
+2023,11,Hungarian Grand Prix,VER,Max Verstappen,Red Bull,2,,,
+2023,11,Hungarian Grand Prix,NOR,Lando Norris,McLaren,3,,,
+2023,11,Hungarian Grand Prix,PIA,Oscar Piastri,McLaren,4,,,
+2023,11,Hungarian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,5,,,
+2023,11,Hungarian Grand Prix,LEC,Charles Leclerc,Ferrari,6,,,
+2023,11,Hungarian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,7,,,
+2023,11,Hungarian Grand Prix,ALO,Fernando Alonso,Aston Martin,8,,,
+2023,11,Hungarian Grand Prix,PER,Sergio Pérez,Red Bull,9,,,
+2023,11,Hungarian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,10,,,
+2023,11,Hungarian Grand Prix,SAI,Carlos Sainz,Ferrari,11,,,
+2023,11,Hungarian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,,,
+2023,11,Hungarian Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,13,,,
+2023,11,Hungarian Grand Prix,STR,Lance Stroll,Aston Martin,14,,,
+2023,11,Hungarian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,15,,,
+2023,11,Hungarian Grand Prix,ALB,Alexander Albon,Williams,16,,,
+2023,11,Hungarian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,17,,,
+2023,11,Hungarian Grand Prix,RUS,George Russell,Mercedes,18,,,
+2023,11,Hungarian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,,,
+2023,11,Hungarian Grand Prix,SAR,Logan Sargeant,Williams,20,,,
+2023,12,Belgian Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,12,Belgian Grand Prix,LEC,Charles Leclerc,Ferrari,2,,,
+2023,12,Belgian Grand Prix,PER,Sergio Pérez,Red Bull,3,,,
+2023,12,Belgian Grand Prix,HAM,Lewis Hamilton,Mercedes,4,,,
+2023,12,Belgian Grand Prix,SAI,Carlos Sainz,Ferrari,5,,,
+2023,12,Belgian Grand Prix,PIA,Oscar Piastri,McLaren,6,,,
+2023,12,Belgian Grand Prix,NOR,Lando Norris,McLaren,7,,,
+2023,12,Belgian Grand Prix,RUS,George Russell,Mercedes,8,,,
+2023,12,Belgian Grand Prix,ALO,Fernando Alonso,Aston Martin,9,,,
+2023,12,Belgian Grand Prix,STR,Lance Stroll,Aston Martin,10,,,
+2023,12,Belgian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,,,
+2023,12,Belgian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,,,
+2023,12,Belgian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,13,,,
+2023,12,Belgian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,14,,,
+2023,12,Belgian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,15,,,
+2023,12,Belgian Grand Prix,ALB,Alexander Albon,Williams,16,,,
+2023,12,Belgian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,17,,,
+2023,12,Belgian Grand Prix,SAR,Logan Sargeant,Williams,18,,,
+2023,12,Belgian Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,19,,,
+2023,12,Belgian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,20,,,
+2023,13,Dutch Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,13,Dutch Grand Prix,NOR,Lando Norris,McLaren,2,,,
+2023,13,Dutch Grand Prix,RUS,George Russell,Mercedes,3,,,
+2023,13,Dutch Grand Prix,ALB,Alexander Albon,Williams,4,,,
+2023,13,Dutch Grand Prix,ALO,Fernando Alonso,Aston Martin,5,,,
+2023,13,Dutch Grand Prix,SAI,Carlos Sainz,Ferrari,6,,,
+2023,13,Dutch Grand Prix,PER,Sergio Pérez,Red Bull,7,,,
+2023,13,Dutch Grand Prix,PIA,Oscar Piastri,McLaren,8,,,
+2023,13,Dutch Grand Prix,LEC,Charles Leclerc,Ferrari,9,,,
+2023,13,Dutch Grand Prix,SAR,Logan Sargeant,Williams,10,,,
+2023,13,Dutch Grand Prix,STR,Lance Stroll,Aston Martin,11,,,
+2023,13,Dutch Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,,,
+2023,13,Dutch Grand Prix,HAM,Lewis Hamilton,Mercedes,13,,,
+2023,13,Dutch Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,14,,,
+2023,13,Dutch Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,15,,,
+2023,13,Dutch Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,16,,,
+2023,13,Dutch Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,17,,,
+2023,13,Dutch Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,18,,,
+2023,13,Dutch Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,19,,,
+2023,13,Dutch Grand Prix,LAW,Liam Lawson,AlphaTauri,20,,,
+2023,14,Italian Grand Prix,SAI,Carlos Sainz,Ferrari,1,,,
+2023,14,Italian Grand Prix,VER,Max Verstappen,Red Bull,2,,,
+2023,14,Italian Grand Prix,LEC,Charles Leclerc,Ferrari,3,,,
+2023,14,Italian Grand Prix,RUS,George Russell,Mercedes,4,,,
+2023,14,Italian Grand Prix,PER,Sergio Pérez,Red Bull,5,,,
+2023,14,Italian Grand Prix,ALB,Alexander Albon,Williams,6,,,
+2023,14,Italian Grand Prix,PIA,Oscar Piastri,McLaren,7,,,
+2023,14,Italian Grand Prix,HAM,Lewis Hamilton,Mercedes,8,,,
+2023,14,Italian Grand Prix,NOR,Lando Norris,McLaren,9,,,
+2023,14,Italian Grand Prix,ALO,Fernando Alonso,Aston Martin,10,,,
+2023,14,Italian Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,,,
+2023,14,Italian Grand Prix,LAW,Liam Lawson,AlphaTauri,12,,,
+2023,14,Italian Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,13,,,
+2023,14,Italian Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,14,,,
+2023,14,Italian Grand Prix,SAR,Logan Sargeant,Williams,15,,,
+2023,14,Italian Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,16,,,
+2023,14,Italian Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,17,,,
+2023,14,Italian Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,18,,,
+2023,14,Italian Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,,,
+2023,14,Italian Grand Prix,STR,Lance Stroll,Aston Martin,20,,,
+2023,15,Singapore Grand Prix,SAI,Carlos Sainz,Ferrari,1,,,
+2023,15,Singapore Grand Prix,RUS,George Russell,Mercedes,2,,,
+2023,15,Singapore Grand Prix,LEC,Charles Leclerc,Ferrari,3,,,
+2023,15,Singapore Grand Prix,NOR,Lando Norris,McLaren,4,,,
+2023,15,Singapore Grand Prix,HAM,Lewis Hamilton,Mercedes,5,,,
+2023,15,Singapore Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,6,,,
+2023,15,Singapore Grand Prix,ALO,Fernando Alonso,Aston Martin,7,,,
+2023,15,Singapore Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,8,,,
+2023,15,Singapore Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,9,,,
+2023,15,Singapore Grand Prix,LAW,Liam Lawson,AlphaTauri,10,,,
+2023,15,Singapore Grand Prix,VER,Max Verstappen,Red Bull,11,,,
+2023,15,Singapore Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,,,
+2023,15,Singapore Grand Prix,PER,Sergio Pérez,Red Bull,13,,,
+2023,15,Singapore Grand Prix,ALB,Alexander Albon,Williams,14,,,
+2023,15,Singapore Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,15,,,
+2023,15,Singapore Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,16,,,
+2023,15,Singapore Grand Prix,PIA,Oscar Piastri,McLaren,17,,,
+2023,15,Singapore Grand Prix,SAR,Logan Sargeant,Williams,18,,,
+2023,15,Singapore Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,,,
+2023,15,Singapore Grand Prix,STR,Lance Stroll,Aston Martin,20,,,
+2023,16,Japanese Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,16,Japanese Grand Prix,PIA,Oscar Piastri,McLaren,2,,,
+2023,16,Japanese Grand Prix,NOR,Lando Norris,McLaren,3,,,
+2023,16,Japanese Grand Prix,LEC,Charles Leclerc,Ferrari,4,,,
+2023,16,Japanese Grand Prix,PER,Sergio Pérez,Red Bull,5,,,
+2023,16,Japanese Grand Prix,SAI,Carlos Sainz,Ferrari,6,,,
+2023,16,Japanese Grand Prix,HAM,Lewis Hamilton,Mercedes,7,,,
+2023,16,Japanese Grand Prix,RUS,George Russell,Mercedes,8,,,
+2023,16,Japanese Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,9,,,
+2023,16,Japanese Grand Prix,ALO,Fernando Alonso,Aston Martin,10,,,
+2023,16,Japanese Grand Prix,LAW,Liam Lawson,AlphaTauri,11,,,
+2023,16,Japanese Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,12,,,
+2023,16,Japanese Grand Prix,ALB,Alexander Albon,Williams,13,,,
+2023,16,Japanese Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,14,,,
+2023,16,Japanese Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,15,,,
+2023,16,Japanese Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,16,,,
+2023,16,Japanese Grand Prix,STR,Lance Stroll,Aston Martin,17,,,
+2023,16,Japanese Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,18,,,
+2023,16,Japanese Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,,,
 2023,16,Japanese Grand Prix,SAR,Logan Sargeant,Williams,20,,,
-2023,17,Qatar Grand Prix,VER,Max Verstappen,Red Bull,1,1:25.007,1:24.483,1:23.778
-2023,17,Qatar Grand Prix,RUS,George Russell,Mercedes,2,1:25.334,1:24.827,1:24.219
-2023,17,Qatar Grand Prix,HAM,Lewis Hamilton,Mercedes,3,1:26.076,1:24.381,1:24.305
-2023,17,Qatar Grand Prix,ALO,Fernando Alonso,Aston Martin,4,1:25.223,1:25.241,1:24.369
-2023,17,Qatar Grand Prix,LEC,Charles Leclerc,Ferrari,5,1:25.452,1:25.079,1:24.424
-2023,17,Qatar Grand Prix,PIA,Oscar Piastri,McLaren,6,1:25.266,1:24.724,1:24.540
-2023,17,Qatar Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,7,1:25.566,1:24.918,1:24.553
-2023,17,Qatar Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,8,1:25.711,1:24.928,1:24.763
-2023,17,Qatar Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,9,1:26.038,1:25.297,1:25.058
-2023,17,Qatar Grand Prix,NOR,Lando Norris,McLaren,10,1:25.131,1:24.685,
-2023,17,Qatar Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,1:26.058,1:25.301,
-2023,17,Qatar Grand Prix,SAI,Carlos Sainz,Ferrari,12,1:25.808,1:25.328,
-2023,17,Qatar Grand Prix,PER,Sergio Pérez,Red Bull,13,1:25.991,1:25.462,
-2023,17,Qatar Grand Prix,ALB,Alexander Albon,Williams,14,1:26.118,1:25.707,
-2023,17,Qatar Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,15,1:25.904,1:25.783,
-2023,17,Qatar Grand Prix,SAR,Logan Sargeant,Williams,16,1:26.210,,
-2023,17,Qatar Grand Prix,STR,Lance Stroll,Aston Martin,17,1:26.345,,
-2023,17,Qatar Grand Prix,LAW,Liam Lawson,AlphaTauri,18,1:26.635,,
-2023,17,Qatar Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,1:27.046,,
-2023,17,Qatar Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,20,1:27.432,,
-2023,18,United States Grand Prix,LEC,Charles Leclerc,Ferrari,1,1:36.061,1:35.004,1:34.723
-2023,18,United States Grand Prix,NOR,Lando Norris,McLaren,2,1:35.110,1:35.441,1:34.853
-2023,18,United States Grand Prix,HAM,Lewis Hamilton,Mercedes,3,1:35.091,1:35.240,1:34.862
-2023,18,United States Grand Prix,SAI,Carlos Sainz,Ferrari,4,1:35.824,1:35.302,1:34.945
-2023,18,United States Grand Prix,RUS,George Russell,Mercedes,5,1:36.165,1:35.606,1:35.079
-2023,18,United States Grand Prix,VER,Max Verstappen,Red Bull,6,1:35.346,1:35.008,1:35.081
-2023,18,United States Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,7,1:36.158,1:35.496,1:35.089
-2023,18,United States Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,8,1:36.131,1:35.413,1:35.154
-2023,18,United States Grand Prix,PER,Sergio Pérez,Red Bull,9,1:35.989,1:35.679,1:35.173
-2023,18,United States Grand Prix,PIA,Oscar Piastri,McLaren,10,1:36.064,1:35.576,1:35.467
-2023,18,United States Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,1:35.913,1:35.697,
-2023,18,United States Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,12,1:36.052,1:35.698,
-2023,18,United States Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,13,1:36.082,1:35.858,
-2023,18,United States Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,14,1:36.009,1:35.880,
-2023,18,United States Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,15,1:36.213,1:35.974,
-2023,18,United States Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,16,1:36.235,,
-2023,18,United States Grand Prix,ALO,Fernando Alonso,Aston Martin,17,1:36.268,,
-2023,18,United States Grand Prix,ALB,Alexander Albon,Williams,18,1:36.315,,
-2023,18,United States Grand Prix,STR,Lance Stroll,Aston Martin,19,1:36.589,,
-2023,18,United States Grand Prix,SAR,Logan Sargeant,Williams,20,1:36.827,,
-2023,19,Mexico City Grand Prix,LEC,Charles Leclerc,Ferrari,1,1:18.401,1:17.901,1:17.166
-2023,19,Mexico City Grand Prix,SAI,Carlos Sainz,Ferrari,2,1:18.755,1:18.382,1:17.233
-2023,19,Mexico City Grand Prix,VER,Max Verstappen,Red Bull,3,1:18.099,1:17.625,1:17.263
-2023,19,Mexico City Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,4,1:18.341,1:17.706,1:17.382
-2023,19,Mexico City Grand Prix,PER,Sergio Pérez,Red Bull,5,1:18.553,1:18.124,1:17.423
-2023,19,Mexico City Grand Prix,HAM,Lewis Hamilton,Mercedes,6,1:18.677,1:17.571,1:17.454
-2023,19,Mexico City Grand Prix,PIA,Oscar Piastri,McLaren,7,1:18.241,1:17.874,1:17.623
-2023,19,Mexico City Grand Prix,RUS,George Russell,Mercedes,8,1:18.893,1:17.673,1:17.674
-2023,19,Mexico City Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,9,1:18.429,1:18.016,1:18.032
-2023,19,Mexico City Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,10,1:19.016,1:18.440,1:18.050
-2023,19,Mexico City Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,11,1:18.945,1:18.521,
-2023,19,Mexico City Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,12,1:18.969,1:18.524,
-2023,19,Mexico City Grand Prix,ALO,Fernando Alonso,Aston Martin,13,1:18.848,1:18.738,
-2023,19,Mexico City Grand Prix,ALB,Alexander Albon,Williams,14,1:18.828,1:19.147,
-2023,19,Mexico City Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,15,1:18.890,,
-2023,19,Mexico City Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,16,1:19.080,,
-2023,19,Mexico City Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,1:19.163,,
-2023,19,Mexico City Grand Prix,STR,Lance Stroll,Aston Martin,18,1:19.227,,
-2023,19,Mexico City Grand Prix,NOR,Lando Norris,McLaren,19,1:21.554,,
+2023,17,Qatar Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,17,Qatar Grand Prix,RUS,George Russell,Mercedes,2,,,
+2023,17,Qatar Grand Prix,HAM,Lewis Hamilton,Mercedes,3,,,
+2023,17,Qatar Grand Prix,ALO,Fernando Alonso,Aston Martin,4,,,
+2023,17,Qatar Grand Prix,LEC,Charles Leclerc,Ferrari,5,,,
+2023,17,Qatar Grand Prix,PIA,Oscar Piastri,McLaren,6,,,
+2023,17,Qatar Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,7,,,
+2023,17,Qatar Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,8,,,
+2023,17,Qatar Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,9,,,
+2023,17,Qatar Grand Prix,NOR,Lando Norris,McLaren,10,,,
+2023,17,Qatar Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,,,
+2023,17,Qatar Grand Prix,SAI,Carlos Sainz,Ferrari,12,,,
+2023,17,Qatar Grand Prix,PER,Sergio Pérez,Red Bull,13,,,
+2023,17,Qatar Grand Prix,ALB,Alexander Albon,Williams,14,,,
+2023,17,Qatar Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,15,,,
+2023,17,Qatar Grand Prix,SAR,Logan Sargeant,Williams,16,,,
+2023,17,Qatar Grand Prix,STR,Lance Stroll,Aston Martin,17,,,
+2023,17,Qatar Grand Prix,LAW,Liam Lawson,AlphaTauri,18,,,
+2023,17,Qatar Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,19,,,
+2023,17,Qatar Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,20,,,
+2023,18,United States Grand Prix,LEC,Charles Leclerc,Ferrari,1,,,
+2023,18,United States Grand Prix,NOR,Lando Norris,McLaren,2,,,
+2023,18,United States Grand Prix,HAM,Lewis Hamilton,Mercedes,3,,,
+2023,18,United States Grand Prix,SAI,Carlos Sainz,Ferrari,4,,,
+2023,18,United States Grand Prix,RUS,George Russell,Mercedes,5,,,
+2023,18,United States Grand Prix,VER,Max Verstappen,Red Bull,6,,,
+2023,18,United States Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,7,,,
+2023,18,United States Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,8,,,
+2023,18,United States Grand Prix,PER,Sergio Pérez,Red Bull,9,,,
+2023,18,United States Grand Prix,PIA,Oscar Piastri,McLaren,10,,,
+2023,18,United States Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,11,,,
+2023,18,United States Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,12,,,
+2023,18,United States Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,13,,,
+2023,18,United States Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,14,,,
+2023,18,United States Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,15,,,
+2023,18,United States Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,16,,,
+2023,18,United States Grand Prix,ALO,Fernando Alonso,Aston Martin,17,,,
+2023,18,United States Grand Prix,ALB,Alexander Albon,Williams,18,,,
+2023,18,United States Grand Prix,STR,Lance Stroll,Aston Martin,19,,,
+2023,18,United States Grand Prix,SAR,Logan Sargeant,Williams,20,,,
+2023,19,Mexico City Grand Prix,LEC,Charles Leclerc,Ferrari,1,,,
+2023,19,Mexico City Grand Prix,SAI,Carlos Sainz,Ferrari,2,,,
+2023,19,Mexico City Grand Prix,VER,Max Verstappen,Red Bull,3,,,
+2023,19,Mexico City Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,4,,,
+2023,19,Mexico City Grand Prix,PER,Sergio Pérez,Red Bull,5,,,
+2023,19,Mexico City Grand Prix,HAM,Lewis Hamilton,Mercedes,6,,,
+2023,19,Mexico City Grand Prix,PIA,Oscar Piastri,McLaren,7,,,
+2023,19,Mexico City Grand Prix,RUS,George Russell,Mercedes,8,,,
+2023,19,Mexico City Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,9,,,
+2023,19,Mexico City Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,10,,,
+2023,19,Mexico City Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,11,,,
+2023,19,Mexico City Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,12,,,
+2023,19,Mexico City Grand Prix,ALO,Fernando Alonso,Aston Martin,13,,,
+2023,19,Mexico City Grand Prix,ALB,Alexander Albon,Williams,14,,,
+2023,19,Mexico City Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,15,,,
+2023,19,Mexico City Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,16,,,
+2023,19,Mexico City Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,,,
+2023,19,Mexico City Grand Prix,STR,Lance Stroll,Aston Martin,18,,,
+2023,19,Mexico City Grand Prix,NOR,Lando Norris,McLaren,19,,,
 2023,19,Mexico City Grand Prix,SAR,Logan Sargeant,Williams,20,,,
-2023,20,São Paulo Grand Prix,VER,Max Verstappen,Red Bull,1,1:10.436,1:10.162,1:10.727
-2023,20,São Paulo Grand Prix,LEC,Charles Leclerc,Ferrari,2,1:10.472,1:10.303,1:11.021
-2023,20,São Paulo Grand Prix,STR,Lance Stroll,Aston Martin,3,1:10.551,1:10.375,1:11.344
-2023,20,São Paulo Grand Prix,ALO,Fernando Alonso,Aston Martin,4,1:10.557,1:10.237,1:11.387
-2023,20,São Paulo Grand Prix,HAM,Lewis Hamilton,Mercedes,5,1:10.604,1:10.266,1:11.469
-2023,20,São Paulo Grand Prix,RUS,George Russell,Mercedes,6,1:10.340,1:10.316,1:11.590
-2023,20,São Paulo Grand Prix,NOR,Lando Norris,McLaren,7,1:10.623,1:10.021,1:11.987
-2023,20,São Paulo Grand Prix,SAI,Carlos Sainz,Ferrari,8,1:10.624,1:10.254,1:11.989
-2023,20,São Paulo Grand Prix,PER,Sergio Pérez,Red Bull,9,1:10.668,1:10.219,1:12.321
-2023,20,São Paulo Grand Prix,PIA,Oscar Piastri,McLaren,10,1:10.519,1:10.330,
-2023,20,São Paulo Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,11,1:10.475,1:10.547,
-2023,20,São Paulo Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,1:10.763,1:10.562,
-2023,20,São Paulo Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,13,1:10.793,1:10.567,
-2023,20,São Paulo Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,14,1:10.602,1:10.723,
-2023,20,São Paulo Grand Prix,ALB,Alexander Albon,Williams,15,1:10.621,1:10.840,
-2023,20,São Paulo Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,1:10.837,,
-2023,20,São Paulo Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,17,1:10.843,,
-2023,20,São Paulo Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,18,1:10.955,,
-2023,20,São Paulo Grand Prix,SAR,Logan Sargeant,Williams,19,1:11.035,,
-2023,20,São Paulo Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,20,1:11.275,,
-2023,21,Las Vegas Grand Prix,LEC,Charles Leclerc,Ferrari,1,1:33.617,1:32.775,1:32.726
-2023,21,Las Vegas Grand Prix,SAI,Carlos Sainz,Ferrari,2,1:33.851,1:33.338,1:32.770
-2023,21,Las Vegas Grand Prix,VER,Max Verstappen,Red Bull,3,1:34.190,1:33.572,1:33.104
-2023,21,Las Vegas Grand Prix,RUS,George Russell,Mercedes,4,1:34.137,1:33.351,1:33.112
-2023,21,Las Vegas Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,5,1:34.272,1:33.494,1:33.239
-2023,21,Las Vegas Grand Prix,ALB,Alexander Albon,Williams,6,1:34.634,1:33.588,1:33.323
-2023,21,Las Vegas Grand Prix,SAR,Logan Sargeant,Williams,7,1:34.525,1:33.733,1:33.513
-2023,21,Las Vegas Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,8,1:34.305,1:33.809,1:33.525
-2023,21,Las Vegas Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,9,1:34.337,1:33.664,1:33.537
-2023,21,Las Vegas Grand Prix,ALO,Fernando Alonso,Aston Martin,10,1:34.422,1:33.617,1:33.555
-2023,21,Las Vegas Grand Prix,HAM,Lewis Hamilton,Mercedes,11,1:34.307,1:33.837,
-2023,21,Las Vegas Grand Prix,PER,Sergio Pérez,Red Bull,12,1:34.574,1:33.855,
-2023,21,Las Vegas Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,13,1:34.265,1:33.979,
-2023,21,Las Vegas Grand Prix,STR,Lance Stroll,Aston Martin,14,1:34.504,1:34.199,
-2023,21,Las Vegas Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,15,1:34.683,1:34.308,
-2023,21,Las Vegas Grand Prix,NOR,Lando Norris,McLaren,16,1:34.703,,
-2023,21,Las Vegas Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,17,1:34.834,,
-2023,21,Las Vegas Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,18,1:34.849,,
-2023,21,Las Vegas Grand Prix,PIA,Oscar Piastri,McLaren,19,1:34.850,,
-2023,21,Las Vegas Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,20,1:36.447,,
-2023,22,Abu Dhabi Grand Prix,VER,Max Verstappen,Red Bull,1,1:24.160,1:23.740,1:23.445
-2023,22,Abu Dhabi Grand Prix,LEC,Charles Leclerc,Ferrari,2,1:24.459,1:23.969,1:23.584
-2023,22,Abu Dhabi Grand Prix,PIA,Oscar Piastri,McLaren,3,1:24.487,1:24.278,1:23.782
-2023,22,Abu Dhabi Grand Prix,RUS,George Russell,Mercedes,4,1:24.337,1:24.013,1:23.788
-2023,22,Abu Dhabi Grand Prix,NOR,Lando Norris,McLaren,5,1:24.368,1:23.920,1:23.816
-2023,22,Abu Dhabi Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,6,1:24.286,1:24.207,1:23.968
-2023,22,Abu Dhabi Grand Prix,ALO,Fernando Alonso,Aston Martin,7,1:24.501,1:24.131,1:24.084
-2023,22,Abu Dhabi Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,8,1:24.425,1:24.213,1:24.108
-2023,22,Abu Dhabi Grand Prix,PER,Sergio Pérez,Red Bull,9,1:24.209,1:24.116,1:24.171
-2023,22,Abu Dhabi Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,10,1:24.600,1:24.078,1:24.548
-2023,22,Abu Dhabi Grand Prix,HAM,Lewis Hamilton,Mercedes,11,1:24.437,1:24.359,
-2023,22,Abu Dhabi Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,1:24.565,1:24.391,
-2023,22,Abu Dhabi Grand Prix,STR,Lance Stroll,Aston Martin,13,1:24.405,1:24.422,
-2023,22,Abu Dhabi Grand Prix,ALB,Alexander Albon,Williams,14,1:24.298,1:24.439,
-2023,22,Abu Dhabi Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,15,1:24.461,1:24.442,
-2023,22,Abu Dhabi Grand Prix,SAI,Carlos Sainz,Ferrari,16,1:24.738,,
-2023,22,Abu Dhabi Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,1:24.764,,
-2023,22,Abu Dhabi Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,18,1:24.788,,
-2023,22,Abu Dhabi Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,1:25.159,,
+2023,20,São Paulo Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,20,São Paulo Grand Prix,LEC,Charles Leclerc,Ferrari,2,,,
+2023,20,São Paulo Grand Prix,STR,Lance Stroll,Aston Martin,3,,,
+2023,20,São Paulo Grand Prix,ALO,Fernando Alonso,Aston Martin,4,,,
+2023,20,São Paulo Grand Prix,HAM,Lewis Hamilton,Mercedes,5,,,
+2023,20,São Paulo Grand Prix,RUS,George Russell,Mercedes,6,,,
+2023,20,São Paulo Grand Prix,NOR,Lando Norris,McLaren,7,,,
+2023,20,São Paulo Grand Prix,SAI,Carlos Sainz,Ferrari,8,,,
+2023,20,São Paulo Grand Prix,PER,Sergio Pérez,Red Bull,9,,,
+2023,20,São Paulo Grand Prix,PIA,Oscar Piastri,McLaren,10,,,
+2023,20,São Paulo Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,11,,,
+2023,20,São Paulo Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,,,
+2023,20,São Paulo Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,13,,,
+2023,20,São Paulo Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,14,,,
+2023,20,São Paulo Grand Prix,ALB,Alexander Albon,Williams,15,,,
+2023,20,São Paulo Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,16,,,
+2023,20,São Paulo Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,17,,,
+2023,20,São Paulo Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,18,,,
+2023,20,São Paulo Grand Prix,SAR,Logan Sargeant,Williams,19,,,
+2023,20,São Paulo Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,20,,,
+2023,21,Las Vegas Grand Prix,LEC,Charles Leclerc,Ferrari,1,,,
+2023,21,Las Vegas Grand Prix,SAI,Carlos Sainz,Ferrari,2,,,
+2023,21,Las Vegas Grand Prix,VER,Max Verstappen,Red Bull,3,,,
+2023,21,Las Vegas Grand Prix,RUS,George Russell,Mercedes,4,,,
+2023,21,Las Vegas Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,5,,,
+2023,21,Las Vegas Grand Prix,ALB,Alexander Albon,Williams,6,,,
+2023,21,Las Vegas Grand Prix,SAR,Logan Sargeant,Williams,7,,,
+2023,21,Las Vegas Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,8,,,
+2023,21,Las Vegas Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,9,,,
+2023,21,Las Vegas Grand Prix,ALO,Fernando Alonso,Aston Martin,10,,,
+2023,21,Las Vegas Grand Prix,HAM,Lewis Hamilton,Mercedes,11,,,
+2023,21,Las Vegas Grand Prix,PER,Sergio Pérez,Red Bull,12,,,
+2023,21,Las Vegas Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,13,,,
+2023,21,Las Vegas Grand Prix,STR,Lance Stroll,Aston Martin,14,,,
+2023,21,Las Vegas Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,15,,,
+2023,21,Las Vegas Grand Prix,NOR,Lando Norris,McLaren,16,,,
+2023,21,Las Vegas Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,17,,,
+2023,21,Las Vegas Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,18,,,
+2023,21,Las Vegas Grand Prix,PIA,Oscar Piastri,McLaren,19,,,
+2023,21,Las Vegas Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,20,,,
+2023,22,Abu Dhabi Grand Prix,VER,Max Verstappen,Red Bull,1,,,
+2023,22,Abu Dhabi Grand Prix,LEC,Charles Leclerc,Ferrari,2,,,
+2023,22,Abu Dhabi Grand Prix,PIA,Oscar Piastri,McLaren,3,,,
+2023,22,Abu Dhabi Grand Prix,RUS,George Russell,Mercedes,4,,,
+2023,22,Abu Dhabi Grand Prix,NOR,Lando Norris,McLaren,5,,,
+2023,22,Abu Dhabi Grand Prix,TSU,Yuki Tsunoda,AlphaTauri,6,,,
+2023,22,Abu Dhabi Grand Prix,ALO,Fernando Alonso,Aston Martin,7,,,
+2023,22,Abu Dhabi Grand Prix,HUL,Nico Hülkenberg,Haas F1 Team,8,,,
+2023,22,Abu Dhabi Grand Prix,PER,Sergio Pérez,Red Bull,9,,,
+2023,22,Abu Dhabi Grand Prix,GAS,Pierre Gasly,Alpine F1 Team,10,,,
+2023,22,Abu Dhabi Grand Prix,HAM,Lewis Hamilton,Mercedes,11,,,
+2023,22,Abu Dhabi Grand Prix,OCO,Esteban Ocon,Alpine F1 Team,12,,,
+2023,22,Abu Dhabi Grand Prix,STR,Lance Stroll,Aston Martin,13,,,
+2023,22,Abu Dhabi Grand Prix,ALB,Alexander Albon,Williams,14,,,
+2023,22,Abu Dhabi Grand Prix,RIC,Daniel Ricciardo,AlphaTauri,15,,,
+2023,22,Abu Dhabi Grand Prix,SAI,Carlos Sainz,Ferrari,16,,,
+2023,22,Abu Dhabi Grand Prix,MAG,Kevin Magnussen,Haas F1 Team,17,,,
+2023,22,Abu Dhabi Grand Prix,BOT,Valtteri Bottas,Alfa Romeo,18,,,
+2023,22,Abu Dhabi Grand Prix,ZHO,Guanyu Zhou,Alfa Romeo,19,,,
 2023,22,Abu Dhabi Grand Prix,SAR,Logan Sargeant,Williams,20,,,

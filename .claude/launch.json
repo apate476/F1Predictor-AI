@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "frontend",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd frontend && node node_modules/vite/bin/vite.js --port 5173"],
+      "port": 5173
+    },
+    {
+      "name": "backend",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd backend && ..\\venv\\Scripts\\python.exe main.py"],
+      "port": 8000
+    }
+  ]
+}

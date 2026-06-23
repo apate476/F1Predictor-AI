@@ -1,6 +1,5 @@
-# ================================================================
 # POLEPOSITION AI — FastAPI Backend
-# ================================================================
+
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 from agents.orchestrator import create_orchestrator
@@ -10,6 +9,7 @@ from tools.championship_tools import (
 )
 from tools.race_tools import get_race_winner_probs
 from tools.driver_tools import get_driver_profile
+from tools.career_tools import get_career_stats
 from tools.data_loader import DRIVERS, RACE_NAMES, DRIVER_NAMES, TEAM_MAP
 import json
 
@@ -45,6 +45,25 @@ async def drivers():
 @app.get("/api/driver/{driver_code}")
 async def driver(driver_code: str):
     return get_driver_profile(driver_code)
+
+@app.get("/api/driver/{driver_code}/career")
+async def driver_career(driver_code: str):
+    """
+    Returns career stats from Jolpica (wins, poles, podiums, etc.)
+    combined with 2026 prediction data.
+    Results are cached in memory after first fetch.
+    """
+    career = await get_career_stats(driver_code.upper())
+    if not career:
+        return {"error": f"No data found for driver {driver_code}"}
+
+    # Merge with our prediction data
+    prediction = get_driver_profile(driver_code.upper())
+
+    return {
+        "career":     career,
+        "prediction": prediction,
+    }
 
 @app.get("/api/race/{race_name}")
 async def race(race_name: str):
